@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>City Year Assessments Toolkit</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+</head>
+
+
+<body>
+  <div id="app">Loading ...</div>
+  <script>  
+    window.$docsify = {
+      name: 'CYLA Assessments Toolkit',
+      repo: 'https://github.com/karenmjiang/CYLA_Assessments_Toolkit',
+      logo: '/_images/logo-cy-patch.png',
+
+      coverpage: true,
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      search: 'auto',
+
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'material', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
+
+      'flexible-alerts': {
+        style: 'flat'
+      },
+       renderer: {
+            image: function(href, title) {
+              return `<img src="${href}"/>`
+            }
+        },
+
+    }
+  </script>
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+  <script src="src/docsify-pdf-embed.js"></script>
+  <script src="path-to-file/docsify-pdf-embed.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
+  <!-- docsify (latest v4.x.x)-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+
+</body>
+</html>
