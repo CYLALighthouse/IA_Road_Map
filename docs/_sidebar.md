@@ -7,7 +7,7 @@
     - [IA Roles](ia_roles.md) 
 
 - Links to Bookmark
-    - [Hotlinks] (links.mn)
+    - [Hotlinks] (links.md)
 
 - Analytics Tasks by Quarter
     - [IA Team Timeline](iatimeline.md)
