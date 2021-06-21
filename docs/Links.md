@@ -6,6 +6,7 @@
 
 >-https://cityyear.sharepoint.com/SitePages/Home.aspx
 >-https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx
+
 ## Office 365
 
 Before the close of the year, we need to confirm that all time entry in ELT, T2ST and T1ST has been backlogged and is up to date. We don’t want an ACM to graduate with a week’s left of T2ST not backlogged. PMs should work with their teams to confirm the following:
