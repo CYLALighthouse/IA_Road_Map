@@ -10,8 +10,9 @@
     - [IA Team Timeline](iatimeline.md)
     - [Quarter 1: Summer Planning](q1.md)
     - [Quarter 2: Starting Strong](q2.md)
-    - [Quarter 3: Q4 Continuring Strong](q3.md)
-    
+    - [Quarter 3: Continuing Strong](q3.md)
+    - [Quarter 4: Finishing Strong](q4.md)
+
 - Training an Resources
     - [CACME](cacme.md)
     - [CYSH](cysh.md)
