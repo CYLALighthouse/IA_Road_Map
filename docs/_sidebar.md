@@ -8,12 +8,11 @@
 
 - Analytics Tasks by Quarter
     - [Links to Bookmark](links.md)
-    
-    - [IA Team Timeline](iatimeline.md)
     - [Quarter 1: Summer Planning](q1.md)
     - [Quarter 2: Starting Strong](q2.md)
     - [Quarter 3: Continuing Strong](q3.md)
     - [Quarter 4: Finishing Strong](q4.md)
+    - [IA Team Timeline](iatimeline.md)
 
 - Training an Resources
     - [CACME](cacme.md)
