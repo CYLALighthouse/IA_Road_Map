@@ -3,21 +3,36 @@
 July - August
 
 #### Manager Checklist
->- [ ] Engage incoming ACMs on your team via the CACME PowerApp
->     - Directions [here](cacme.md)
->- [ ] Work with Analytics to ensure teacher data is available
->     - More information in section below
->     - Run school level teacher classes reports (LAUSD)
->     - Work with school partners to confirm Data Use Agreement signed (IUSD) 
+>>- [ ] Engage incoming ACMs on your team via the CACME PowerApp
+>      - Directions [here](cacme.md)
+>- [ ] Work with Analytics to ensure *teacher* data is available
+>      - More information in section below
+>      - Run school level teacher classes reports (LAUSD)
+>      - Work with school partners to confirm Data Use Agreement signed (IUSD) 
 >- [ ] Complete a draft version of ACM in Class Deployment
->     - This is a placeholder for the real In Class Deployment tool that helps the Analytics team securely scope data to just those who need to see it.
->       - Download [Draft Elementary ACM Deployment](https://bit.ly/3vyxqcv) 
->       - Download [Draft Secondary ACM Deployment](https://bit.ly/3vyxqcv)
+>      - This is a placeholder for the real In Class Deployment tool that helps the Analytics team securely scope data to just those who need to see it.
+>           - Download [Draft Elementary ACM Deployment](https://bit.ly/3vyxqcv) 
+>           - Download [Draft Secondary ACM Deployment](https://bit.ly/3vyxqcv)
 >- [ ] Support corps members observing students in their classes
->     - Observations will ultimately support student interventions and selection of the focus list
->     - Use the resources listed below to assits ACMs in selecting focus list students
-        - What Makes a Good Focus List Checklist (insert link to document here)
-        - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
+>      - Observations will ultimately support student interventions and selection of the focus list
+>      - Use the resources listed below to assits ACMs in selecting focus list students
+>           - What Makes a Good Focus List Checklist
+>           - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
+>- [ ] Check in with your TL to review ELT data processes
+>      - More info about ELT data steps to be found here later
+>- [ ] Complete the final ACM in Class Deployment tool when it becomes available
+>      - This should be a copy paste experience for the most part
+>- [ ] Support corps members observing students in their classes
+>      - Observations will ultimately support student interventions and selection of the focus list
+>- [ ] Ensure ACMs participate in Q1 ACME Survey from HQ
+>      - Some key feedback is provided in this survey and having high response rates is important
+>      - You should have access to CultureAmp to view results as they come in
+>      - Exact date of the survey is TBD
+>- [ ] Train ACMs on the Focus List Process and begin selections at your own pace
+>      - Trainings can be found here and here
+>- [ ] (Optional) Prepare for HMH assessment if your school opted in
+>      - The return to school service during the pandemic may not allow for testing
+>      -	Without HMH your goals will be measured by grades at secondary and Marks at elementary (If data is available)
 
 
 # Getting Teacher & Student Data
