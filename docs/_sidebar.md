@@ -6,10 +6,8 @@
     - [Agency in IA](ia_agency.md)
     - [IA Roles](ia_roles.md) 
 
-- Links to Bookmark
-    - [IA Team Timeline](links.md)
-
 - Analytics Tasks by Quarter
+    - [Links to Bookmark](links.md)
     - [IA Team Timeline](iatimeline.md)
     - [Quarter 1: Summer Planning](q1.md)
     - [Quarter 2: Starting Strong](q2.md)
