@@ -4,8 +4,8 @@
 
 ### CYconnect
 
->-https://cityyear.sharepoint.com/SitePages/Home.aspx
->-https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx
+>- Download [CYConnect Home](https://cityyear.sharepoint.com/SitePages/Home.aspx)
+>- Download [Power BI Home](https://app.powerbi.com/home)
 
 ## Office 365
 
@@ -17,4 +17,3 @@ Before the close of the year, we need to confirm that all time entry in ELT, T2S
 <p align="center">
 <img src="_images/pbi-validation.PNG" alt="Power BI_Validation_pg" style="width:80%;"/>
 </p>
-
