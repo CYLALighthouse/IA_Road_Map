@@ -1,45 +1,47 @@
-# Links to Bookmark
+# Key Links to Bookmarks
 
-<body><h3 style="background-color:darkturquoise;"><c style=color:white;">July - August</h3></body>
+<body><h3 style="background-color:darkslateblue;"><c style=color:white;">CYConnect</h3></body>
 
-## Getting Teacher Data
+[CYConnect Home](https://cityyear.sharepoint.com/SitePages/Home.aspx) (Main CYConnect homepage) 
 
-Data is key to much of what the Analytics team does each year but as a contractor for the district we can only get a limited scope of data and it must be stored securely. For both of our school districts the process of getting student data is different. See your school district below for more specifics on how to get school specific data for ACM deployment, focus lists and ELT.
+[CYLA L&I Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx) (Learning and Development library) 
 
-### Los Angeles Unified School District
+[Progress Monitoring Library](https://bit.ly/3xbXCuE) (Location for ACMs to find workbooks) 
 
-In June CYLA should communicate to LAUSD Office of Data and Accountability about re-establishing a data use contract for the coming school year. *This process has been historically slow and should be started as soon as possible*
+[School Dashboards](https://bit.ly/3qANGbB) (Location for PMs to find workbooks) 
 
-1. Program Directors (PDs) and or Program Managers (Pms) should assist in this process by asking their partners to run a teacher schedule report. Teacher schedule reports should be uploaded here and then an email should be sent to the IA team. ()
-   - Download directions for pulling teacher schedule report for your partner teachers here.
+[Okta login](https://cityyear.okta.com/app/UserHome) (Okta Login for City Year)
 
-2. Pms should fill out a draft depoyment workbook to assign ACMs to class lines as they wait for teacher schedule reports from their school. Directions on how to get and use a draft deployment workbook can be foud in the section below.
-   - Use Team Demographics Dashboard to help you place ACMs into class lines 
+<body><h3 style="background-color:darkslateblue;"><c style=color:white;">Office 365</h3></body>
 
+[Outlook](https://outlook.office.com/mail/inbox) (Online outlook for emails) 
 
-### Inglewood Unified School District
+[Teams](https://teams.microsoft.com/_) (Online version of teams) 
 
-Inglewood uses a data platform called Schoolzilla to manage their data. City Year uses Schoolzilla to access student performance data for your schools. Sometime in the first quarter the Analytics team will provide a training specifically for IUSD schools on how to access Schoolzilla for viewing student performance data.
+[SharePoint](https://cityyear.sharepoint.com/_layouts/15/sharepoint.aspx?) (View for sites you have access to)
 
-1. Pms should fill out a draft depoyment workbook to assign ACMs to class lines. Directions on how to get and use a draft deployment workbook can be foud in the section below.
-   - Use Team Demographics Dashboard to help you place ACMs into class lines
+<body><h3 style="background-color:darkslateblue;"><c style=color:white;">Power BI</h3></body>
 
+[Power BI Home](https://app.powerbi.com/groups/me/apps) (Homepage for Power BI) 
 
-## Draft Deployment Workbook
+[CYLA WSWC Dashboards](https://bit.ly/2UdmyDn) (Link to WSWC Dashboard App for student progress monitoring) 
 
-In the summer, as you plan with partners where ACMs will be placed into class lines, please fill out a copy of the draft deployment workbook. The IA team has build out the Team Demographics Dashboard to assist with this process by providing information that might help with assigning class lines. See the section below for more info on the dashboard.
+[CYLA Site Reports](https://bit.ly/3y1j05u) (Link to Staff site level current year analytics) 
 
-This workbook will be a placeholder for the Final Deployment Workbook that will be released when you have submitted a teacher schedule report. The final workbook will then become a key part of our data model and will be used to get access to student data from those specified class lines. Without a draft or final deployment, our team will not be able to access data for students in ACM classes, please complete by: (XX/XX/XXXX).
+[CYLA Survey Results](https://bit.ly/2TjmAcD) (Link to site survey results data) 
 
->- Download [Draft Elementary ACM Deployment](https://bit.ly/3vyxqcv) 
->- Download [Draft Secondary ACM Deployment](https://bit.ly/3vyxqcv)
+[CYLA Longitudinal Data](https://bit.ly/3jt4yzk) (Link to historical student data)
 
-### Team Demographics Dashboard
+<body><h3 style="background-color:darkslateblue;"><c style=color:white;">Other Links</h3></body>
 
+[Staff Cyschoolhouse](https://na82.salesforce.com/home/home.jsp) (Website for Time Tracking and Focus List Management)
 
-## Support ACMs w/FL
+[Assessments Toolkit](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/) (Website for assessment training and logistics) 
 
+[HMH Staff Login](https://h100002412.education.scholastic.com/ScholasticCentral) (Link to HMH assessments staff login) 
 
+[HMH Student Login](https://h100002412.education.scholastic.com/slms/studentaccess) (Link to HMH student assessment portal) 
 
-### What Makes a Good Focus List?
+[HMH Retest Request](https://bit.ly/2SGktiU) (To reset student HMH scores) 
 
+[DESSA Staff/ACM Login](https://sel.datalinkevo.com/#/login) (Link to DESSA staff rater login) 

@@ -9,4 +9,3 @@ To edit this document:
 4. Commit and push new changes!
 
 To learn Markdown, visit this [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for more information.
-This is a test...

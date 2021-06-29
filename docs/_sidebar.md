@@ -1,25 +1,23 @@
 <!-- _sidebar.md -->
-- Intro to Impact Analytics
+- About Impact Analytics
     - [Getting Started](README.md)
-    - [Who is IA](ia_who.md)
     - [What is IA](ia_what.md)
+    - [Who is IA](ia_who.md)
     - [Agency in IA](ia_agency.md)
-    - [IA Roles](ia_roles.md) 
-
-- Analytics Tasks by Quarter
-    - [Links to Bookmark](links.md)
-    - [Quarter 1: Summer Planning](q1.md)
-    - [Quarter 2: Starting Strong](q2.md)
-    - [Quarter 3: Continuing Strong](q3.md)
-    - [Quarter 4: Finishing Strong](q4.md)
     - [IA Team Timeline](iatimeline.md)
 
-- Training an Resources
+- Analytics Tasks by Quarter
+    - [Info](analyticsbyquarter.md)
+    - [Q1: Summer Planning](q1.md)
+    - [Q2: Starting Strong](q2.md)
+    - [Q3: Continuing Strong](q3.md)
+    - [Q4: Finishing Strong](q4.md)
+
+- Trainings an Resources by IA
+    - [Links to Bookmarks](links.md)
     - [CACME](cacme.md)
     - [CYSH](cysh.md)
     - [Extended Learning Time](elt.md)
     - [Power Apps](pwrapps.md)
-
-- Supplemental Attachments
-    - [L&D Library](l&d.md)
     - [FAQs](faq.md)
+- Supplemental Materials

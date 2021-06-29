@@ -10,9 +10,5 @@
 - Date Created: 5/27/2021
 
 [Get Started](README.md)
-[Cyschoolhouse](https://na82.salesforce.com/home/home.jsp)
-[IA Stream Channel](https://h100002412.education.scholastic.com/)
-[IA Newslettes]()  
-
-
+  
 <img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>

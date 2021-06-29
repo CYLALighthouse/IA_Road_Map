@@ -19,13 +19,14 @@ Team leaders will be the people that Impact Analytics reaches out to when ELT ap
 |     Ensures a high quality ELT program              |     Manager            |     Owner          |     Helper          |
 
 ## ELT Proccess
-### Applications
+### ELT Applications
 As part of our data agreement with LAUSD all students will need to have an ELT application on file BEFORE attending after school programming in FY22. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). To ensure that we are protecting ourselves legally AND that we are keeping students safe by having emergency contact information on hand for our students we will need all students to have an ELT application and to have that application digitized into the ELT workbooks on Cyconnect.
 To learn more about the applications processes see [this video.]()
 
 ### ELT Workbooks
 
 Part of the role of a team leader will be to ensure all ELT applications, student enrollment and time in and out is recorded daily on the Analytics provided Extended Learning Time Workbooks. The two main purposes of these ELT workbooks are to verify student ELT applications and to provide a space for tracking program attendance so that we can determine if our program is meeting our desired outcomes.
+
 ELT workbooks should be available to team leaders in early August and specific trainings for team leaders will be upcoming. Come back for links to said trainings and resources later.
 
 ## ELT Data Entry and Roles Checklist

@@ -8,9 +8,12 @@ If you would like to make improvements or request new content for this site, ple
 
 ## Resources
 
-- [L&D Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx)
+- [FY22 Omnibus](https://bit.ly/2SAPhBr)
+- [Links to Bookmarks](links.md)
 - [IA Newsletters](https://bit.ly/2S2Y3rx)
-- [IA Stream Channel](https://web.microsoftstream.com/channel/4cb74f45-0d13-4e15-ab11-e72fa6344c4d)
+- [IA Stream Channel](https://bit.ly/3A9gHiJ)
+- [L&D Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx)
+- [Word Document of this Site](https://bit.ly/3qGDPkn)
 
 ## Features
 - Smart full-text search plugin

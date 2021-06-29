@@ -1,5 +1,5 @@
 # IA Timeline
-The table below is mainly for Analytics to reference specific items that are needed to be completed in a specific sequence. Refer to the checklist above or the [Omnibus](https://airtable.com/tblvrd7prT4QofbQO/viwxvR5WKliDawc2P?blocks=hide) as the best place to understand what to do by when. Remember any windows are recommended and may need altering for your school context.
+The table below is mainly for Analytics to reference specific items that are needed to be completed in a specific sequence. Refer to the checklist above or the [Omnibus](https://bit.ly/2SAPhBr) as the best place to understand what to do by when. Remember any windows are recommended and may need altering for your school context.
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">Quarter 1</h3></body>
 
