@@ -7,14 +7,14 @@
     - [IA Team Timeline](iatimeline.md)
 
 - Analytics Tasks by Quarter
-    - [Info](analyticsbyquarter.md)
+    - [IA by Quarter](analyticsbyquarter.md)
     - [Q1: Summer Planning](q1.md)
     - [Q2: Starting Strong](q2.md)
     - [Q3: Continuing Strong](q3.md)
     - [Q4: Finishing Strong](q4.md)
 
 - Trainings an Resources by IA
-    - [Links to Bookmarks](links.md)
+    - [Links to Bookmarks](bookmarks.md)
     - [CACME](cacme.md)
     - [CYSH](cysh.md)
     - [Extended Learning Time](elt.md)
