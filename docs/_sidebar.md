@@ -14,10 +14,9 @@
     - [Q4: Finishing Strong](q4.md)
 
 - Trainings an Resources by IA
-    - [Links to Bookmarks](bookmarks.md)
-    - [CACME](cacme.md)
     - [CYSH](cysh.md)
     - [Extended Learning Time](elt.md)
     - [Power Apps](pwrapps.md)
-    - [FAQs](faq.md)
 - Supplemental Materials
+    - [Links to Bookmarks](bookmarks.md)
+-[FAQs](faq.md)
