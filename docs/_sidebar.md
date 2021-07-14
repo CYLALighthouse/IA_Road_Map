@@ -17,6 +17,7 @@
     - [CYSH](cysh.md)
     - [Extended Learning Time](elt.md)
     - [Power Apps](PowerApps.md)
+    - [L&D](L&D.md)
 - Supplemental Materials
     - [Links to Bookmarks](bookmarks.md)
 -[FAQs](faq.md)
