@@ -14,7 +14,7 @@
     - [Q4: Finishing Strong](q4.md)
 
 - Trainings an Resources by IA
-    - [CYSH](cysh.md)
+    - [CYSchoolhouse](cysh.md)
     - [Extended Learning Time](elt.md)
     - [Power Apps](powerapps.md)
 - Supplemental Materials
