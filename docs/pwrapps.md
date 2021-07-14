@@ -34,3 +34,34 @@ While PowerApps works best on mobile you can use a desktop browser for most apps
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/bdd9034f-cd0a-4e5a-ab78-39bd7a3e71a0?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+(function () {
+  'use strict';
+
+  var chokidar = require('chokidar');
+  var matter = require('gray-matter');
+  var replace = require('replace-in-file');
+  var moment = require('moment');
+  var yaml = require('yamljs');
+
+  // If you want to use something other than lastUpdate change this var
+  var propertyName = 'lastUpdate';
+
+  // Where is your content located?
+  chokidar.watch('content/*.{md,html}').on('change', updateFrontMatter);
+
+  function updateFrontMatter(path) {
+    var regex = /^---[\s\S]*?---/;
+    var fm = matter.read(path);
+    fm.data[propertyName] = moment().format('MMMM-DD-YYYY');
+
+    var output = '---\n' + yaml.stringify(fm.data) + '---';
+
+    replace({
+      files: path,
+      replace: regex,
+      with: output
+    }, function (err, files) {
+      if (err) return console.error(err);
+      console.log('Modified files: ', files.join(', '));
+    });
+  }
