@@ -13,6 +13,8 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
 >- Confirmed AmeriCorps Member Engagement
     >>- [CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
+<!--  
+
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for ACMs</h3></body>
 
 >- Help Desk ticket submissions to CYLA staff
@@ -21,8 +23,6 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
     >>- [CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
     *Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
-
-<!--  
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">How to Setup and Install PowerApps</h3></body>
 
