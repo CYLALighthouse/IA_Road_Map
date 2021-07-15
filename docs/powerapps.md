@@ -1,5 +1,3 @@
-# PowerApps How To
-
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">How to Use PowerApps</h3></body>
 
 Microsoft PowerApps is part of your office 365 suite of applications available to you as a staff or corps member. Just like you would log in with a browser to go to CYconnect, Outlook, Word or many other applications online you can also access custom applications and forms created by local staff in a program called "PowerApps". You can think of PowerApps as applications inside of an Application (Application Inception).
