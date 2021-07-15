@@ -4,7 +4,7 @@ Microsoft PowerApps is part of your office 365 suite of applications available t
 
 You can use these applications on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff. The Impact Analytics team has built quite a few PowerApps for the staff and corps to facilitate things like:
 
-<!--
+
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for Staff</h3></body>
 
@@ -14,7 +14,9 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
     >>- [CYLA Accountability Tracker](https://apps.powerapps.com/play/815f8342-e375-4d4e-b033-bf500464c234?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 >- Confirmed AmeriCorps Member Engagement
     >>- [CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
-    
+
+<!--  
+
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for ACMs</h3></body>
 
 >- Help Desk ticket submissions to CYLA staff
