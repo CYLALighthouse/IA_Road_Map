@@ -18,6 +18,7 @@
     - [Extended Learning Time](elt.md)
     - [Power App](pwrapps.md)
     - [PowerApps](powerapps.md)
+    - [Training](trainingcontent.md)
 - Supplemental Materials
     - [Links to Bookmarks](bookmarks.md)
 -[FAQs](faq.md)
