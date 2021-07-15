@@ -16,6 +16,7 @@
 - Trainings an Resources by IA
     - [CYSchoolhouse](cysh.md)
     - [Extended Learning Time](elt.md)
+    - [PowerApps](powerapps.md)
     - [Training](trainingcontent.md)
 - Supplemental Materials
     - [Links to Bookmarks](bookmarks.md)
