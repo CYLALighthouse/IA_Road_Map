@@ -4,8 +4,6 @@ Microsoft PowerApps is part of your office 365 suite of applications available t
 
 You can use these applications on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff. The Impact Analytics team has built quite a few PowerApps for the staff and corps to facilitate things like:
 
-
-
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for Staff</h3></body>
 
 >- In class ACM observation and coaching
