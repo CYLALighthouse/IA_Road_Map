@@ -6,21 +6,15 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
 
 ## Apps for Staff
 
->- In class ACM observation and coaching
-    * Coming soon
->- Accountability Tools
-    * [CYLA Accountability Tracker](https://apps.powerapps.com/play/815f8342-e375-4d4e-b033-bf500464c234?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
->- Confirmed AmeriCorps Member Engagement
-    * [CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
+[CYLA Accountability Tracker](https://apps.powerapps.com/play/815f8342-e375-4d4e-b033-bf500464c234?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
+[CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
 ## Aps for ACMs
 
->- Help Desk ticket submissions to CYLA staff
-    * [CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
->- ACM L&I Session Sign Ins
-    * [CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
+[CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
+[CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
-    *Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
+*Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
 
 ## How to Setup and Install PowerApps
 
