@@ -22,8 +22,7 @@ You can use PowerApps on [Desktop](https://make.powerapps.com/), [IOS](https://a
 
 * For recording ACM training session attendance for AmeriCorps compliance
 
-* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06)
-
+* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06). To audit your session sign ins see [This Power BI Report](https://app.powerbi.com/Redirect?action=OpenApp&appId=ef5c272b-d1fa-43af-9087-89a6e1bfc5f4&ctid=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
 [CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
@@ -41,7 +40,7 @@ You can use PowerApps on [Desktop](https://make.powerapps.com/), [IOS](https://a
 
 * For recording ACM training session attendance for AmeriCorps compliance
 
-* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06)
+* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06). To audit your session sign ins see [This Power BI Report](https://app.powerbi.com/Redirect?action=OpenApp&appId=ef5c272b-d1fa-43af-9087-89a6e1bfc5f4&ctid=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
 More coming soon*
 
