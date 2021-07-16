@@ -12,21 +12,38 @@ You can use PowerApps on Desktop, IOS and Andriod by logging into PowerApps with
 
 ## Apps for Staff
 
-[CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) for Incoming ACM engagement
+[CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) 
+* for Incoming ACM engagement between ACMs and managers.
 
-[CYLA Accountability Tracker](https://apps.powerapps.com/play/815f8342-e375-4d4e-b033-bf500464c234?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) for recording coaching conversations
+[CYLA Accountability Tracker](https://apps.powerapps.com/play/815f8342-e375-4d4e-b033-bf500464c234?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) 
+* for recording coaching conversations
 
-[CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06)
+[CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) 
 
-* More coming soon*
+* For recording ACM training session attendance for AmeriCorps compliance
+
+* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06)
+
+
+[CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
+
+* For communicating questions, support, troubleshooting and ideas to CYLA staff/departments.
+
+More coming soon*
 
 ## Aps for ACMs
 
 [CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
+* For communicating questions, support, troubleshooting and ideas to CYLA staff/departments.
+
 [CYLA Scan It](https://apps.powerapps.com/play/66197cdf-c395-466e-959f-8de857536aff?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
-* More coming soon*
+* For recording ACM training session attendance for AmeriCorps compliance
+
+* Look here for a [how to video](https://web.microsoftstream.com/video/636dce45-f1ea-48dc-8ef9-29f7e014ee06)
+
+More coming soon*
 
 *Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
 
@@ -40,6 +57,8 @@ While PowerApps works best on mobile you can use a desktop browser for most apps
 
 ## How to Video
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/bdd9034f-cd0a-4e5a-ab78-39bd7a3e71a0?autoplay=false&showinfo=true" allowfullscreen style="border:none;" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+If you are looking to use PowerApps on your IOS, Android or Desktop device see the video below for setup details. If you are using PowerApps via a browser you can simply click on the links above to navigate directly to the app you need to use.
 
-If you have ideas for new desktop and mobile apps, feedback about a current app or you need support with PowerApps please conact Chris Bischel (Cbischel@cityyear.org).
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/33b90d18-0c2b-4bbc-a31c-654c846cf421?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
+
+If you have ideas for new desktop and mobile apps, feedback about a current app or you need support with PowerApps please conact Chris Bischel (Cbischel@cityyear.org) or use the [CYLA Help Desk](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
