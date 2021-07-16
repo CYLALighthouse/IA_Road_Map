@@ -5,7 +5,7 @@ Microsoft PowerApps is part of your office 365 suite of applications available t
 You can use PowerApps on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff.
 
 <p Align="Left">
-<img src="_images/Apps_Menu-PowerApps.PNG" alt="IA-Roles" style="width:30%;"/>
+<img src="_images/Apps_Menu_PowerApps.png" alt="IA-Roles" style="width:30%;"/>
 </p>
 
 <body><h3 style="background-color:purple;"><c style=color:white; >Available PowerApps*</h3></body>
