@@ -20,6 +20,6 @@
     - [Training](trainingcontent.md)
 
 - Supplemental Materials
-    - [Links to Bookmarks](bookmarks.md)
+    - [Links to Bookmark](bookmarks.md)
     
 -[FAQs](faq.md)

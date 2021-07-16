@@ -2,6 +2,8 @@
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">CYConnect</h3></body>
 
+[Okta login](https://cityyear.okta.com/app/UserHome) (Okta Login for City Year)
+
 [CYConnect Home](https://cityyear.sharepoint.com/SitePages/Home.aspx) (Main CYConnect homepage) 
 
 [CYLA L&I Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx) (Learning and Development library) 
@@ -9,8 +11,6 @@
 [Progress Monitoring Library](https://bit.ly/3xbXCuE) (Location for ACMs to find workbooks) 
 
 [School Dashboards](https://bit.ly/3qANGbB) (Location for PMs to find workbooks) 
-
-[Okta login](https://cityyear.okta.com/app/UserHome) (Okta Login for City Year)
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">Office 365</h3></body>
 
