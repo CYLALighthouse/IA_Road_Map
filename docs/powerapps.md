@@ -1,12 +1,12 @@
-<body><h3 style="background-color:darkslateblue;"><c style=color:white;">How to Use PowerApps</h3></body>
+# How to Use PowerApps
 
 Microsoft PowerApps is part of your office 365 suite of applications available to you as a staff or corps member. Just like you would log in with a browser to go to CYconnect, Outlook, Word or many other applications online you can also access custom applications and forms created by local staff in a program called "PowerApps". You can think of PowerApps as applications inside of an Application (Application Inception).
 
-<img src="_images/Apps Menu-PowerApps.png" align="right" width="304px"/>
+<img src="_images/Apps Menu-PowerApps.png" align="right" width="250px"/>
 
 You can use these applications on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff. The Impact Analytics team has built quite a few PowerApps for the staff and corps to facilitate things like:
 
-<body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for Staff</h3></body>
+## Apps for Staff
 
 >- In class ACM observation and coaching
     * Coming soon
@@ -15,7 +15,7 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
 >- Confirmed AmeriCorps Member Engagement
     * [CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
 
-<body><h3 style="background-color:darkslateblue;"><c style=color:white;">Apps for ACMs</h3></body>
+## Aps for ACMs
 
 >- Help Desk ticket submissions to CYLA staff
     * [CYLA Help Desk](https://apps.powerapps.com/play/e59acea6-d9ca-4183-b9fb-66d9844f2b01?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74)
@@ -24,7 +24,7 @@ You can use these applications on Desktop, IOS and Andriod by logging into Power
 
     *Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
 
-<body><h3 style="background-color:darkslateblue;"><c style=color:white;">How to Setup and Install PowerApps</h3></body>
+## How to Setup and Install PowerApps
 
 To get started with PowerApps you first want to decide what devices you would like to use. Of course you can use your browser by navigating to https://make.powerapps.com/ but you can also install the PowerApp for IOS [here](https://apps.apple.com/us/app/power-apps/id1047318566) or Android [here](https://play.google.com/store/apps/details?id=com.microsoft.msapps&hl=en_US&gl=US) and use PowerApps on your mobile devices. 
 
