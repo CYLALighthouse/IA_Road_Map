@@ -1,16 +1,16 @@
 # PowerApps for Internal Use
 
-Microsoft PowerApps is part of your office 365 suite of applications available to you as a staff or corps member. Just like you would log in with a browser to go to CYconnect or outlook you can also access custom applications and forms created by local staff in "PowerApps". You can think of PowerApps as Application Inception. You install or access one application that has additional apps inside it for things like session attendance tracking, user surveys, note taking and other data related tasks at City Year.
+Microsoft PowerApps is part of your office 365 suite of applications available to all staff and corps members at City Year. Just like you would log in with a browser to go to [CYconnect](https://cityyear.sharepoint.com/SitePages/Home.aspx) or [Outlook](https://outlook.office.com/mail/inbox) you can also access custom applications and forms created by local staff in "PowerApps". You can think of PowerApps as applications within applications **(App Inception)**. It provides a quick and easy way for City Year to deploy forms, apps and other tools quickly without the need to install anything new outside of the first PowerApps setup.
 
-You can use PowerApps on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff.
+You can use PowerApps on [Desktop](https://make.powerapps.com/), [IOS](https://apps.apple.com/us/app/power-apps/id1047318566) and [Andriod](https://play.google.com/store/apps/details?id=com.microsoft.msapps&hl=en_US&gl=US) by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff.
 
 <p Align="Left">
 <img src="_images/Apps_Menu_PowerApps.png" alt="IA-Roles" style="width:30%;"/>
 </p>
 
-<body><h3 style="background-color:purple;"><c style=color:white; >Available PowerApps*</h3></body>
+<body><h3 style="background-color:purple;"><c style=color:white; >*Available PowerApps</h3></body>
 
-## Apps for Staff
+## PowerApps for Staff
 
 [CACME Log](https://apps.powerapps.com/play/177e2b1e-389e-4c53-ab89-6e45eb360827?tenantId=a5c7899f-d129-48f6-ac88-8f97f366da74) 
 * for Incoming ACM engagement between ACMs and managers.
@@ -29,7 +29,7 @@ You can use PowerApps on Desktop, IOS and Andriod by logging into PowerApps with
 
 * For communicating questions, support, troubleshooting and ideas to CYLA staff/departments.
 
-More coming soon*
+*More apps coming soon
 
 ## Aps for ACMs
 
@@ -47,15 +47,15 @@ More coming soon*
 
 *Note that you will only see PowerApps that have been assigned to you. Contact the impact analytics team if you suspect an app is missing (Cbischel@cityyear.org).
 
-## Setup
+## PowerApps Setup
 
-<body><h3 style="background-color:purple;"><c style=color:white;">How to get started</h3></body>
+<body><h3 style="background-color:purple;"><c style=color:white;">Install Steps</h3></body>
 
-To get started with PowerApps you first want to decide what devices you would like to use. Of course you can use your browser by navigating to https://make.powerapps.com/ but you can also install the PowerApp for IOS [here](https://apps.apple.com/us/app/power-apps/id1047318566) or Android [here](https://play.google.com/store/apps/details?id=com.microsoft.msapps&hl=en_US&gl=US) and use PowerApps on your mobile devices. 
+To get started with PowerApps you first want to decide what devices you would like to use. Of course you can use your browser by navigating to https://make.powerapps.com/ and logging in with your City Year credentials but you can also install the PowerApp for IOS [here](https://apps.apple.com/us/app/power-apps/id1047318566) or Android [here](https://play.google.com/store/apps/details?id=com.microsoft.msapps&hl=en_US&gl=US) and use PowerApps on your mobile devices. 
 
-While PowerApps works best on mobile you can use a desktop browser for most apps with no issues as well. The Impact Analytics team will send periodic communicaitons with links directly to said applications for use in the browser but you can also go to your available applications [here](https://make.powerapps.com/)] by logging in with your City Year credentials. See below for a how to video for getting started with PowerApps on mobile devices.
+While PowerApps works best on mobile you can use a desktop browser for most apps with no issues as well. The Impact Analytics team will send periodic communicaitons with links directly to said applications for use in the browser but you can also go to your available applications [here](https://make.powerapps.com/) by logging in with your City Year credentials. See below for a how to video for getting started with PowerApps on mobile devices.
 
-## How to Video
+<body><h3 style="background-color:purple;"><c style=color:white;">How to Video</h3></body>
 
 If you are looking to use PowerApps on your IOS, Android or Desktop device see the video below for setup details. If you are using PowerApps via a browser you can simply click on the links above to navigate directly to the app you need to use.
 
