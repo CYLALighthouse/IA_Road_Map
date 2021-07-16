@@ -1,29 +1,14 @@
 # PowerApps for Internal Use
 
-<body><h3 style="background-color:purple;"><c style=color:white;">What is PowerApps?</h3></body> <!-- Adds purple bold around text -->
-
-<IMG SRC="_images/Apps Menu-PowerApps.PNG" alt="drawing" width="150" ALIGN="left"/>
-
-<!-- Inserts image to the  -->
-
 Microsoft PowerApps is part of your office 365 suite of applications available to you as a staff or corps member. Just like you would log in with a browser to go to CYconnect or outlook you can also access custom applications and forms created by local staff in "PowerApps". You can think of PowerApps as Application Inception. You install or access one application that has additional apps inside it for things like session attendance tracking, user surveys, note taking and other data related tasks at City Year.
 
 You can use PowerApps on Desktop, IOS and Andriod by logging into PowerApps with your City Year credentials (Same login as your email address). From here you will have access to any applications provided to you by City Year staff.
-
-<BR CLEAR="left" /> <!-- end the wrap text -->
-
-&nbsp; <!-- Used for return spaces -->
-
-<!-- Old embedded picture code.
 
 <p align="Left">
 <img src="_images/Apps Menu-PowerApps.PNG" alt="IA-Roles" style="width:30%;"/>
 </p>
 
-<img style="float: Left;" src="_images/Apps Menu-PowerApps.PNG">
--->
-
-<body><h3 style="background-color:purple;"><c style=color:white;">Available PowerApps*</h3></body>
+<body><h3 style="background-color:purple;"><c style=color:white; >Available PowerApps*</h3></body>
 
 ## Apps for Staff
 
