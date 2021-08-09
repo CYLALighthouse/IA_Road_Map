@@ -1,18 +1,40 @@
 # Extended Learning Time
 
 <p align="center">
-<img src="_images/ELT.PNG" alt="IA-Roles" style="width:30%;"/>
+<img src="_images/ELT.PNG" alt="ELT" style="width:30%;"/>
 </p>
 
-With a new data use agreement from both of our school districts in FY21 our after school data management processes need to undergo some changes. Additionally corps members have expressed how complicated tracking time in ELT has been so in FY22 the Analytics team is hoping to make some simplifications and improvements to ELT attendance tracking while **also adding some important steps** to comply with our new data agreements.
+Extended Learning Time is no small portion of your overall time and impact during your service year. While we dont want to add extra unessisary work on top of an already long day there are some key things that need to be done and tracked in ELT to keep your programs safe and ensure that all of our partners and governmental obligations are being met. To that end we are making some changes to ELT processes in FY22 in the hopes to reduce the workload of managing ELT. See below for all the details on ELT management.
+
+>- See the [Ongoing ELT FAQ](https://cityyear.sharepoint.com/:w:/s/LAC-ACM-SeniorCorps/EUftLDogPkFKqSCSi91fw20BVMioxiKdZiKZvJ_GBjJ2ww?e=a925Ta) if you have unanswered questions after reviewing the material below.
+
+## Checklist for ELT Workbook Tasks
+>- [ ] Team Leaders collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
+>   - All fields in orange must be present before a student can attend ELT.
+>- [ ] Team Leaders build out a list of students who are attending your ELT programming on the “Print Roster” and "Time Entry Roster" pages.
+>   - Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
+>- [ ] Team Leaders record all student time in and time out is recorded in the “Time Entry Roster” page of the ELT workbook.
+>    - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
+>- [ ] Team Leaders work with PMs to periodically review ELT Dashboards to make improvements to programming.
+>- [ ] Talk to the Impact Analytics questions when you have:
+>   - Questions about ELT data tasks
+>    - Issues with workbooks
+>    - Feedback for tool improvement
+>    - Data isn’t refreshing properly
+>    - (Cbischel@cityyear.org)
+
+
+<p align="center">
+<img src="_images/elt-wbksteps.PNG" alt="CYSH_Select All_Students" style="width:100%;"/>
+</p>
 
 <body><h3 style="background-color:orange;"><c style=color:white;">ELT Data Management </h3></body>
 
 ### What are we doing again with ELT Workbooks?
 
-City Year needs to make sure that we get guardian consent for any student participating in after school. City Year also needs to ensure that when students come to our program that we are keeping track of the total time they spend in our program so that we can report to guardians, school partners and external partners the scope of our program overall and individual student participation. In prior years we would do this by using CYSchoolhouse to track total time in ELT but student records might have been missing and the extra steps in using CYSchoolhouse complicated the work. In FY22 we are trying to reduce the workload of ELT data processes and comply with new expectations from our districts to track ELT time only in Excel.
+City Year needs to make sure that we get guardian consent for any student participating in after school. City Year also needs to ensure that when students come to our program that we are keeping track of the **total time** they spend in our program so that we can report to guardians, school partners and external partners the scope of our program overall and individual student participation. In prior years we would do this by using CYSchoolhouse to track total time in ELT but student records might have been missing and the extra steps in using CYSchoolhouse complicated the work. In FY22 we are trying to reduce the workload of ELT data processes and comply with new expectations from our districts to track ELT time only in Excel. Each team should be given at least one Desktop computer that will allow you to use your ELT workbooks in Excel but if you have tech challenges please let the Analytics team know.
 
-At a high level team leaders are responsible for making sure data processes happen for their school. This involves the following steps.
+**Team leaders** are responsible for making sure data processes happen for their school as outlined in the six items below:
 
 1.	Printing and distributing ELT applications to students in English and Spanish.
 2.	Digitizing returned ELT applications and ensuring all key application fields are properly filled out
@@ -43,7 +65,7 @@ See below for a walkthrough of each part of the ELT data management process.
 
 ### ELT Applications (Every Student Needs One)
 
-As part of our data agreement with LAUSD all students will need to have an ELT application on file BEFORE attending after school programming in FY22. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). Additionally if there is a medical emergency with a student we need to know who to contact or if they have medical insurance. 
+As part of our data agreement with LAUSD all students will need to have an ELT application on file **BEFORE** attending after school programming in FY22. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). Additionally if there is a medical emergency with a student we need to know who to contact or if they have medical insurance. 
 
 To ensure that we are protecting ourselves legally AND that we are keeping students safe by having emergency contact information on hand for our students we will need all students to have an ELT application and to have that application digitized into the ELT workbooks on Cyconnect.
 
@@ -67,7 +89,6 @@ You will want to periodically check and update student IDs to prevent creating d
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/6adfee81-1620-4062-9eb6-618bc0ed2f0b?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### Print Roster
-
 
 The ELT print roster is designed to be a template to print pre-populated attendance trackers for ELT. We recommend you use paper trackers to physically track time with students but if you prefer to enter ELT time directly into the “Time Entry Roster” page you can opt out of printing rosters weekly.
 
@@ -100,9 +121,14 @@ After all other processes have been completed and all tables have been refreshed
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/b4b32455-5b57-44c2-b678-b165cd9c6cc9?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
+### ELT Steps in Summary
+
+The steps outlined above break down into the following short set of actions. Team leaders will regularly collect and digitize ELT applications in the provided ELT workbooks ensuring all information in orange is complete and accurate. Team leaders will then update the "Student Records" page with new unique students from the ELT applications page or from the schools student enrollment database from Analytics. Then Team Leaders will build out the ACM and student pairings on the Print and Time Entry Rosters and keep track of ELT attendance time on a regular basis. This ELT data will feed into the ELT Dashboards which will help PMs and TLs regularly review their ELT data for program improvements and quality assurance.
+
 ### ELT Roles
 
 Below is a table that helps to clarify the roles of everyone in after school data management. While the program manager is ultimately the person who supervises all school based activities we view the Team Leader as the owner of most day to day extended learning time activities, logistics and execution. This is particularly true when it involves the data that is being managed for ELT.
+
 Team leaders will be the people that Impact Analytics reaches out to when ELT applications need to be entered into the system, when student IDs need correcting, when time entry needs to happen more regularly and more. We hope to have regular check ins with team leaders to support them in all of these tasks moving forward.
 
 |     Item                                            |     Program Manager    |     Team Leader    |     Corps Member    |
@@ -116,24 +142,6 @@ Team leaders will be the people that Impact Analytics reaches out to when ELT ap
 |     Validates data errors                           |     Manager            |     Owner          |     Consulted       |
 |     Ensures a high quality ELT program              |     Manager            |     Owner          |     Helper          |
 
+We understand that Team Leaders will not be present every day so we reccomend that team leaders identify one or two people on their team who can step in when team leaders are not present to particiate in ELT data management specifically with ELT applications and ELT time entry.
 
-
-### Checklist for ELT Workbook Tasks
->- [ ] Collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
->   - Ensure that all fields in orange are present. If not send the application back. Students cant attend ELT until the application is complete.
->- [ ] Build out a list of students who are attending your ELT programming on the “Print Roster” and "Time Entry Roster" pages.
->- [ ] Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
->   - The ACM name next to the student record will help denote the ACM pod and/or room that a student occupies.
->- [ ] Ensure all time in/out is being recorded daily/weekly in the “Time Entry Roster” page of the ELT workbook.
->    - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
->- [ ] Talk to the Impact Analytics questions when you have:
->   - Questions about ELT data tasks
->    - Issues with workbooks
->    - Feedback for tool improvement
->    - Data isn’t refreshing properly
->    - (Cbischel@cityyear.org)
-
-
-<p align="center">
-<img src="_images/elt-wbksteps.PNG" alt="CYSH_Select All_Students" style="width:100%;"/>
-</p>
+When Team Leaders have identified said ACMs who should have access to your schools ELT workbooks please notify Impact Analytics so that they can give these ACMs access.
