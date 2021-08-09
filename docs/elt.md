@@ -1,8 +1,12 @@
 # Extended Learning Time
 
+<p align="center">
+<img src="_images/ELT.PNG" alt="IA-Roles" style="width:30%;"/>
+</p>
+
 With a new data use agreement from both of our school districts in FY21 our after school data management processes need to undergo some changes. Additionally corps members have expressed how complicated tracking time in ELT has been so in FY22 the Analytics team is hoping to make some simplifications and improvements to ELT attendance tracking while **also adding some important steps** to comply with our new data agreements.
 
-## ELT Data Management
+<body><h3 style="background-color:orange;"><c style=color:white;">ELT Data Management </h3></body>
 
 ### What are we doing again with ELT Workbooks?
 
@@ -45,11 +49,11 @@ To ensure that we are protecting ourselves legally AND that we are keeping stude
 
 To learn more about the applications processes see this video. 
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/ba9726e1-8a1f-4a5d-b145-0e1d442e8376?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/ba9726e1-8a1f-4a5d-b145-0e1d442e8376?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 For an alternate method of inputting ELT form data look here.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/802faf3d-c99e-4dcd-93f8-69d8eb5a54b1?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/802faf3d-c99e-4dcd-93f8-69d8eb5a54b1?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 
 ### Student Records
@@ -60,7 +64,7 @@ If you are unable to find the students ID you can “make up” an ID for the st
 
 You will want to periodically check and update student IDs to prevent creating duplicate student records. See below for a full video on the Student Records page.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/6adfee81-1620-4062-9eb6-618bc0ed2f0b?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/6adfee81-1620-4062-9eb6-618bc0ed2f0b?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### Print Roster
 
@@ -69,13 +73,13 @@ The ELT print roster is designed to be a template to print pre-populated attenda
 
 Note that to use the Print Roster you will need to select ACMs and Students from the dropdowns on the roster and update the dropdown for the given week to keep the dates matching for the given week. For a full overview video on the Print Roster page see below:
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/cf216575-20d0-40a2-b624-e2e285e7b54a?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/cf216575-20d0-40a2-b624-e2e285e7b54a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### ELT Entry Roster
 
 If you have done the previous steps of entering student ELT applications, updating the “student records” page, filled out the optional print roster and begun your ELT program you are ready to start tracking ELT attendance time with students. Like the print roster page you will need to fill out the ACM and student who will be attending ELT, as well as do some name matching between the student records and ELT applications page to ensure no duplicate students. Once your student info has been put in Columns B:D then you are all set to record time in an time out with students. For a full video walkthrough of this page see the video below.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/d38538e7-6e61-472f-9e2f-cab77c76ef59?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/d38538e7-6e61-472f-9e2f-cab77c76ef59?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### ELT Data
 
@@ -87,14 +91,14 @@ Once you enter data into the “Time Entry Roster” you can go to the ELT data 
 
 For a full video walkthrough of the ELT data page see the video below.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/7dd40456-58d7-4fc9-b947-1c0ffad7729a?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/7dd40456-58d7-4fc9-b947-1c0ffad7729a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 
 ### ELT Dashboard
 
 After all other processes have been completed and all tables have been refreshed then you can view your programs ELT data. The ELT Dashboard gives a program overall and ACM by ACM view of some key ELT metrics. For a full walkthrough of the dashboard the video below.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/video/b4b32455-5b57-44c2-b678-b165cd9c6cc9?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/b4b32455-5b57-44c2-b678-b165cd9c6cc9?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### ELT Roles
 
@@ -112,38 +116,15 @@ Team leaders will be the people that Impact Analytics reaches out to when ELT ap
 |     Validates data errors                           |     Manager            |     Owner          |     Consulted       |
 |     Ensures a high quality ELT program              |     Manager            |     Owner          |     Helper          |
 
-## ELT Proccess
-### ELT Applications
-As part of our data agreement with LAUSD all students will need to have an ELT application on file BEFORE attending after school programming in FY22. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). To ensure that we are protecting ourselves legally AND that we are keeping students safe by having emergency contact information on hand for our students we will need all students to have an ELT application and to have that application digitized into the ELT workbooks on Cyconnect.
-To learn more about the applications processes see [this video.]()
-
-### ELT Workbooks
-
-Part of the role of a team leader will be to ensure all ELT applications, student enrollment and time in and out is recorded daily on the Analytics provided Extended Learning Time Workbooks. The two main purposes of these ELT workbooks are to verify student ELT applications and to provide a space for tracking program attendance so that we can determine if our program is meeting our desired outcomes.
-
-ELT workbooks should be available to team leaders in early August and specific trainings for team leaders will be upcoming. Come back for links to said trainings and resources later.
-
-## ELT Data Entry and Roles Checklist
-
-City Year Los Angeles After school supports students by extending the school day, providing space for enrichment activities and homework support. Our school partners, student guardians and organizational funders are keen to know how our after school programs are doing and this means we need to track some basic data on the students attending our enrichment activities. The items below explain the roles and tasks of tracking student attendance data for After school.
-
-### ELT Role Clarity
-
-In FY22 team leaders will be responsible for managing the collection and digitization of ELT applications from students at their school. Team Leaders should carve out some time each week to collect and organize ELT applications in an easy to access binder before digitizing them into their teams ELT Rosters in Excel. This is a new process for the 2021=2022 school year but necessary as our data agreements with LAUSD and IUSD have changed and we are now obligated to ensure every student has an ELT application on file that is tied to their student ID. Chances are that many students ELT applications wont have their ID when submitted so Team leaders will need to periodically go to school partners to collect any missing student IDs that Team leaders could not find on the “student records” page of the ELT workbook.
-
-Additionally, this year team leaders will be responsible for printing out ELT attendance rosters to help ACMs sign students into and out of the program. Alternatively, team leaders can also just regularly enter attendance in and out time into the Excel workbooks “Time Entry” page. The choice between entering time on paper before backlogging it into the “Time Entry” page or just entering it during ELT is up to each school to decide. Sometimes schools with ELT in multiple locations prefer the paper method while other schools may find it best to just enter student time in and out directly into the spreadsheets.
-
-Team leaders should work with their program managers to determine how to ensure all attendance time is being recorded with students each day. Reasons why tracking time in after school is so important is because City Year needs to be able to articulate to schools and guardians when students arrived and left our program, who might have picked students up from Elementary schools (Initials fields) and how often/much a student attended our program.
 
 
 ### Checklist for ELT Workbook Tasks
->- [ ] Collect all ELT applications and digitize their records in the “Paper Applications” page of the ELT Roster.
+>- [ ] Collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
 >   - Ensure that all fields in orange are present. If not send the application back. Students cant attend ELT until the application is complete.
->- [ ] Build out a list of students who are attending your ELT programming on the “Enrolled Students” page.
+>- [ ] Build out a list of students who are attending your ELT programming on the “Print Roster” and "Time Entry Roster" pages.
 >- [ ] Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
->- [ ] Build out the optional “Print Roster” and “Time Entry” pages with your enrolled students and associated corps member pairings.
 >   - The ACM name next to the student record will help denote the ACM pod and/or room that a student occupies.
->- [ ] Ensure all time in/out is being recorded daily/weekly in the “Time Entry” page of the ELT workbook.
+>- [ ] Ensure all time in/out is being recorded daily/weekly in the “Time Entry Roster” page of the ELT workbook.
 >    - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
 >- [ ] Talk to the Impact Analytics questions when you have:
 >   - Questions about ELT data tasks
