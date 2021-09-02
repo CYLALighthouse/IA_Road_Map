@@ -4,9 +4,23 @@
 <img src="_images/ELT.png" alt="ELT" style="width:30%;"/>
 </p>
 
-Extended Learning Time is no small portion of the corps member experience. While we dont want to add extra unessisary work on top of an already long day there are some key things that need to be done and tracked in ELT to keep your students safe and ensure that all of our partners and governmental obligations are being met. To that end we are making some changes to ELT processes in FY22 in the hopes to reduce the workload of managing ELT. See the basic checklist below for a review of the needed actions for ELT data management. See the [Ongoing ELT FAQ](https://cityyear.sharepoint.com/:w:/s/LAC-ACM-SeniorCorps/EUftLDogPkFKqSCSi91fw20BVMioxiKdZiKZvJ_GBjJ2ww?e=a925Ta) if you have unanswered questions after reviewing the material below.
+Extended Learning Time is no small portion of the corps member experience! While we dont want to add extra unessisary work on top of an already long day there are some key things that need to be done and tracked in ELT to keep your students safe and ensure that all of our partners and governmental obligations are being met. To that end we are making some changes to ELT processes in FY22 in the hopes to reduce the workload of managing ELT. See the basic checklist below for a review of the needed actions for ELT data management. 
+
+
+
+## Key Links for ELT
+
+>- [ELT Workbooks on CYconnect](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/Pages/My-Progress-Monitoring.aspx)
+>- [Ongoing ELT FAQ](https://cityyear.sharepoint.com/:w:/s/LAC-ACM-SeniorCorps/EUftLDogPkFKqSCSi91fw20BVMioxiKdZiKZvJ_GBjJ2ww?e=a925Ta)
+>- [Senior Corps ELT Library on CYconnect](https://cityyear.sharepoint.com/:f:/s/LAC-ACM-SeniorCorps/EoqaXrc_7K1Ko2QKqEGKYuoBXt57POG-nFmfe0nFb2OHWQ?e=ph08LH)
+>- [Template ELT Applictions in English and Spanish](https://cityyear.sharepoint.com/:w:/s/LAC-ACM-SeniorCorps/Ealsh1K9aSFLs1YNyL5kjLYBfCXa9Zhjybn4dw5ySjJiQA?e=ar6yFc)
+>- [ELT Data Management Session Recording](https://web.microsoftstream.com/video/6168a325-bddc-466f-b72b-e263c7463fda)
+>- [ELT Data Management Session PPT](https://cityyear.sharepoint.com/:p:/s/LAC-ACM-SeniorCorps/EQw14gwUnUFFiH_ZOYTyQCIB3wIvHIucczAaXtx2FyJwkw?e=5sp0hZ)
 
 ## Checklist for ELT Workbook Tasks
+
+The Items below are tasks that team leaders should regularly complete to ensure ELT data is properly managed.
+
 >- [ ] Team Leaders collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
 >   - All fields in orange must be present before a student can attend ELT.
 >   - Incomplete ELT applications should be sent back home with students.
