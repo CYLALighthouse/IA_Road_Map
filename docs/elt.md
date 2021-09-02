@@ -27,14 +27,15 @@ The Items below are tasks that team leaders should regularly complete to ensure 
 >- [ ] Team Leaders build out a list of students who are attending your ELT program on the “Print Roster” and "Time Entry Roster" pages of your ELT workbooks.
 >   - Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
 >- [ ] Team Leaders record all student time in and time out is recorded in the “Time Entry Roster” page of the ELT workbook.
->    - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
+>   - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
 >- [ ] Team Leaders work with PMs to periodically review ELT Dashboards to make improvements to programming.
+>   - Reviewing "Dashboard" page, submitted ELT applications, Focus Lists in ELT and other key metrics.
 >- [ ] Talk to the Impact Analytics questions when you have:
 >   - Questions about ELT data tasks
->    - Issues with workbooks
->    - Feedback for tool improvement
->    - Data isn’t refreshing properly
->    - (Cbischel@cityyear.org)
+>   - Issues with workbooks
+>   - Feedback for tool improvement
+>   - Data isn’t refreshing properly
+>   - (Cbischel@cityyear.org)
 
 
 <p align="center">
