@@ -8,9 +8,9 @@
 >- [ ] Complete a draft version of [ACM in Class Deployment Workbook](https://bit.ly/3he0KjI) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) as needed
 >- [ ] Check in with your TL to [review](elt.md) <a href="#elt"> ELT data processes </a>
 >- [ ] Complete the [FINAL ACM in Class Deployment workbook](https://bit.ly/3C8dd0n)
->- [ ] Support corps members observing students in their classes
->- What Makes a <a href="#supporting-acms">Good Focus List Checklist </a>
->- Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
+>- [ ] Support corps members in observing students in their classes
+   >- What Makes a <a href="#supporting-acms">Good Focus List Checklist </a>
+   >- Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
 >- [ ] Ensure ACMs participate in <a href="#q1-acme-survey"> Q1 ACME Survey </a> from HQ
 >- You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
 >- [ ] Train ACMs on Time Tracking
