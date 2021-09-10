@@ -16,6 +16,6 @@
 >- [ ] Train ACMs on Time Tracking
 >- [ ] Train ACMs on the Focus List Process and begin selections at your own pace
 >           - Trainings can be found here and here
->- [ ] (Optional) <a href="#hmh-implementation"> Prepare  for HMH assessment </a> if your school opted in
+>- [ ] *Optional* <a href="#hmh-implementation"> Prepare  for HMH assessment </a> if your school opted in
 >      -	Without HMH your goals will be measured by grades at secondary and Marks at elementary (If data is available)
 >- Continue on to [Quarter 2](q2.md) when ready.
