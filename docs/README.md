@@ -10,11 +10,11 @@ If you would like to make improvements or request new content for this site, ple
 
 - [FY22 Omnibus](https://bit.ly/2SAPhBr)
 - [Links to Bookmarks](bookmarks.md)
-- [IA Newsletters](https://bit.ly/2S2Y3rx)
+- [IA Newsletters](https://bit.ly/3A1kvSV)
 - [IA Stream Channel](https://bit.ly/3A9gHiJ)
 - [L&D Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx)
 - [Word Document of this Site](https://bit.ly/3qGDPkn)
-- [TEST](test.md)
+- [TESTing](test.md)
 
 ## Features
 - Smart full-text search plugin
