@@ -13,9 +13,10 @@
 >- Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
 >- [ ] Ensure ACMs participate in <a href="#q1-acme-survey"> Q1 ACME Survey </a> from HQ
 >- You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
->- [ ] Train ACMs on Time Tracking
->- [ ] Train ACMs on the Focus List Process and begin selections at your own pace
->- Trainings can be found here and here
+>- [ ] Train ACMs on [Time Tracking](https://bit.ly/3laHpAZ)
+>- [ ] Support ACMs as they use [paper trackers](https://bit.ly/3lgzO3K)
+>- [ ] Train ACMs on the Focus List Process and begin selections at your own pace. FL Process Training & FL Roll-Out Pt.1 + 2
+>- 
 >- [ ] **Optional** Prepare  for HMH assessment  if your school opted in
 >- Without HMH your goals will be measured by grades at secondary and Marks at elementary
 >- Continue on to [Quarter 2](q2.md) when ready.
