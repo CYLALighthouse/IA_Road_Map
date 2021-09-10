@@ -9,13 +9,13 @@
 >- [ ] Check in with your TL to [review](elt.md) <a href="#elt"> ELT data processes </a>
 >- [ ] Complete the [FINAL ACM in Class Deployment workbook](https://bit.ly/3C8dd0n)
 >- [ ] Support corps members observing students in their classes
->           - What Makes a <a href="#supporting-acms">Good Focus List Checklist </a>
->           - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
+>-           - What Makes a <a href="#supporting-acms">Good Focus List Checklist </a>
+>-           - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
 >- [ ] Ensure ACMs participate in <a href="#q1-acme-survey"> Q1 ACME Survey </a> from HQ
->      - You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
+>-           - You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
 >- [ ] Train ACMs on Time Tracking
 >- [ ] Train ACMs on the Focus List Process and begin selections at your own pace
->           - Trainings can be found here and here
->- [ ] Optional <a href="#hmh-implementation"> Prepare  for HMH assessment </a> if your school opted in
->      -	Without HMH your goals will be measured by grades at secondary and Marks at elementary (If data is available)
+>-           - Trainings can be found here and here
+>- [ ] Optional Prepare  for HMH assessment  if your school opted in
+>-           - Without HMH your goals will be measured by grades at secondary and Marks at elementary
 >- Continue on to [Quarter 2](q2.md) when ready.
