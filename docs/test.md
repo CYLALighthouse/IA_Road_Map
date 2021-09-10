@@ -22,6 +22,6 @@
 >- [ ] Support ACMs as they use [paper trackers](https://bit.ly/3lgzO3K)
 >- [ ] Train ACMs on the Focus List Process and begin selections at your own pace. FL Process Training & FL Roll-Out Pt.1 + 2
 > 
-> [ ] Prepare  for HMH Assessments  if applicable for your school **Optional**
-> * Without HMH your goals will be measured by grades at secondary and Marks at elementary
-> [ ] Continue on to [Quarter 2](q2.md) when ready.
+>- [ ] Prepare  for HMH Assessments  if applicable for your school **Optional**
+> *    Without HMH your goals will be measured by grades at secondary and Marks at elementary
+>- [ ] Continue on to [Quarter 2](q2.md) when ready.
