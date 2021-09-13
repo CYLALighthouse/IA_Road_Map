@@ -1,17 +1,29 @@
-# Quarter #1 (Summer Planning)
+palceholder.md
+# Quarter #2 (Starting Strong)
 
-<body><h3 style="background-color:darkslateblue;"><c style="color:white">July - August Items</h3></body>
+<body><h3 style="background-color:darkturquoise;"><c style="color:white;">September - December</h3></body>
 
-The first quarter of the year starts in July before the corps has arrived for BTA. Analytics is at work getting teams prepared for service by running team placement, CACME engagement for incoming corps and general end of year closeout items. The first quarter involves a great deal of planning before we enter the school house around things like goal setting with partners, engaging with incoming ACMs, and planning out where your team will be placed in schools with teachers. See below a checklist of first quarter items, specific dates and directions for each task. 
 
-<body><h3><i> <p style="color:darkturquoise">First Quarter Checklist</p></i></h3></body>
+<body><h3><i> <p style="color:darkturquoise">Second Quarter Checklist</p></i></h3></body>
 
 >- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](https://bit.ly/3yPPzDC) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) or [the AllAboard Report](https://bit.ly/3hgfRsD)
 >- [ ] **LAUSD ONLY** Work with school partners to provide a [Teacher Schedule Report](https://bit.ly/3ndG8vy) in CSV format to Analytics in [this folder](https://bit.ly/3ts6xXr)
 >- [ ] Complete a draft version of [ACM in Class Deployment Workbook](https://bit.ly/3he0KjI) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) as needed
 >- [ ] Check in with your TL to [review](elt.md) <a href="#elt"> ELT data processes </a>
+>- [ ] Complete the [FINAL ACM in Class Deployment workbook](https://bit.ly/3C8dd0n)
+>- [ ] Support corps members in observing students in their classes
+>     - What Makes a <a href="#supporting-acms">Good Focus List Checklist </a>
+>     - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
+>- [ ] Ensure ACMs participate in <a href="#q1-acme-survey"> Q1 ACME Survey </a> from HQ
+>     - You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
+>- [ ] Train ACMs on [Time Tracking](https://bit.ly/3laHpAZ)
+>- [ ] Support ACMs as they use [paper trackers](https://bit.ly/3lgzO3K)
+>- [ ] Train ACMs on the Focus List Process and begin selections at your own pace. FL Process Training & FL Roll-Out Pt.1 + 2
+>- [ ] Prepare  for HMH Assessments  if applicable for your school **Optional**
+>     - Without HMH your goals will be measured by grades at secondary and Marks at elementary
+>- [ ] Continue on to [Quarter 2](q2.md) when ready.
 
-<body><h3 style="background-color:darkslateblue;"><c style="color:white">July - August Item Details</h3></body>
+<body><h3 style="background-color:darkslateblue;"><c style="color:white">September - December Item Details</h3></body>
 
 <section id="cacme-tracking">
 <h3><p style="color:darkturquoise"><i> Engage in CACME Tracking </i></p></h3>
@@ -109,3 +121,75 @@ Team leaders will be the people that Impact Analytics reaches out to when ELT ap
 
 #### ELT Resources
 ELT training resources here. 
+
+
+<section id="supporting-acms">
+<h3><p style="color:darkturquoise"><i> Support ACMs w/FLs </i></p></h3>
+</section>
+
+<h4><p style="color:darkorange"> The Focus List Process </p></h4>
+
+In FY22 the focus list process is being simplified to have less steps and allow for greater flexibility in selecting students. Rather than starting with an initial caseload of students and then narrowing it down to a final focus list Corps members will just pick a caseload of 11 students when they feel like they have identified the correct students to receive services. The timeline for this process is listed below and <a href="#good-fl"> recommendations </a> for what makes a food focus list.
+
+| Item                                          | Suggest Due Date | Links to Docs |
+|-----------------------------------------------|------------------|---------------|
+| LAUSD School Start Date                       | 8/16/2021        |               |
+| IUSD School Start Date                        | 8/23/2021        |               |
+| ACMs begin Observing Students using the FL Checklist| 8/15/2021  |               |
+| Time Tracking Training                        | 8/15/2021        | Document      |
+| Focus List Training                           |                  |               |
+| ACMs use Power BI Student Portrait Pages      | 8/25/2021        | Link to PBI   |
+| Focus List Workbook Training                  | 9/15/2021        |               |
+| ACM Select 11 FFLS                            | 10/15/2021       |               |
+| ACM Select 6 SED Students                     | 10/20/2021       |               |
+| PMs notify IA when all ACMs have finalized FL List on Workbooks| 10/30/2021|     |
+
+The Initial Focus List process begins with completing your school’s draft Deployment Workbook Template. Completion of the draft Deployment Workbook signifies that your team has been deployed into stable class lines and are ready to take steps towards building their initial focus list. Prior to making selections, ACMs will begin their student observation window (1-2 weeks). During this time, ACMs will begin to identify potential students, have initial conversations with their partner teachers, and explore the Student Portrait dashboard.
+
+- ACMs will observe students in their classes 
+- ACMS will have initial conversations with partner teachers and consider their recommendations 
+- ACMs will explore the Student Portrait Dashboard on Power BI 
+   - Prior year attendance & grades 
+
+During this period, the IA team will give PMs and ACMs access to their school’s Focus List Workbooks. Once ACMs have solidified their initial list of 11 students, they may input their information into the focus list workbook. 
+
+- Select 11 students who may be ideal for a focus list 
+- Input student information into Focus List Workbook 
+  - Student ID (included in the Student Portrait Dashboard), subject, enrollment date (first day ACM started working with student), and SED indicator
+
+The general timelines for the focus list process are below and are subject to change. Keep in mind these are recommended windows in which things should progress and your school may be different. 
+
+[Observation Catchers](https://bit.ly/3AfjGpR) for Focus Lists 
+
+<section id="good-fl"><h4><p style="color:darkorange"> What to Look for in a Focus List </p></h4></section>
+
+Link here to final explanations 
+
+When selecting a focus list student, it is important to consider the following: 
+
+>- [ ] In the past year, was this student on track or off track? 
+>   - 96% or higher attendance 
+>   - Passing ELA and Math classes 
+>   - No more than 1 behavior mark the prior year 
+>- [ ] Does the student have low attendance last year or within the first ten weeks of this year? 
+>   - Missing more than two days of the first month of school 
+>- [ ] Is the student missing assignments or scoring low on in class content in the first month? 
+
+*To view full document, follow this link*
+
+
+<section id="acmesurvey">
+<h3><p style="color:darkturquoise"><i> Q1 ACME Survey </p></i></h3>
+</section>
+
+The headquarters AmeriCorps Member Experience team runs a survey every quarter for corps members to give their input on key questions used by the organization to monitor the experience and engagement of the corps in their service year. 
+
+Michelle will share more details about the dates/times for the survey but in the meantime you can reference this link to view past results for the ACME survey
+
+<section id="hmh">
+<h3><p style="color:darkturquoise"><i> Optional HMH Implementation </p></i></h3>
+</section>
+
+Prep your teams for HMH. Prep Teachers for the dates when students are pulled out of class etc… 
+
+More info to come on this soon…
