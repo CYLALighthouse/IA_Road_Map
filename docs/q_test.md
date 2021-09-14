@@ -6,21 +6,21 @@ The first quarter of the year starts in July before the corps has arrived for BT
 
 ### <span style="color:gold"> First Quarter Checklist </span>
 
->- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](#engage-in-cacme-tracking) by leveraging your [team demographics dashboards](##Accessing-Team-Demographics-Dashboard) or [the AllAboard Report](https://bit.ly/3hgfRsD)
+>- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](#engage-in-cacme-tracking) by leveraging your [team demographics dashboards](#Accessing-Team-Demographics-Dashboard) or [the AllAboard Report](https://bit.ly/3hgfRsD)
 >- [ ] **LAUSD ONLY** Work with school partners to provide a [Teacher Schedule Report](#getting-teacher-roster-reports) in CSV format to Analytics and upload to [this folder](https://bit.ly/3ts6xXr)
 >- [ ] Complete a draft version of [ACM in Class Deployment Workbook](#draft-deployment-workbook) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) as needed
 >- [ ] Check in with your TL to review [ELT data processes](#extended-learning-time)
 
 <body><h3 style="background-color:dodgerblue;"><c style="color:white">July - August Item Details</h3></body>
 
-## <span style="color:gold"> Engage in CACME Tracking </span>
+## Engage in CACME Tracking
 
    Analytics summer planning starts with engaging corps members who have been placed at your schools. The ACM onboarding team has worked all summer with Recruitment and Admissions to get your ACMs prepared for service and ready to show up to BTA. To view your teams and their unique dempographics, go to the [FY22 Team Demographics Power BI Report](https://bit.ly/3A5Xyyl). For step-by-step directions on accesing the report, view the directions below this video.
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/2e3042e8-9600-4c40-958e-ec706ab7ff92?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 
-### <u> Accessing Team Demographics Dashboard </u>
+### Accessing Team Demographics Dashboard
 
 1. Visit app.powerbi OR find the yellow Power BI icon in the app launcher found int he top lef-hand corner of your outlook email or on any page on cyconnect
 2. Go to Apps using the left-hand navigation
@@ -53,7 +53,7 @@ The first quarter of the year starts in July before the corps has arrived for BT
    Inglewood uses a data platform called Schoolzilla to manage their data. City Year uses Schoolzilla to access student performance data for your schools. Sometime in the first quarter the Analytics team will provide a training specifically for IUSD schools on how to access Schoolzilla for viewing student performance data.
 
 
-## <span style="color:gold"> Draft Deployment Workbook </span>
+## Draft Deployment Workbook
 
 In the summer, as you plan with partners where ACMs will be placed into class lines, please fill out a copy of the draft deployment workbook. The IA team has build out the [Team Demographics Dashboard](https://bit.ly/2US97cg) to assist with this process by providing information that might help with assigning class lines.**This workbook will be a placeholder for the Final Deployment Workbook** that will be *released when you have submitted a teacher schedule report.* Workbooks for elementary and secondary schools will differ due to their specific needs. Span schools will have both an elementary and secondary version to meet the needs of the grades they will be serving.
 
@@ -71,7 +71,7 @@ The final workbook will then become a key part of our data model and will be use
 ```
 
 
-## <span style="color:gold"> Extended Learning Time </span>
+## Extended Learning Time
 
 
 The general MOCHA for ELT data items is shown below. For more information about ELT technical processes and training refer to the [ELT roadmap page](https://cylalighthouse.github.io/IA_Road_Map/#/elt).
