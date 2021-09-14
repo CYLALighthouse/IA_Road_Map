@@ -4,7 +4,7 @@
 
 The first quarter of the year starts in July before the corps has arrived for BTA. Analytics is at work getting teams prepared for service by running team placement, CACME engagement for incoming corps and general end of year closeout items. The first quarter involves a great deal of planning before we enter the school house around things like goal setting with partners, engaging with incoming ACMs, and planning out where your team will be placed in schools with teachers. See below a checklist of first quarter items, specific dates and directions for each task. 
 
-### <span style="color:gold"> First Quarter Checklist </span>
+### <span style="color:darkturquoise;"> <i> First Quarter Checklist </i></span>
 
 >- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](#engage-in-cacme-tracking) by leveraging your [team demographics dashboards](#Accessing-Team-Demographics-Dashboard) or [the AllAboard Report](https://bit.ly/3hgfRsD)
 >- [ ] **LAUSD ONLY** Work with school partners to provide a [Teacher Schedule Report](#getting-teacher-roster-reports) in CSV format to Analytics and upload to [this folder](https://bit.ly/3ts6xXr)
