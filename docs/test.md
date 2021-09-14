@@ -8,7 +8,9 @@
 
 
 
-Does this link take you to the [test this link](#heading-ids)?
+Does this link take you to the [test this link](#custom-id)
+
+how about [this](#heading-test)
 
 # Quarter #2 (Starting Strong)
 
@@ -141,6 +143,8 @@ Michelle will share more details about the dates/times for the survey but in the
 
 <h3><p style="color:darkturquoise"><i> Focus List ACM Trainings </i></p></h3>
 
+## heading test
+
 To continue moving forward in the focus list process, PMs must have their teams go throught the following trainings:
 
 | Training                      | Who?    | Dates   |
@@ -154,13 +158,8 @@ To continue moving forward in the focus list process, PMs must have their teams 
 
 <h3><p style="color:darkturquoise"><i> Preparing for HMH </i></p></h3>
 
-HMH Testing
----------------
-
 testing stuff..
 
-<h3><p style="color:darkturquoise"><i> Preparing for DESSA </i></p></h3>
-
-## Heading IDs Test {#heading-ids}
+## My Great Heading {#custom-id}
 
 Testing, testing, testing
