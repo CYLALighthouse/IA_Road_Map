@@ -1,10 +1,14 @@
 # <span style="color:blue"> text </span>
+## <span style="color:blue"> text </span>
+### <span style="color:blue"> text </span>
+
+
 
 <span style="color:blue"> # text </span>
 
 
 
-[Heading IDs](#heading-ids)
+Does this link take you to the [test this link](#heading-ids)?
 
 # Quarter #2 (Starting Strong)
 
@@ -157,6 +161,6 @@ testing stuff..
 
 <h3><p style="color:darkturquoise"><i> Preparing for DESSA </i></p></h3>
 
-<a href="#heading-ids">Heading IDs</a>
+## Heading IDs Test {#heading-ids}
 
 Testing, testing, testing
