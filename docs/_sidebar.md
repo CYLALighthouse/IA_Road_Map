@@ -12,13 +12,13 @@
         - [Q2: Starting Strong](q2.md)
         - [Q3: Continuing Strong](q3.md)
         - [Q4: Finishing Strong](q4.md)
-        - [test](test.md)
+        - [test](q_test.md)
 
 - Trainings an Resources by IA
     - [CYSchoolhouse](cysh.md)
     - [Extended Learning Time](elt.md)
     - [PowerApps](powerapps.md)
-    - [Training](trainingcontent.md)
+    - [Training](test.md)
 
 - Supplemental Materials
     - [Links to Bookmark](bookmarks.md)

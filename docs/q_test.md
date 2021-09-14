@@ -1,0 +1,89 @@
+# Quarter #1 (Summer Planning)
+
+<body><h3 style="background-color:dodgerblue;"><c style="color:white">July - August Items<c/></h3></body>
+
+The first quarter of the year starts in July before the corps has arrived for BTA. Analytics is at work getting teams prepared for service by running team placement, CACME engagement for incoming corps and general end of year closeout items. The first quarter involves a great deal of planning before we enter the school house around things like goal setting with partners, engaging with incoming ACMs, and planning out where your team will be placed in schools with teachers. See below a checklist of first quarter items, specific dates and directions for each task. 
+
+### <span style="color:gold"> First Quarter Checklist </span>
+
+>- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](#engage-in-cacme-tracking) by leveraging your [team demographics dashboards](##Accessing-Team-Demographics-Dashboard) or [the AllAboard Report](https://bit.ly/3hgfRsD)
+>- [ ] **LAUSD ONLY** Work with school partners to provide a [Teacher Schedule Report](#getting-teacher-roster-reports) in CSV format to Analytics and upload to [this folder](https://bit.ly/3ts6xXr)
+>- [ ] Complete a draft version of [ACM in Class Deployment Workbook](#draft-deployment-workbook) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) as needed
+>- [ ] Check in with your TL to review [ELT data processes](#extended-learning-time)
+
+<body><h3 style="background-color:dodgerblue;"><c style="color:white">July - August Item Details</h3></body>
+
+## <span style="color:gold"> Engage in CACME Tracking </span>
+
+   Analytics summer planning starts with engaging corps members who have been placed at your schools. The ACM onboarding team has worked all summer with Recruitment and Admissions to get your ACMs prepared for service and ready to show up to BTA. To view your teams and their unique dempographics, go to the [FY22 Team Demographics Power BI Report](https://bit.ly/3A5Xyyl). For step-by-step directions on accesing the report, view the directions below this video.
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/2e3042e8-9600-4c40-958e-ec706ab7ff92?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+
+### <u> Accessing Team Demographics Dashboard </u>
+
+1. Visit app.powerbi OR find the yellow Power BI icon in the app launcher found int he top lef-hand corner of your outlook email or on any page on cyconnect
+2. Go to Apps using the left-hand navigation
+3. Find the CYLA Site Reports App
+4. Use the left-hand navigation to find the "FY22 Team Demographics" dashboard
+
+<p align="center">
+<img src="_images/teamdemo-nav.PNG" alt="IA-Roles" style="width:30%;"/>
+</p> <p align="center">
+<img src="_images/teamdemopage.PNG" alt="IA-Roles" style="width:95%;"/>
+</p>
+
+
+## Getting Teacher Roster Reports
+
+
+   Data is key to much of what the Analytics team does each year but as a contractor for the district we can only get a limited scope of data and it must be stored securely. For both of our school districts the process of getting student data is different. See your school district below for more specifics on how to get school specific data for ACM deployment, focus lists and ELT.
+
+### <u> Los Angeles Unified School District </u>
+   In June CYLA should communicate to LAUSD Office of Data and Accountability about re-establishing a data use contract for the coming school year. *This process has been historically slow and should be started as soon as possible*
+
+   1. Program Directors (PDs) and or Program Managers (Pms) should assist in this process by asking their partners to run a teacher schedule report. Teacher schedule reports should be uploaded to this [folder](https://bit.ly/3ts6xXr)
+   2. PDs should update the tracker.
+
+      ```pdf
+      files/Teacher_Roster_Report_Protocol.pdf
+      ```
+
+### <u> Inglewood Unified School District </u>
+   Inglewood uses a data platform called Schoolzilla to manage their data. City Year uses Schoolzilla to access student performance data for your schools. Sometime in the first quarter the Analytics team will provide a training specifically for IUSD schools on how to access Schoolzilla for viewing student performance data.
+
+
+## <span style="color:gold"> Draft Deployment Workbook </span>
+
+In the summer, as you plan with partners where ACMs will be placed into class lines, please fill out a copy of the draft deployment workbook. The IA team has build out the [Team Demographics Dashboard](https://bit.ly/2US97cg) to assist with this process by providing information that might help with assigning class lines.**This workbook will be a placeholder for the Final Deployment Workbook** that will be *released when you have submitted a teacher schedule report.* Workbooks for elementary and secondary schools will differ due to their specific needs. Span schools will have both an elementary and secondary version to meet the needs of the grades they will be serving.
+
+The final workbook will then become a key part of our data model and will be used to get access to student data from those specified class lines. Without a completed draft or final deployment workbook, our team will not be able to access data for students, **please complete as soon as possible.**
+
+>- **Before submitting Teacher Roster Report:** Access your team's [Draft Deployment Workbook](https://bit.ly/3he0KjI)
+>- **After submitting Teacher Roster Report:** Access your team's [Final Deployment](https://bit.ly/3C8dd0n) 
+
+```pdf
+   files/Elem_Deployment_Workbook.pdf
+```
+
+```pdf
+   files/Sec_Deployment_Workbook.pdf
+```
+
+
+## <span style="color:gold"> Extended Learning Time </span>
+
+
+The general MOCHA for ELT data items is shown below. For more information about ELT technical processes and training refer to the [ELT roadmap page](https://cylalighthouse.github.io/IA_Road_Map/#/elt).
+
+
+|     Item                                            |     Program Manager    |     Team Leader    |     Corps Member    |
+|-----------------------------------------------------|------------------------|--------------------|---------------------|
+|     Conducts ELT programming                        |     Manager            |     Owner          |     Helper          |
+|     Deploys and Collects ELT Applications           |                        |     Owner          |     Helper          |
+|     Digitizes ELT Applications in Workbooks         |                        |     Owner          |     Helper          |
+|     Fills out ELT Rosters on Workbooks              |                        |     Owner          |     Consulted       |
+|     Prints ELT Rosters and/or Enters Time In/Out    |                        |     Owner          |     Helper          |
+|     Reviews ELT Data regularly                      |     Manager            |     Owner          |     Helper          |
+|     Validates data errors                           |     Manager            |     Owner          |     Consulted       |
+|     Ensures a high quality ELT program              |     Manager            |     Owner          |     Helper          |
