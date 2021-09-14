@@ -4,7 +4,7 @@
 
 how about [this](#heading-test)
 
-### heading test
+### heading test 2
 
 # Quarter #1 (Summer Planning)
 
@@ -42,7 +42,7 @@ The first quarter of the year starts in July before the corps has arrived for BT
 </p>
 
 
-### <span style="color:gold"> <i> Getting Teacher Roster Reports </i> </span>
+### <span style="color:gold"> Getting Teacher Roster Reports </span>
 
 
    Data is key to much of what the Analytics team does each year but as a contractor for the district we can only get a limited scope of data and it must be stored securely. For both of our school districts the process of getting student data is different. See your school district below for more specifics on how to get school specific data for ACM deployment, focus lists and ELT.
