@@ -1,66 +1,42 @@
-# Quarter #1 (Summer Planning)
+# Quarter #2 (Starting Strong)
 
-<body><h3 style="background-color:dodgerblue;"><c style="color:white">July - August Items<c/></h3></body>
-
-The first quarter of the year starts in July before the corps has arrived for BTA. Analytics is at work getting teams prepared for service by running team placement, CACME engagement for incoming corps and general end of year closeout items. The first quarter involves a great deal of planning before we enter the school house around things like goal setting with partners, engaging with incoming ACMs, and planning out where your team will be placed in schools with teachers. See below a checklist of first quarter items, specific dates and directions for each task. 
-
-### <span style="color:darkturquoise;"> <i> First Quarter Checklist </i></span>
-
->- [ ] Engage incoming ACMs on your team via the [CACME PowerApp](#engage-in-cacme-tracking) by leveraging your [team demographics dashboards](#Accessing-Team-Demographics-Dashboard) or [the AllAboard Report](https://bit.ly/3hgfRsD)
->- [ ] **LAUSD ONLY** Work with school partners to provide a [Teacher Schedule Report](#getting-teacher-roster-reports) in CSV format to Analytics and upload to [this folder](https://bit.ly/3ts6xXr)
->- [ ] Complete a draft version of [ACM in Class Deployment Workbook](#draft-deployment-workbook) by leveraging your [team demographics dashboards](https://bit.ly/2US97cg) as needed
->- [ ] Check in with your TL to review [ELT data processes](#extended-learning-time)
-
-<body><h3 style="background-color:dodgerblue;"><c style="color:white">July - August Item Details</h3></body>
-
-## Engage in CACME Tracking
-
-   Analytics summer planning starts with engaging corps members who have been placed at your schools. The ACM onboarding team has worked all summer with Recruitment and Admissions to get your ACMs prepared for service and ready to show up to BTA. To view your teams and their unique dempographics, go to the [FY22 Team Demographics Power BI Report](https://bit.ly/3A5Xyyl). For step-by-step directions on accesing the report, view the directions below this video.
-
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/2e3042e8-9600-4c40-958e-ec706ab7ff92?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<body><h3 style="background-color:darkslateblue;"><c style="color:white;">September - December</h3></body>
 
 
-### Accessing Team Demographics Dashboard
+<body><h3><i> <p style="color:darkturquoise">Second Quarter Checklist</p></i></h3></body>
 
-1. Visit app.powerbi OR find the yellow Power BI icon in the app launcher found int he top lef-hand corner of your outlook email or on any page on cyconnect
-2. Go to Apps using the left-hand navigation
-3. Find the CYLA Site Reports App
-4. Use the left-hand navigation to find the "FY22 Team Demographics" dashboard
+>- [ ] Complete your Final Deployment Workbook. [Found on your school dashboard.](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/SitePages/School%20Dashboards.aspx)
+>- [ ] Support corps members in observing students in their classes
+>     - What Makes a Good Focus List Checklist
+>     - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Early Warning Indicators (EWI) page
+>- [ ] Ensure ACMs participate in Q1 ACME Survey from HQ
+>     - You should have access to [CultureAmp](https://cityyear.cultureamp.com/app/home) to view results as they come in
+>- [ ] IUSD ONLY: Activate your Mosaic account & Support ACMs to activate their accounts as well
+>- [ ] IUSD ONLY: Train ACMs on Mosaic
+>- [ ] Train your team on the [T2ST Time tracking processes](https://bit.ly/3C3RExY)
+>- [ ] Support ACMs as they use [paper trackers](https://bit.ly/3lgzO3K)
+>- [ ] Train ACMs on the Focus List Process & FL Process Training & FL Roll-Out Pt.1 + 2
+>- [ ] Faciliate the [Focus List Workbook](https://bit.ly/3z8jrv2) training for your team
+>- [ ] Support your team in finalizing their 11 focus list students in the [Focus List Workbook](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/SitePages/School%20Dashboards.aspx) and audit as necessary
+>- [ ] Attend Analytics Training on CYSchoolhouse Lightning
+>- [ ] Prepare  for HMH Assessments  if applicable for your school **Optional**
+>     - Without HMH your goals will be measured by grades at secondary and Marks at elementary
+>- [ ] Roll-out DESSA Training to team **Optional**
+>- [ ] Prepare for DESSA Assessments **Optional**
+>- [ ] Support your team in finalizing their 6 SED FL students in the [Focus List Workbook](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/SitePages/School%20Dashboards.aspx) and audit as necessary
+>- [ ] Continue on to [Quarter 2](q2.md) when ready.
 
-<p align="center">
-<img src="_images/teamdemo-nav.PNG" alt="IA-Roles" style="width:30%;"/>
-</p> <p align="center">
-<img src="_images/teamdemopage.PNG" alt="IA-Roles" style="width:95%;"/>
-</p>
-
-
-## Getting Teacher Roster Reports
-
-
-   Data is key to much of what the Analytics team does each year but as a contractor for the district we can only get a limited scope of data and it must be stored securely. For both of our school districts the process of getting student data is different. See your school district below for more specifics on how to get school specific data for ACM deployment, focus lists and ELT.
-
-### <u> Los Angeles Unified School District </u>
-   In June CYLA should communicate to LAUSD Office of Data and Accountability about re-establishing a data use contract for the coming school year. *This process has been historically slow and should be started as soon as possible*
-
-   1. Program Directors (PDs) and or Program Managers (Pms) should assist in this process by asking their partners to run a teacher schedule report. Teacher schedule reports should be uploaded to this [folder](https://bit.ly/3ts6xXr)
-   2. PDs should update the tracker.
-
-      ```pdf
-      files/Teacher_Roster_Report_Protocol.pdf
-      ```
-
-### <u> Inglewood Unified School District </u>
-   Inglewood uses a data platform called Schoolzilla to manage their data. City Year uses Schoolzilla to access student performance data for your schools. Sometime in the first quarter the Analytics team will provide a training specifically for IUSD schools on how to access Schoolzilla for viewing student performance data.
+<body><h3 style="background-color:darkslateblue;"><c style="color:white">September - December Item Details</h3></body>
 
 
-## Draft Deployment Workbook
+<h3><p style="color:darkturquoise"><i> Final Deployment Workbooks </i></p></h3>
 
-In the summer, as you plan with partners where ACMs will be placed into class lines, please fill out a copy of the draft deployment workbook. The IA team has build out the [Team Demographics Dashboard](https://bit.ly/2US97cg) to assist with this process by providing information that might help with assigning class lines.**This workbook will be a placeholder for the Final Deployment Workbook** that will be *released when you have submitted a teacher schedule report.* Workbooks for elementary and secondary schools will differ due to their specific needs. Span schools will have both an elementary and secondary version to meet the needs of the grades they will be serving.
+Filling out the **Final Deployment workbooks** is the last step PMs need to take in order to begin the process of recieving student level data for their schools. The information from these workbooks will allows the IA team to request student data that will made accessible to PMs and ACMs through the WSWC Power BI Report.
 
-The final workbook will then become a key part of our data model and will be used to get access to student data from those specified class lines. Without a completed draft or final deployment workbook, our team will not be able to access data for students, **please complete as soon as possible.**
+*In addition to providing IA with ACM class line information, please use your workbook to share partner teacher, admin and/or other staff emails for upcomming partner surveys.*
 
 >- **Before submitting Teacher Roster Report:** Access your team's [Draft Deployment Workbook](https://bit.ly/3he0KjI)
->- **After submitting Teacher Roster Report:** Access your team's [Final Deployment](https://bit.ly/3C8dd0n) 
+>- **After submitting Teacher Roster Report:** Access your team's [Final Deployment](https://bit.ly/3C8dd0n)
 
 ```pdf
    files/Elem_Deployment_Workbook.pdf
@@ -70,20 +46,120 @@ The final workbook will then become a key part of our data model and will be use
    files/Sec_Deployment_Workbook.pdf
 ```
 
+<section id="supporting-acms">
+<h3><p style="color:darkturquoise"><i> Support ACMs with Focus List Selections </i></p></h3>
+</section>
 
-## Extended Learning Time
+<h4><p style="color:darkorange"> The Focus List Process </p></h4>
+
+In FY22 the focus list process is being simplified to have less steps and allow for greater flexibility in selecting students. Rather than starting with an initial caseload of 15 students and then narrowing it down to a final focus list, Corps members will only pick a caseload of 11 students when they feel like they have identified the correct students to receive services. The timeline for this process is listed below along with recommendations for focus list fit.
+
+The general timelines for the focus list process are below and are subject to change. Keep in mind these are recommended windows in which things should progress and your school may be different. 
+
+|    |Item                                          | Suggest Due Date     | Links to Docs |
+|----|----------------------------------------------|----------------------|---------------|
+|[x]| PMs deploy ACMs into classes| 8/13/2021 | [Draft Deployment Workbook](https://bit.ly/3he0KjI)|
+|[x]| LAUSD School Start Date                       | 8/16/2021        |               |
+|[x]| IUSD School Start Date                        | 8/23/2021        |               |
+|[x]| ACMs begin Observing Students | 8/15/2021 | [Observation Catchers](https://bit.ly/3AfjGpR)|
+|[x]| Time Tracking Training           | 8/15/2021| [Time Tracking Academic Coaching](https://bit.ly/3Ecx2Fw)|
+|[ ]| Focus List Training                           |                  |               |
+|[ ]| **LAUSD ACMs** use Power BI: EWI page to access student data| *not available*| [WSWC Progress Monitoring Report](https://bit.ly/3A9kvQN) |
+|[ ]| **IUSD ACMs** use Mosaic to access student data | *now available* | [Mosaic Trainings](https://bit.ly/395T2Dx) |
+|[ ]| Focus List Workbook Training | 9/15/2021 | [Focus List Workbook Roll-Out](https://bit.ly/3k8LJBC) + [Focus List Wkbk Overview](https://bit.ly/3nuQSWD)|
+|[ ]| ACM Select 11 FLS                             | 10/18-11/19      |               |
+|[ ]| PMs notify IA: all students finalized FL List on Workbooks| 10/18-11/19|         |
+|[ ]| DESSA Training                                | 10/15/2021       |               |
+|[ ]| ACMs DESSA their 11 FLs                       | 12/17/2021       |               |
+|[ ]| ACMs HMH Test 11 FLs *optional*               | 12/17/2021       |               |
+|[ ]| ACM Select 6 SED Students                     | 12/17/2021       |               |
+|[ ]| PMs notify IA: SED students are finalized FL List on Workbooks| 12/17/2021|     |
+
+The Initial Focus List process begins with completing your school’s draft Deployment Workbook Template. Completion of the draft Deployment Workbook signifies that your team has been deployed into stable class lines and are ready to take steps towards building their initial focus list. Prior to making selections, ACMs will begin their student observation window (1-2 weeks). During this time, ACMs will begin to identify potential students, have initial conversations with their partner teachers, and explore the Early Warning Indicator (EWI) page in the Progress Monitoring dashboard if data is availabe, otherswise ACMs can ask partner teachers for student data.
+
+<section id="good-fl"><h4><p style="color:darkorange"> What to Look for in a Focus List </p></h4></section>
+
+>- Partner Teacher Approval
+>- Observations that student is **Off Track** & willing to be coached
+>- Data indicates good fit:
+>     - D or F in related subject (ELA/Math) OR 2 or 3 in Elementary Marks
+>        - applies to prior year data or current year data 
+>     - SED: Behavior infractions and/or 86-95% ADA previous year or currently
+
+Please note that data indicators are not definitive criteria for selecting a focus list student. ACMs should also consider partner teacher input and their own observations. **However our state commission grant expects us to work with focus list students who are "off track" in the area we are providing services.** If data is not available at the time of focus list selection use your partner teachers and in class observations to make the best selections possible. ACMs might be able to request data from their partner teachers as well.
+
+*View complete [FY22 Service Model document](https://bit.ly/3tESBtt)*
+
+<h4><p style="color:darkorange"> Accessing Power BI </p></h4>
+
+1. Visit [app.powerbi.com](https://app.powerbi.com/home) OR find the yellow Power BI icon in the app launcher found on the top left-hand corner of your outlook email or on any page on cyconnect
+
+<img src="_images/app-launcher.PNG" alt="app-launcher" style="width:20%;"/>
+
+2. Go to Apps using the left-hand navigation
+3. Find the CYLA WSWC Progress Monitoring Reports App
+
+<img src="_images/WSWC-app.PNG" alt="WSWC-app" style="width:100%;"/>
+
+4. Use the left-hand navigation to find the "FY22 Progress Monitoring" dashboard
+
+<u><h4> What you will find in the Early Warning Indicators (EWI) page: </u></h4>
+
+| Data You Will See               | Data You *Might* See                     |
+|---------------------------------|------------------------------------------|
+| General student demographics: Grade, ELL Status, ELD Level, SPED Indicator| Previous year course grades (ELA/Math)          |
+| Current course grades from most recent marking period | # of Failed Courses in the previous year          |
+| Most recent attendance rate | Previous Year attendance rate          |
+|   | ELA/Math SBAC bands from previous year          |
 
 
-The general MOCHA for ELT data items is shown below. For more information about ELT technical processes and training refer to the [ELT roadmap page](https://cylalighthouse.github.io/IA_Road_Map/#/elt).
+<h4><p style="color:darkorange"> Accessing Mosaic </p></h4>
+
+ACMs serving in a IUSD school will have access to student data via a platform call Schoolzille Mosaic. Here ACMs will have access to course performance, assessment, and demographics data for the students in their classes. They should use Schoolzilla Mosaic to help them select focus list students. In order for them to do this, PMs must walk them through the following two trainings:
+
+> 1. [Mosaic Account Set-Up Training](https://bit.ly/3lj8TUZ)
+> 2. [Mosaic Focus List Training](https://bit.ly/3kecFQt)
+
+*For any technical difficulties or questions, please reach out cbischel@cityyear.org*
+
+<section id="acmesurvey">
+<h3><p style="color:darkturquoise"><i> Q1 ACME Survey </p></i></h3>
+</section>
+
+The headquarters AmeriCorps Member Experience team runs a survey every quarter for corps members to give their input on key questions used by the organization to monitor the experience and engagement of the corps in their service year. 
+
+The first AmeriCorps Member Experience Survey of the year will take place during the month of September and will be focused on the ACM onboarding and L&D experience.
+
+Please periodically check ACM response rates via [CultureAmp](https://cityyearacme.cultureamp.com/) to ensure your team gets at least five responses. Any team with less than five responces wont be able to see their results.
+
+*If you have never created an account with CultureAmp, search your inbox for the welcome email to set-up your account.*
+
+Michelle Ferarri should share more info about upcoming team and site data reviews.
 
 
-|     Item                                            |     Program Manager    |     Team Leader    |     Corps Member    |
-|-----------------------------------------------------|------------------------|--------------------|---------------------|
-|     Conducts ELT programming                        |     Manager            |     Owner          |     Helper          |
-|     Deploys and Collects ELT Applications           |                        |     Owner          |     Helper          |
-|     Digitizes ELT Applications in Workbooks         |                        |     Owner          |     Helper          |
-|     Fills out ELT Rosters on Workbooks              |                        |     Owner          |     Consulted       |
-|     Prints ELT Rosters and/or Enters Time In/Out    |                        |     Owner          |     Helper          |
-|     Reviews ELT Data regularly                      |     Manager            |     Owner          |     Helper          |
-|     Validates data errors                           |     Manager            |     Owner          |     Consulted       |
-|     Ensures a high quality ELT program              |     Manager            |     Owner          |     Helper          |
+<h3><p style="color:darkturquoise"><i> Focus List ACM Trainings </i></p></h3>
+
+To continue moving forward in the focus list process, PMs must have their teams go throught the following trainings:
+
+| Training                           | Who?    | Dates   |
+|------------------------------------|---------|---------|
+| [T2ST Time Tracking Process](https://bit.ly/3C3RExY)        | PM      | 8/16-10/8 |
+| [Paper Trackers](https://bit.ly/3lgzO3K)                    | PM      | 8/16-10/8 |
+| Focus List Process                 | Service |   9/22/2021    |
+| Focus List Roll-Out Pt. 1 + 2      | L&D     |  TBD     |
+| [Focus List Workbook Roll-Out](https://bit.ly/3z8jrv2)  | PM      |     *When team is ready  |
+| CYSH Lightning Training for PMs     | IA | TBD | 
+
+<h3><p style="color:darkturquoise"><i> Preparing for HMH </i></p></h3>
+
+As of FY22 only two schools will be using City Year reading and math assessments. For Manual Arts and 20th Street elemetary school please contact Impact Analytics for more details about implementing HMH at your schools.
+
+You can also review the [HMH Toolkit](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/) as a headstart.
+
+<h3><p style="color:darkturquoise"><i> Preparing for DESSA </i></p></h3>
+
+The DESSA administrators of Aperture Education have sent out account activation emails to PMs and corps members with the subject line **"Your Aperture User Signup Invitation.”** Emails should have been sent to ACMs and PMs on 9/1 and 9/2 and need to be activated ***before 9/15.***
+
+Please have ACMs follow the [guide](https://bit.ly/394dtkv) to activate their DESSA accounts. PMs should also activate their accounts through the same process. Contact Impact Analytics if you or your ACMs have trouble creating accounts and see this [quick walkthrough video](https://bit.ly/3k8BWLy). If anyone needs their invitation sent out again, please contact Chris Bischel.
+
+>- The first DESSA administration will be in late November.
