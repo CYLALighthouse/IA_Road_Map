@@ -1,6 +1,8 @@
 # Quarter #2 (Starting Strong)
 
-<body><h3 style="background-color:darkturquoise;"><c style="color:white;">September - December</h3></body>
+Heading level 1
+===============
+September - December
 
 
 <body><h3><i> <p style="color:darkturquoise">Second Quarter Checklist</p></i></h3></body>
