@@ -1,8 +1,6 @@
 # Quarter #2 (Starting Strong)
 
-Heading level 1
-===============
-September - December
+
 
 
 <body><h3><i> <p style="color:darkturquoise">Second Quarter Checklist</p></i></h3></body>
@@ -146,5 +144,10 @@ To continue moving forward in the focus list process, PMs must have their teams 
 | CYSH Lightening Training for PMs| IA | TBD | 
 
 <h3><p style="color:darkturquoise"><i> Preparing for HMH </i></p></h3>
+
+HMH Testing
+---------------
+
+testing stuff..
 
 <h3><p style="color:darkturquoise"><i> Preparing for DESSA </i></p></h3>
