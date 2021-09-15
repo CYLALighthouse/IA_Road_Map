@@ -1,67 +1,67 @@
 # Quarter #3 (Mid Year Return)
 
-<body><h3 style="background-color:darkslateblue;"><c style="color:white;">January - March</h3></body>
+<body><h3 style="background-color:dodgerblue;"><c style="color:white;">January - March</h3></body>
 
 <body><h3><i> <p style="color:darkturquoise">Third Quarter Checklist</p></i></h3></body>
 
->- [ ] Review CYSH Lightning Training
->- [ ] Validate Focus Lists Sections on CYSH
->- [ ] Manage Focus List Changes in CYSH
->- [ ] Attend Indicator Areas Training with Impact Analytics
->- [ ] Update Indicator areas for your school's sections
->- [ ] Prepare for DESSA Administration Rd 2
->- [ ] Prepare for HMH Administration Rd 2 **optional**
->- [ ] Clean-up DESSA Duplicate ratings
->- [ ] Clean-up T2ST Time
->- [ ] Partner Surveys Tasks
+>- [ ] Review [CYSH Lightning Training](#review-cysh-lightning-training)
+>- [ ] Validate [Focus Lists Sections on CYSH](#validate-focus-list-sections-on-cysh)
+>- [ ] Manage [Focus List Changes in CYSH](#manage-focus-list-changes-in-CYSH)
+>- [ ] Attend [Indicator Areas Training with Impact Analytics](#Indicator-Areas-Training-with-Impact-Analytics)
+>- [ ] [Update Indicator Areas] for all CYSH sections
+>- [ ] [Prepare for [DESSA Administration Rd 2]
+>- [ ] [Prepare for HMH Administration Rd 2] **optional**
+>- [ ] [Clean-up DESSA Duplicate ratings]
+>- [ ] [Clean-up T2ST Time]
+>- [ ] [Partner Surveys Tasks]
 
-<body><h3 style="background-color:darkslateblue;"><c style="color:white">January - March Item Details</h3></body>
+<body><h3 style="background-color:dodgerblue;"><c style="color:white">January - March Item Details</h3></body>
 
-<h3><p style="color:darkturquoise"><i> Review CYSH Lightning Training </i></p></h3>
+## Review CYSH Lightning Training
 
 - Add link for the PPT training
 
-<h3><p style="color:darkturquoise"><i> Validate Focus Lists Sections on CYSH </i></p></h3>
+## Validate Focus List Sections on CYSH
 
 1. Do all ACMs have a full caseload? (Power BI PSLT Workbook)
 2. Do all ACMs have a full SED caseload? (Power BI PSLT Workbook)
 3. Do any ACMs need to remove a focus list student?
 4. Do any ACMs need to add a new or missing focus list student?
 
-<h3><p style="color:darkturquoise"><i> Manage Focus List Changes in CYSH </i></p></h3>
+## Manage Focus List Changes in CYSH
 
 - Why behind PMs managing focus list changes
 - Tools & Resources, FL workbook FL changs tab PDF
 - How to make FL changes in CYSH Lightning (step by step and screenshpts)
 
-<h3><p style="color:darkturquoise"><i> Attend Indicator Areas Training with Impact Analytics </i></p></h3>
+## Indicator Areas Training with Impact Analytics
 
 - date for the training
 - Link to the PPT training
 
-<h3><p style="color:darkturquoise"><i> Update Indicator areas </i></p></h3>
+## Update Indicator areas
 
 - PDF of step-by-step guide for how to update indicator areas
 
-<h3><p style="color:darkturquoise"><i> Prepare for DESSA Administration Rd 2 </i></p></h3>
+## Prepare for DESSA Administration Rd 2
 
 - TBD
 
-<h3><p style="color:darkturquoise"><i> Prepare for HMH Administration Rd 2 </i></p></h3>
+## Prepare for HMH Administration Rd 2
 
 - TBD 
 
-<h3><p style="color:darkturquoise"><i> Clean-up DESSA Duplicate ratings </i></p></h3>
+## Clean-up DESSA Duplicate ratings
 
 - Show step-by-step instructions and screenshots on how to use PBI report to see duplicate ratings
 - PMs should check in with ACMs to decide which rating to keep
 - Pms should contact IA and provide student CY-ID, date of rating and T-Score of rating
 
-<h3><p style="color:darkturquoise"><i> Clean-up T2ST Time </i></p></h3>
+## Clean-up T2ST Time
 
 - Show step-by-step instructions and screenshots on how to use PBI report to see time that needs to be corrected
 - PDF of step-by-step instructions of how ACMs can edit previously entered time
 
-<h3><p style="color:darkturquoise"><i> Partner Survey Tasks </i></p></h3>
+## Partner Survey Tasks
 
 - TBD (ask CB)
