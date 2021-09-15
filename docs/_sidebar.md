@@ -4,7 +4,6 @@
     - [What is IA](ia_what.md)
     - [Who is IA](ia_who.md)
     - [Agency in IA](ia_agency.md)
-    - [IA Team Timeline](iatimeline.md)
 
 - Analytics Tasks
     - [IA by Quarter](analyticsbyquarter.md)
