@@ -1,4 +1,4 @@
-# Quarter #3 (Mid Year Return)
+# Quarter #3 (Mid-Year Return)
 
 <body><h3 style="background-color:dodgerblue;"><c style="color:white;">January - March</h3></body>
 
@@ -8,12 +8,12 @@
 >- [ ] Validate [Focus Lists Sections on CYSH](#validate-focus-list-sections-on-cysh)
 >- [ ] Manage [Focus List Changes in CYSH](#manage-focus-list-changes-in-CYSH)
 >- [ ] Attend [Indicator Areas Training with Impact Analytics](#Indicator-Areas-Training-with-Impact-Analytics)
->- [ ] [Update Indicator Areas] for all CYSH sections
->- [ ] [Prepare for [DESSA Administration Rd 2]
->- [ ] [Prepare for HMH Administration Rd 2] **optional**
->- [ ] [Clean-up DESSA Duplicate ratings]
->- [ ] [Clean-up T2ST Time]
->- [ ] [Partner Surveys Tasks]
+>- [ ] [Update Indicator Areas](#update-indicator-areas) for all CYSH sections
+>- [ ] [Prepare for DESSA Administration Rd 2](#prepare-for-dessa-administration-rd-2)
+>- [ ] [Prepare for HMH Administration Rd 2](#prepare-for-hmh-administration-rd-2) **optional**
+>- [ ] [Clean-up DESSA Duplicate ratings](#clean-up-dessa-duplicate-ratings)
+>- [ ] Clean-up [T2ST Time](#clean-up-t2st-time)
+>- [ ] Partner [Survey Tasks](#partner-survey-tasks)
 
 <body><h3 style="background-color:dodgerblue;"><c style="color:white">January - March Item Details</h3></body>
 
