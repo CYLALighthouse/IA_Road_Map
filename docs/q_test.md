@@ -1,67 +1,74 @@
-# Quarter #3 (Mid-Year Return)
+# Quarter #4 (Finishing Strong)
 
-<body><h3 style="background-color:dodgerblue;"><c style="color:white;">January - March</h3></body>
+<body><h3 style="background-color:darkslateblue;"><c style="color:white;">April - June</h3></body>
 
-<body><h3><i> <p style="color:darkturquoise">Third Quarter Checklist</p></i></h3></body>
+<body><h3><i> <p style="color:darkturquoise">Fourth Quarter Checklist</p></i></h3></body>
 
->- [ ] Review [CYSH Lightning Training](#review-cysh-lightning-training)
->- [ ] Validate [Focus Lists Sections on CYSH](#validate-focus-list-sections-on-cysh)
->- [ ] Manage [Focus List Changes in CYSH](#manage-focus-list-changes-in-CYSH)
->- [ ] Attend [Indicator Areas Training with Impact Analytics](#Indicator-Areas-Training-with-Impact-Analytics)
->- [ ] [Update Indicator Areas](#update-indicator-areas) for all CYSH sections
->- [ ] [Prepare for DESSA Administration Rd 2](#prepare-for-dessa-administration-rd-2)
->- [ ] [Prepare for HMH Administration Rd 2](#prepare-for-hmh-administration-rd-2) **optional**
->- [ ] [Clean-up DESSA Duplicate ratings](#clean-up-dessa-duplicate-ratings)
->- [ ] Clean-up [T2ST Time](#clean-up-t2st-time)
->- [ ] Partner [Survey Tasks](#partner-survey-tasks)
+>- [ ] Focus List Final Clean-Up (add/remove)
+>     -  Student add deadline xx/xx/xxxx
+>- [ ] ELT Time Entry & Audit
+>- [ ] Course Performance Time Entry & Audit
+>- [ ] SEL Time Entr y & Audit
+>- [ ] Add Indicator Areas (ELA, Math, & SEL)
+>- [ ] Encourage partners to take EOY Partner Survey
+>- [ ] Destroy/shred or delete any physical and virtual student identifiable data by June
 
-<body><h3 style="background-color:dodgerblue;"><c style="color:white">January - March Item Details</h3></body>
+<body><h3 style="background-color:darkslateblue;"><c style="color:white">April - June Item Details</h3></body>
 
-## Review CYSH Lightning Training
+<h3><p style="color:darkturquoise"><i> Focus List Clean-Up </i></p></h3>
 
-- Add link for the PPT training
+To see step-by-step guide on how to add/remove students go to [CYSH page](cysh.md)
 
-## Validate Focus List Sections on CYSH
+<h3><p style="color:darkturquoise"><i> Auditing Time Entry </i></p></h3>
 
-1. Do all ACMs have a full caseload? (Power BI PSLT Workbook)
-2. Do all ACMs have a full SED caseload? (Power BI PSLT Workbook)
-3. Do any ACMs need to remove a focus list student?
-4. Do any ACMs need to add a new or missing focus list student?
+Before the close of the year, we need to confirm that all time entry in ELT, T2ST and T1ST has been backlogged and is up to date. We don’t want an ACM to graduate with a week’s left of T2ST not backlogged. PMs should work with their teams to confirm the following:
 
-## Manage Focus List Changes in CYSH
+- All time entry has been completed and is happening in real time as of May
+- Time entry errors are being corrected; Any records shown on the Data validation page shown below may need correcting.
 
-- Why behind PMs managing focus list changes
-- Tools & Resources, FL workbook FL changs tab PDF
-- How to make FL changes in CYSH Lightning (step by step and screenshpts)
+<p align="center">
+<img src="_images/pbi-validation.PNG" alt="Power BI_Validation_pg" style="width:80%;"/>
+</p>
 
-## Indicator Areas Training with Impact Analytics
+For a full walkthrough of how to verify time entry please see [this video](https://bit.ly/2RirCFm). For Zack’s guide on the Data validation look [here](https://bit.ly/2SS642R) T2ST Data Validation.
 
-- date for the training
-- Link to the PPT training
+<h3><p style="color:darkturquoise"><i> Indictor Areas </i></p></h3>
 
-## Update Indicator areas
+<h4><p style="color:darkturquoise"><i> Adding Indicator Areas </i></p></h4>
 
-- PDF of step-by-step guide for how to update indicator areas
+Indicator areas are used by HQ to identify focus list students. Students that do not have an indicator area assigned to them, will not be counted in any end of the year reports created by HQ. It is vital that students get assigned indicator areas for this reason, else senior leaders will see inaccurate data for our site. Follow the step-by-step guide below to add indicator areas:
 
-## Prepare for DESSA Administration Rd 2
+- Open [CYSH](https://cityyear.okta.com/home/salesforce/0oa1itg0i12uHbL4V0h8/46?fromHome=true) in your browser
+- Go to the 'Sections' tab in the blue ribbon
+- Open a section in ELA, Math or SEL (*Note: indicator areas are only assigned in these sections not in ELT)
+- Select all students by clicking on the box at the top-left corner
+<p align="left">
+<img src="_images/cysh-selectall.PNG" alt="CYSH_Select All_Students" style="width:100%;"/>
+</p>
 
-- TBD
+- Click on the ‘Add To Indicator Area’ button on the top
 
-## Prepare for HMH Administration Rd 2
+<p align="left">
+<img src="_images/cysh-iabutton.PNG" alt="CYSH_Indictor_Button" style="width:100%;"/>
+</p>
 
-- TBD 
+- Enter the Effective Date: should match the enrollment date
+- Click Save
 
-## Clean-up DESSA Duplicate ratings
+<p align="left">
+<img src="_images/cysh-iadate.PNG" alt="CYSH_Adding_Students" style="width:100%;"/>
+</p>
 
-- Show step-by-step instructions and screenshots on how to use PBI report to see duplicate ratings
-- PMs should check in with ACMs to decide which rating to keep
-- Pms should contact IA and provide student CY-ID, date of rating and T-Score of rating
+### Removing Indicator Areas
 
-## Clean-up T2ST Time
+## EOY Partner Survey
 
-- Show step-by-step instructions and screenshots on how to use PBI report to see time that needs to be corrected
-- PDF of step-by-step instructions of how ACMs can edit previously entered time
+## Destroying Student Data
 
-## Partner Survey Tasks
+Per the districts requirements we are not allowed to possess data as individuals when we no longer work for the district. This means that ACMs will need to complete the following tasks:
 
-- TBD (ask CB)
+> 1. Delete all digital documents with student names AND Performance/demographic data
+> 2. Destroy any physical documents with student names AND Performance/demographic data
+> 3. Work with your PM to secure any student records on City Year platforms so that they are not accessible to anyone other than future teams from your school
+> 4. Ensure that your focus list records are accurate in CYSchoolhouse before graduation
+> 5. PMs should confirm that the Middle of year tasks are completed as well
