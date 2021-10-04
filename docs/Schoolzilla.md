@@ -36,7 +36,7 @@ Once you click on that link you will be asked to create your password. Your user
 After you set your password you can then log into Mosaic to use the site. If you forget your password you can always return to the login screen and reset your password via the reset link below the password prompt.
 
 <p align="Left">
-<img src="_images/schoolzillaResetPassword.png" alt="Reset Password" style="width:90%;"/>
+<img src="_images/SchoolzillaResetPassword.png" alt="Reset Password" style="width:90%;"/>
 </p>
 
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
