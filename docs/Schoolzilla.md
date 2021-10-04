@@ -44,7 +44,7 @@ Once you sign in with your username and password you will be taken to the distri
 
 The District Profile view give you a glance at how the district is doing overall. This page gives context for how students are doing overall at the district for each card of data like enrollment, attendance, behavior and course performance. The video below provides a quick walkthrough of how to use this page.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/83e0e6d8-d571-4be1-87ff-eb371214f11c?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/910e26c9-a954-44f8-af98-e06ad561b2e8?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ### District Profile Use Cases
 
@@ -54,7 +54,7 @@ The District Profile can give some good baseline comparsions for average data po
 
 Like the District Profile view this page contains aggregated student data by school useful for school comparisons within the district. You can sort and filter the page to see specific subgroups of students and compare whole schools in attendance, behavior and course performance. For more information on this page see the video below.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/83e0e6d8-d571-4be1-87ff-eb371214f11c?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1d117588-5343-4075-9d7c-305a5b88c6f6?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ### Our Schools Use Cases
 
@@ -64,13 +64,13 @@ The Our Schools page allows us to make comparisions between our school/students 
 
 The next two sections are most applicable for corps members and program staff given that they contain student level data. The Our students page will only show you data on your whole school and/or focus list so that you can see how students are performing in attendance, behavior, course performance and on assessments. This page also has some great grouping features that allow you to make custom groups of students for focus list selection, student interventions and more. See the video below to learn about how to use this page.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/83e0e6d8-d571-4be1-87ff-eb371214f11c?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/e233f73a-4581-4b2f-aeb8-fa70e5098d1e?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ## Student Profile Overview
 
 The student profile page allows you to dive deep into current and historical student performance to see overall and class by class breakdowns of how a student is performing. This page gives you a broad picture of studnet performance and is great to use for planning during the course of the year, in goal setting with students and monitoring progress towards on track goals. See the video below for an overview of this page.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/83e0e6d8-d571-4be1-87ff-eb371214f11c?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/7462ee12-1d65-421c-9134-389812840144?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ## Mosaic Resources
 
