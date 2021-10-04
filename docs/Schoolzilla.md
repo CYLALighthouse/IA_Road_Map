@@ -4,7 +4,23 @@
 <img src="_images/Schoolzilla.png" alt="Schoolzilla by Renaissance" style="width:20%;"/>
 </p>
 
-Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. They democratize and simplify data access with their online school and student dashboard platform called Mosaic.
+## Schoolzilla Table of Contents
+
+>- [What is Schoolzilla Mosaic?](#What-is-Schoolzilla-Mosaic?)
+>- [Creating Your Account](#Account-Creation)
+>- [Using Mosaic](#Using-Mosaic-to-View-Student-Data)
+>   - [District Profile](#District-Profile-Overview)
+>   - [Our Schools](#Our-Schools-Overview)
+>   - [School Profile](#School-Profile-Overview)
+>   - [Our Students](#Our-Students-Overview)
+>   - [Student Profile](#Student-Profile-Overview)
+>- [Mosaic Resources](#Mosaic-Resources)
+
+## What is Schoolzilla Mosaic?
+
+Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. 
+
+Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. Together these two companies work on education technology solutions for educators across the country.
 
 City Year is partnering with Schoolzilla to improve our existing student performance data systems and to augment our reporting and data integration services. In short this should mean more and more frequent student data for tutors and managers.
 
@@ -13,6 +29,7 @@ Additionally for CYLA, Inglewood Unified as graciously allowed us to have access
 Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). continue to the sections below to learn how to use Mosaic to view student data.
 
 The sections below will provide much more detail about Mosaic account creation and how to use the site. For those who want a quick overview see the [2 minute Tour of Mosaic](https://soapbox.wistia.com/videos/lAtySx05U3) video or the [Quick Start Guide](https://support.schoolzilla.org/hc/en-us/articles/360041206511-Quick-Start-Guide-for-Teachers) for teachers.
+
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe src="https://player.vimeo.com/video/45662127?h=c1dc3d0436" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div>
 
@@ -40,6 +57,8 @@ After you set your password you can then log into Mosaic to use the site. If you
 </p>
 
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
+
+## Using Mosaic to View Student Data
 
 <p align="Left">
 <img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:90%;"/>
@@ -110,7 +129,7 @@ For additional videos and resources for the student profile view see the bullets
 >- [Student Profile: Understanding individual student performance ](https://support.schoolzilla.org/hc/en-us/articles/360034545792-Student-Profile-Understanding-individual-student-performance-video-)
 >- [Student Profile: How to Review Course Failures and Grades](https://support.schoolzilla.org/hc/en-us/articles/360032497652-Student-Profile-How-to-Review-Course-Failures-and-Grades-contains-video-)
 
-## Other Mosaic Resources
+## Mosaic Resources
 
 The links below are directly from Schoolzilla Mosaic help center and are a great place to start for self directed learning. If you wish to learn more about Mosaic and the data found in each page this is a great place to start. Stay tuned for more resources to be posted below in the near future.
 
