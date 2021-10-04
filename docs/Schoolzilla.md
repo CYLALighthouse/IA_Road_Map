@@ -1,7 +1,7 @@
 # Schoolzilla by Renaissance
 
 <p align="center">
-<img src="_images/schoolzilla.jpg" alt="Schoolzilla by Renaissance" style="width:50%;"/>
+<img src="_images/schoolzilla.png" alt="Schoolzilla by Renaissance" style="width:20%;"/>
 </p>
 
 Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. They democratize and simplify data access with their online school and student dashboard platform called Mosaic.
@@ -18,8 +18,7 @@ The sections below will provide much more detail about Mosaic account creation a
 
 For more City Year context and a detailed walkthrough see the resources below.
 
-
-## Mosaic Account Creation
+## <body><h3 style="background-color:dodgerblue;"><c style="color:white"> Activating your Account Via Email <c/></h3></body>
 
 In order to get access to Schoolzilla Mosaic you must first be given an account creation link via email from Schoolzilla. If you need access to Schoolzilla Mosaic and have not created your account please contact your site Analytics Point Chris Bischel (Cbischel@cityyear.org).
 
@@ -43,7 +42,7 @@ After you set your password you can then log into Mosaic to use the site. If you
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
 
 <p align="Left">
-<img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:80%;"/>
+<img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:90%;"/>
 </p>
 
 ## District Profile Overview
