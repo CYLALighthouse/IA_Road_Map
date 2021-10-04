@@ -60,6 +60,18 @@ Like the District Profile view this page contains aggregated student data by sch
 
 The Our Schools page allows us to make comparisions between our school/students and other schools. When split by grade level this can be particularly useful for goal setting and context. It is also handy for seeing the highest performing schools and student subsets to give further information for goal setting and context for student performance overall.
 
+## School Profile Overview
+
+The School Profile view allows you to see a single school and the associated student performance data in each tile. This page lets you compare your student performance data to the whole school or break down school data by specific demographics like grade, gender etc... 
+
+See the video below for a walkthrough of how to use this page.
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1d117588-5343-4075-9d7c-305a5b88c6f6?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+### School Profile Use Cases
+
+If you want to learn more about your school at the start of the year or how studnet performance is changing over time at your school this is a great place to start. If you interact with the tiles you can change the views to see specific information like chronic absence by whole school, gender, ethnicity, grade level and more to find patterns in the data. You can also expand cards and view the data for multiple years if it is available.
+
 ## Our Students Overview
 
 The next two sections are most applicable for corps members and program staff given that they contain student level data. The Our students page will only show you data on your whole school and/or focus list so that you can see how students are performing in attendance, behavior, course performance and on assessments. This page also has some great grouping features that allow you to make custom groups of students for focus list selection, student interventions and more. See the video below to learn about how to use this page.
