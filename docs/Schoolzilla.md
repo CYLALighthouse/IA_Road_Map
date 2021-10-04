@@ -56,7 +56,7 @@ The District Profile can give some good baseline comparsions for average data po
 
 Like the District Profile view this page contains aggregated student data by school useful for school comparisons within the district. You can sort and filter the page to see specific subgroups of students and compare whole schools in attendance, behavior and course performance. For more information on this page see the video below.
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1d117588-5343-4075-9d7c-305a5b88c6f6?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/891f5756-8993-4e2b-b5aa-56a5227f8a86?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ### Our Schools Use Cases
 
