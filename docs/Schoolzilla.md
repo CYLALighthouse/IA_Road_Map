@@ -1,7 +1,7 @@
 # Schoolzilla by Renaissance
 
 <p align="center">
-<img src="_images/Schoolzilla.jpg" alt="ELT" style="width:50%;"/>
+<img src="_images/Schoolzilla.jpg" alt="Schoolzilla by Renaissance" style="width:50%;"/>
 </p>
 
 Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. They democratize and simplify data access with their online school and student dashboard platform called Mosaic.
@@ -20,24 +20,24 @@ In order to get access to Schoolzilla Mosaic you must first be given an account 
 The email to access your account will come from "No-reply@schoolzilla.com" and should have a getting started link to activate your account.
 
 <p align="Center">
-<img src="_images/schoolzillaWelcomeEmail.png" alt="ELT" style="width:70%;"/>
+<img src="_images/schoolzillaWelcomeEmail.png" alt="Welcome Email" style="width:70%;"/>
 </p>
 
 Once you click on that link you will be asked to create your password. Your username should be your CityYear email but you can set your password as anything you like.
 <p align="Center">
-<img src="_images/SchoolzillaPassword.png" alt="ELT" style="width:70%;"/>
+<img src="_images/SchoolzillaPassword.png" alt="Password" style="width:70%;"/>
 </p>
 
 After you set your password you can then log into Mosaic to use the site. If you forget your password you can always return to the login screen and reset your password via the reset link below the password prompt.
 
 <p align="Center">
-<img src="_images/schoolzillaResetPassword.png" alt="ELT" style="width:70%;"/>
+<img src="_images/schoolzillaResetPassword.png" alt="Reset Password" style="width:70%;"/>
 </p>
 
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
 
 <p align="Center">
-<img src="_images/MosaicDistrictTiles.png" alt="ELT" style="width:70%;"/>
+<img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:70%;"/>
 </p>
 
 ## District Profile Overview
@@ -94,4 +94,4 @@ The links below are directly from Schoolzilla Mosaic help center and are a great
 >- [Our Students: Finding similar students for interventions](https://support.schoolzilla.org/hc/en-us/articles/360034928751-Our-Students-Finding-similar-students-for-interventions-filtering-and-sorting-)
 >- [Student intervention groups](https://support.schoolzilla.org/hc/en-us/articles/360026230751-Student-intervention-groups-contains-video-)
 
-For any other questions and feedback please contact your site analytics point (Cbischel@cityyear.org).
+For any other questions and feedback please contact your CYLA analytics point (Cbischel@cityyear.org).
