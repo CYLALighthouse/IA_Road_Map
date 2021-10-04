@@ -17,6 +17,7 @@
     - [CYSchoolhouse](cysh.md)
     - [Extended Learning Time](elt.md)
     - [PowerApps](powerapps.md)
+    - [Schoolzilla](Schoolzilla.md)
     - [Training](test.md)
 
 - Supplemental Materials
