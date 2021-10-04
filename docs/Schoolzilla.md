@@ -1,16 +1,18 @@
 # Schoolzilla by Renaissance
 
 <p align="center">
-<img src="_images/Schoolzilla.jpg" alt="Schoolzilla by Renaissance" style="width:50%;"/>
+<img src="_images/schoolzilla.jpg" alt="Schoolzilla by Renaissance" style="width:50%;"/>
 </p>
 
 Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. They democratize and simplify data access with their online school and student dashboard platform called Mosaic.
 
-Inglewood Unified as graciously allowed us to have access to their student data systems via Schoolzilla Mosaic. This pilot will hopefully help us make better informed decisions around student interventions, focus list selection and ongoing observations about what students need from corps members.
+City Year is partnering with Schoolzilla to improve our existing student performance data systems and to augment our reporting and data integration services. In short this should mean more and more frequent student data for tutors and managers.
 
-Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). We hope to align to using the tools that Inglewood Unified is using to support students in the class by seeing up to date attendance, behavior and course performance data that are housed in Mosaic.
+Additionally for CYLA, Inglewood Unified as graciously allowed us to have access to their instance of Schoolzilla Mosaic. This pilot will hopefully help us make better informed decisions around student interventions because IUSD tutors and staff will be able to view data on their focus lists more regularly and on the same platform that IUSD teachers have access to.
 
-Look [here](https://support.schoolzilla.org/hc/en-us/articles/360022685571-How-and-why-Schoolzilla-was-founded) to see more about the founding motivations of Schoolzilla and continue reading below for more information about the Mosaic platform and how City Year plans to use the platform.
+Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). continue to the sections below to learn how to use Mosaic to view student data.
+
+For those who might be interested look [here](https://support.schoolzilla.org/hc/en-us/articles/360022685571-How-and-why-Schoolzilla-was-founded) to see more about the founding motivations of Schoolzilla and continue reading below for more information about the Mosaic platform and how City Year plans to use the platform.
 
 
 ## Mosaic Account Creation
@@ -19,24 +21,24 @@ In order to get access to Schoolzilla Mosaic you must first be given an account 
 
 The email to access your account will come from "No-reply@schoolzilla.com" and should have a getting started link to activate your account.
 
-<p align="Center">
-<img src="_images/schoolzillaWelcomeEmail.png" alt="Welcome Email" style="width:70%;"/>
+<p align="Left">
+<img src="_images/SchoolzillaWelcomeEmail.png" alt="Welcome Email" style="width:70%;"/>
 </p>
 
 Once you click on that link you will be asked to create your password. Your username should be your CityYear email but you can set your password as anything you like.
-<p align="Center">
+<p align="Left">
 <img src="_images/SchoolzillaPassword.png" alt="Password" style="width:70%;"/>
 </p>
 
 After you set your password you can then log into Mosaic to use the site. If you forget your password you can always return to the login screen and reset your password via the reset link below the password prompt.
 
-<p align="Center">
+<p align="Left">
 <img src="_images/schoolzillaResetPassword.png" alt="Reset Password" style="width:70%;"/>
 </p>
 
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
 
-<p align="Center">
+<p align="Left">
 <img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:70%;"/>
 </p>
 
