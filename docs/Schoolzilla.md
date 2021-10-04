@@ -1,7 +1,7 @@
 # Schoolzilla by Renaissance
 
 <p align="center">
-<img src="_images/schoolzilla.png" alt="Schoolzilla by Renaissance" style="width:20%;"/>
+<img src="_images/Schoolzilla.png" alt="Schoolzilla by Renaissance" style="width:20%;"/>
 </p>
 
 Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. They democratize and simplify data access with their online school and student dashboard platform called Mosaic.
@@ -18,7 +18,7 @@ The sections below will provide much more detail about Mosaic account creation a
 
 For more City Year context and a detailed walkthrough see the resources below.
 
-## <body><h3 style="background-color:dodgerblue;"><c style="color:white"> Activating your Account Via Email <c/></h3></body>
+## Account Creation
 
 In order to get access to Schoolzilla Mosaic you must first be given an account creation link via email from Schoolzilla. If you need access to Schoolzilla Mosaic and have not created your account please contact your site Analytics Point Chris Bischel (Cbischel@cityyear.org).
 
