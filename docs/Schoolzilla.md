@@ -12,7 +12,11 @@ Additionally for CYLA, Inglewood Unified as graciously allowed us to have access
 
 Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). continue to the sections below to learn how to use Mosaic to view student data.
 
-For those who might be interested look [here](https://support.schoolzilla.org/hc/en-us/articles/360022685571-How-and-why-Schoolzilla-was-founded) to see more about the founding motivations of Schoolzilla and continue reading below for more information about the Mosaic platform and how City Year plans to use the platform.
+The sections below will provide much more detail about Mosaic account creation and how to use the site. For those who want a quick overview see the [2 minute Tour of Mosaic](https://soapbox.wistia.com/videos/lAtySx05U3) video or the [Quick Start Guide](https://support.schoolzilla.org/hc/en-us/articles/360036428891-Quick-Start-Guide-District-or-School-Leader) for school leaders.
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe src="https://player.vimeo.com/video/45662127?h=c1dc3d0436" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div>
+
+For more City Year context and a detailed walkthrough see the resources below.
 
 
 ## Mosaic Account Creation
@@ -22,24 +26,24 @@ In order to get access to Schoolzilla Mosaic you must first be given an account 
 The email to access your account will come from "No-reply@schoolzilla.com" and should have a getting started link to activate your account.
 
 <p align="Left">
-<img src="_images/SchoolzillaWelcomeEmail.png" alt="Welcome Email" style="width:70%;"/>
+<img src="_images/SchoolzillaWelcomeEmail.png" alt="Welcome Email" style="width:90%;"/>
 </p>
 
 Once you click on that link you will be asked to create your password. Your username should be your CityYear email but you can set your password as anything you like.
 <p align="Left">
-<img src="_images/SchoolzillaPassword.png" alt="Password" style="width:70%;"/>
+<img src="_images/SchoolzillaPassword.png" alt="Password" style="width:90%;"/>
 </p>
 
 After you set your password you can then log into Mosaic to use the site. If you forget your password you can always return to the login screen and reset your password via the reset link below the password prompt.
 
 <p align="Left">
-<img src="_images/schoolzillaResetPassword.png" alt="Reset Password" style="width:70%;"/>
+<img src="_images/schoolzillaResetPassword.png" alt="Reset Password" style="width:90%;"/>
 </p>
 
 Once you sign in with your username and password you will be taken to the district profile homepage for Mosaic. If you are a corps member, manager or director you should be able to view aggrigated district level data to see how your school/students compare to all students overall. From here you can navigate around Mosaic to view data on the district, schools and groups of schools in aggrigate. If you want to see specific data on students you need to navigate to the "Our Students" and "Student Profile" sections explained below.
 
 <p align="Left">
-<img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:70%;"/>
+<img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:80%;"/>
 </p>
 
 ## District Profile Overview
@@ -96,4 +100,11 @@ The links below are directly from Schoolzilla Mosaic help center and are a great
 >- [Our Students: Finding similar students for interventions](https://support.schoolzilla.org/hc/en-us/articles/360034928751-Our-Students-Finding-similar-students-for-interventions-filtering-and-sorting-)
 >- [Student intervention groups](https://support.schoolzilla.org/hc/en-us/articles/360026230751-Student-intervention-groups-contains-video-)
 
+Schoolzilla is a suplement to City Year data systems and helps to automate processes behind the scenes like data submissions, student records and error checking. See the graphic for an example of what new processes Schoolzilla is helping to take on. The key thing to note here is that City Year will still use CYSchoolhouse for data collection and Power BI for data visualization in addition to Schoolzilla Mosaic.
+
+<p align="Left">
+<img src="_images/SchoolzillaSchoolhouse.png" alt="Schoolzilla and CYSH" style="width:90%;"/>
+</p>
+
 For any other questions and feedback please contact your CYLA analytics point (Cbischel@cityyear.org).
+
