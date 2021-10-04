@@ -12,7 +12,7 @@ Additionally for CYLA, Inglewood Unified as graciously allowed us to have access
 
 Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). continue to the sections below to learn how to use Mosaic to view student data.
 
-The sections below will provide much more detail about Mosaic account creation and how to use the site. For those who want a quick overview see the [2 minute Tour of Mosaic](https://soapbox.wistia.com/videos/lAtySx05U3) video or the [Quick Start Guide](https://support.schoolzilla.org/hc/en-us/articles/360036428891-Quick-Start-Guide-District-or-School-Leader) for school leaders.
+The sections below will provide much more detail about Mosaic account creation and how to use the site. For those who want a quick overview see the [2 minute Tour of Mosaic](https://soapbox.wistia.com/videos/lAtySx05U3) video or the [Quick Start Guide](https://support.schoolzilla.org/hc/en-us/articles/360041206511-Quick-Start-Guide-for-Teachers) for teachers.
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe src="https://player.vimeo.com/video/45662127?h=c1dc3d0436" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div>
 
@@ -65,6 +65,10 @@ Like the District Profile view this page contains aggregated student data by sch
 
 The Our Schools page allows us to make comparisions between our school/students and other schools. When split by grade level this can be particularly useful for goal setting and context. It is also handy for seeing the highest performing schools and student subsets to give further information for goal setting and context for student performance overall.
 
+For more resources on how to use the Our Schools page see the bullets below:
+
+>- [Our Schools: How to find best practices across schools](https://support.schoolzilla.org/hc/en-us/articles/360037489511-Our-Schools-How-to-find-best-practices-across-schools-video-)
+
 ## School Profile Overview
 
 The School Profile view allows you to see a single school and the associated student performance data in each tile. This page lets you compare your student performance data to the whole school or break down school data by specific demographics like grade, gender etc... 
@@ -72,6 +76,10 @@ The School Profile view allows you to see a single school and the associated stu
 See the video below for a walkthrough of how to use this page.
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1d117588-5343-4075-9d7c-305a5b88c6f6?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+For additional resources on the use and navigation of school profiles see the bullets below:
+
+>- [School Profile: How to review school trends](https://support.schoolzilla.org/hc/en-us/articles/360037761171-School-Profile-How-to-review-school-trends-video-)
 
 ### School Profile Use Cases
 
@@ -83,13 +91,26 @@ The next two sections are most applicable for corps members and program staff gi
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/e233f73a-4581-4b2f-aeb8-fa70e5098d1e?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+For additional resources on how to use the Our Students view to identify students who may be a good fit for a focus list see bullets below:
+
+>- [Find At Risk Students video](https://support.schoolzilla.org/hc/en-us/articles/360025941212-How-find-students-who-are-at-risk-based-on-multiple-indicators-contains-video-).
+>- [Finding Similar Students for Interventions](https://support.schoolzilla.org/hc/en-us/articles/360034928751-Our-Students-Finding-similar-students-for-interventions-filtering-and-sorting-)
+>- [Student Intervention Groups](https://support.schoolzilla.org/hc/en-us/articles/360026230751-Our-Students-Student-intervention-groups-video-)
+>- [Creating a student intervention group](https://support.schoolzilla.org/hc/en-us/articles/360024572052-Our-Students-Creating-a-Student-Intervention-group-contains-video-)
+
+
 ## Student Profile Overview
 
 The student profile page allows you to dive deep into current and historical student performance to see overall and class by class breakdowns of how a student is performing. This page gives you a broad picture of studnet performance and is great to use for planning during the course of the year, in goal setting with students and monitoring progress towards on track goals. See the video below for an overview of this page.
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/7462ee12-1d65-421c-9134-389812840144?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-## Mosaic Resources
+For additional videos and resources for the student profile view see the bullets below:
+
+>- [Student Profile: Understanding individual student performance ](https://support.schoolzilla.org/hc/en-us/articles/360034545792-Student-Profile-Understanding-individual-student-performance-video-)
+>- [Student Profile: How to Review Course Failures and Grades](https://support.schoolzilla.org/hc/en-us/articles/360032497652-Student-Profile-How-to-Review-Course-Failures-and-Grades-contains-video-)
+
+## Other Mosaic Resources
 
 The links below are directly from Schoolzilla Mosaic help center and are a great place to start for self directed learning. If you wish to learn more about Mosaic and the data found in each page this is a great place to start. Stay tuned for more resources to be posted below in the near future.
 
