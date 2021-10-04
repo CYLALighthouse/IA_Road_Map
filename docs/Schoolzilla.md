@@ -64,6 +64,14 @@ Once you sign in with your username and password you will be taken to the distri
 <img src="_images/MosaicDistrictTiles.png" alt="District Tiles" style="width:90%;"/>
 </p>
 
+There are five main pages in Mosaic for viewing student data. The first three (district profile, Our Schools, School Profile) contain aggragated data for students so that an administrator, teacher or tutor can see the big picture. The other two views (Our Students, Student Profile) provide individual student data to make decisions about what students need for intervention. Read the sections below to read more about each page.
+
+>   - [District Profile](#District-Profile-Overview)
+>   - [Our Schools](#Our-Schools-Overview)
+>   - [School Profile](#School-Profile-Overview)
+>   - [Our Students](#Our-Students-Overview)
+>   - [Student Profile](#Student-Profile-Overview)
+
 ## District Profile Overview
 
 The District Profile view give you a glance at how the district is doing overall. This page gives context for how students are doing overall at the district for each card of data like enrollment, attendance, behavior and course performance. The video below provides a quick walkthrough of how to use this page.
