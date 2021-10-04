@@ -6,7 +6,7 @@
 
 ## Schoolzilla Table of Contents
 
->- [What is Schoolzilla Mosaic?](#What-is-Schoolzilla-Mosaic?)
+>- [What is Schoolzilla Mosaic?](#Schoolzilla-Mosaic-Explained)
 >- [Creating Your Account](#Account-Creation)
 >- [Using Mosaic](#Using-Mosaic-to-View-Student-Data)
 >   - [District Profile](#District-Profile-Overview)
@@ -16,15 +16,15 @@
 >   - [Student Profile](#Student-Profile-Overview)
 >- [Mosaic Resources](#Mosaic-Resources)
 
-## What is Schoolzilla Mosaic?
+## Schoolzilla Mosaic Explained
 
-Renaissance Learning is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. 
+**Renaissance Learning** is a global reading and math solutions ed-tech company working in K-12. They use data to support student learning in ELA and Math with a host of digital assessments, reading and curriculum platforms. 
 
-Schoolzilla is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. Together these two companies work on education technology solutions for educators across the country.
+**Schoolzilla** is a public benefit company with a mission to enable people to use data to improve educational outcomes for students. Together these two companies work on education technology solutions for educators across the country. One of these solutions is the student information system called **Mosaic**.
 
-City Year is partnering with Schoolzilla to improve our existing student performance data systems and to augment our reporting and data integration services. In short this should mean more and more frequent student data for tutors and managers.
+City Year is partnering with Schoolzilla to improve our existing student performance data systems and to augment our reporting and data integration services using the Schoolzilla Mosaic platform.
 
-Additionally for CYLA, Inglewood Unified as graciously allowed us to have access to their instance of Schoolzilla Mosaic. This pilot will hopefully help us make better informed decisions around student interventions because IUSD tutors and staff will be able to view data on their focus lists more regularly and on the same platform that IUSD teachers have access to.
+In Los Angeles Inglewood Unified as graciously allowed us to have access to their instance of Schoolzilla Mosaic. This access will hopefully help us make better informed decisions around student interventions because IUSD tutors and staff will be able to view data on their focus lists more regularly that with previous technology partners and processes.
 
 Mosaic has a possibility to be a great option to augment and enhance City Years existing Ed-Tech tools (Cyschoolhouse, Power BI and CYConnect). continue to the sections below to learn how to use Mosaic to view student data.
 
@@ -145,5 +145,5 @@ Schoolzilla is a suplement to City Year data systems and helps to automate proce
 <img src="_images/SchoolzillaSchoolhouse.png" alt="Schoolzilla and CYSH" style="width:90%;"/>
 </p>
 
-For any other questions and feedback please contact your CYLA analytics point (Cbischel@cityyear.org).
+For any other questions and feedback please contact your CYLA analytics point Chris Bischel (Cbischel@cityyear.org).
 

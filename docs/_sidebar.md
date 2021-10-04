@@ -11,9 +11,9 @@
         - [Q2: Starting Strong](q2.md)
         - [Q3: Continuing Strong](q3.md)
         - [Q4: Finishing Strong](q4.md)
-        - [test](q_test.md)
+        <!-- - [test](q_test.md) -->
 
-- Trainings an Resources by IA
+- Resources for Analytics
     - [CYSchoolhouse](cysh.md)
     - [Extended Learning Time](elt.md)
     - [PowerApps](powerapps.md)
