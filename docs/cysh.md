@@ -20,7 +20,9 @@ Program managers will be expected to validate, mange any changes needed in the f
 - ACMS can use columns 3-11 to identify the student(s), the change they need, the section they are located in, and the drop or enrollment date
 - PMs can use column 12 to keep track of their actions: pending, approved, complete, denied
 
+<p align="center">
 <img src="_images/flchanges.PNG" alt="cysh-lightning" style="width:100%;"/>
+</p>
 
 ## Validating Focus List Caseloads
 
@@ -38,14 +40,14 @@ Program managers will be expected to validate, mange any changes needed in the f
 ## Cyschoolhouse Updates
 In FY22, the entire organization swtiched from Salesforce Classic to Salesforce Lightning. This means that CYSH might look different from what you have seen in the past years, so we have updated our training content and included additional training material to help you navigate this new interface. If you have any questions or experience any issues, please contact someone on the IA Team. 
 
-<img src="_images/cysh-new-view.png" alt="cysh-lightning" style="width:60%;"/>
+<img src="_images/cysh-new-view.png" alt="cysh-lightning" style="width:70%;"/>
 
 ## Accessing CYSH & Creating New Views
 
 Managing your ACM's CYSH sections can be made easier by custominzing your view of their sections. The document below will walk you thourgh creating your own custom view.
 
 ```pdf
-   files/CYSH_Enrolling_Students.pdf
+   files/CYSH_Access_Custom_View.pdf
 ```
 
 ## Adding Focus List Students
