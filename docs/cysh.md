@@ -7,12 +7,12 @@ Program managers will be expected to validate, mange any changes needed in the f
 
 **Jump over to the information you need:**
 
-> - [Manage Focus List Students](Optional:-Managing-FL-Changes-Using-the-Focus-List-Workbooks)
-> - [Validating Focus Lists](Validating-Focus-List-Caseloads)
-> - [Accessing & Creating Custom Views](Accessing-CYSH-&-Creating-New-Views)
-> - [Adding Students to Sections](Adding-Focus-List-Students)
-> - [ Removing Students from Sections](Removing-Focus-List-Students)
-> - [Adding Inidicator Areas](Adding-Indicator-Areas)
+> - [Manage Focus List Students](#Optional:-Managing-FL-Changes-Using-the-Focus-List-Workbooks)
+> - [Validating Focus Lists](#Validating-Focus-List-Caseloads)
+> - [Accessing & Creating Custom Views](#Accessing-CYSH-&-Creating-New-Views)
+> - [Adding Students to Sections](#Adding-Focus-List-Students)
+> - [ Removing Students from Sections](#Removing-Focus-List-Students)
+> - [Adding Inidicator Areas](#Adding-Indicator-Areas)
 
 ### Optional: Managing FL Changes Using the Focus List Workbooks
 
