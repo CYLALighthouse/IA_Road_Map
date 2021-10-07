@@ -44,7 +44,7 @@ In FY22, the entire organization swtiched from Salesforce Classic to Salesforce 
 
 ## Accessing CYSH and Creating New Views
 
-Managing your ACM's CYSH sections can be made easier by custominzing your view of their sections. The document below will walk you thourgh creating your own custom view.
+Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
 
 ```pdf
    files/CYSH_Access_Custom_View.pdf
