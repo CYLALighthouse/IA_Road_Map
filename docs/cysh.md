@@ -7,14 +7,14 @@ Program managers will be expected to validate, mange any changes needed in the f
 
 **Jump over to the information you need:**
 
-> - [Manage Focus List Students](#Optional:-Managing-FL-Changes-Using-the-Focus-List-Workbooks)
+> - [Manage Focus List Students](#Optional-Managing-FL-Changes-Using-the-Focus-List-Workbooks)
 > - [Validating Focus Lists](#Validating-Focus-List-Caseloads)
-> - [Accessing & Creating Custom Views](#Accessing-CYSH-&-Creating-New-Views)
+> - [Accessing & Creating Custom Views](#Accessing-CYSH-and-Creating-New-Views)
 > - [Adding Students to Sections](#Adding-Focus-List-Students)
 > - [ Removing Students from Sections](#Removing-Focus-List-Students)
 > - [Adding Inidicator Areas](#Adding-Indicator-Areas)
 
-### Optional: Managing FL Changes Using the Focus List Workbooks
+### Optional Managing FL Changes Using the Focus List Workbooks
 
 - Each Focus List Workbook has an **FL Changes** Tab
 - ACMS can use columns 3-11 to identify the student(s), the change they need, the section they are located in, and the drop or enrollment date
@@ -42,7 +42,7 @@ In FY22, the entire organization swtiched from Salesforce Classic to Salesforce 
 
 <img src="_images/cysh-new-view.png" alt="cysh-lightning" style="width:70%;"/>
 
-## Accessing CYSH & Creating New Views
+## Accessing CYSH and Creating New Views
 
 Managing your ACM's CYSH sections can be made easier by custominzing your view of their sections. The document below will walk you thourgh creating your own custom view.
 
