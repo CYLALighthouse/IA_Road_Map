@@ -1,8 +1,20 @@
 # Managing Cyschoolhouse (CYSH)
 
-The Impact Analytics will take care of the initial set-up for CYSH for each school. This includes creating ELA, Math, and SEL sections for each ACM for every school and the initial enrollment of final focus list students in November. After this initial enrollment process, Program Managers are expected to manage their ACM's sections thereafter. Program managers will be expected to validate and mange any changes needed in the future. Program managers may create their own process of identifying, validating, and managing changes or may use their focus list workbooks. Program Managers will also need to add indicator areas for all final focus list students. The process for managing focus list changes is up to the PM, but we do as that sections be updated frequently.(At least 1x a week or as soon as changes occur.)
+The Impact Analytics will take care of the initial set-up for CYSH for each school. This includes **creating ELA, Math, and SEL sections for each ACM for every school and the initial enrollment of final focus list students in November**. After this initial enrollment process, Program Managers are expected to manage their ACM's sections thereafter. 
 
-## Optional: Managing FL Changes Using the Focus List Workbook:
+
+Program managers will be expected to validate, mange any changes needed in the future, and add indicator areas for all final focus list students. PMs may create their own process of identifying, validating, and managing changes or may use their focus list workbooks, as shown below. The process for managing focus list changes is up to PM's discretion, but we do ask that sections be updated frequently.(At least 1x a week or as soon as changes occur.)
+
+**Jump over to the information you need:**
+
+> - [Manage Focus List Students](Optional:-Managing-FL-Changes-Using-the-Focus-List-Workbooks)
+> - [Validating Focus Lists](Validating-Focus-List-Caseloads)
+> - [Accessing & Creating Custom Views](Accessing-CYSH-&-Creating-New-Views)
+> - [Adding Students to Sections](Adding-Focus-List-Students)
+> - [ Removing Students from Sections](Removing-Focus-List-Students)
+> - [Adding Inidicator Areas](Adding-Indicator-Areas)
+
+### Optional: Managing FL Changes Using the Focus List Workbooks
 
 - Each Focus List Workbook has an FL Management Tab
 - ACMS can use column X to identify students that need to be added or removed from a caseload
@@ -13,14 +25,23 @@ The Impact Analytics will take care of the initial set-up for CYSH for each scho
 
 >   - Do ACMs have the number of expected active FL students in each section?
 >   - Do new students meet the focus list criteria:
->   - Students in 3rd grade – 9th grades
->   - Students that are at risk for falling behind
->   - ***Students are not on another ACM’s focus list***
+>     - Students in 3rd grade – 9th grades
+>     - Students that are at risk for falling behind
+>     - ***Students are not on another ACM’s focus list***
 >   - Removing students from a focus list must have a valid reason:
->    - Student moved classes
->    - Chronic absenteeism
->    - Student left the school
+>     - Student moved classes
+>     - Chronic absenteeism
+>     - Student left the school
 >   - Do all final focus list students have an indicator area?
+
+## Cyschoolhouse Updates
+In FY22, the entire organization swtiched from Salesforce Classic to Salesforce Lightning. This means that CYSH might look different from what you have seen in the past years, so we have updated our training content and included additional training material to help you navigate this new version which you will find below. If you have any questions or experience any issues, please contact someone on the IA Team. 
+
+## Accessing CYSH & Creating New Views
+
+```pdf
+   files/CYSH_Enrolling_Students.pdf
+```
 
 ## Adding Focus List Students
 
