@@ -160,6 +160,14 @@ See the table below for a description of each of the metrics on the ELT workbook
 |               ELT ADA for FL               | This   metric takes the same logic as above but is filtered to only focus list   students for the given corps member. This metric will give you an average   daily attendance rate for an active focus list for that given ACM.                                                                                                                                                       |   |   |   |   |   |   |   |   |   |
 | *Total Hours In Optional Pilot Programming | *This   is only for schools who are running pilot programs like STEM to the Future or   other curriculums that must be tracked separately than normal ELT attendance   time. Unless you are part of the ITAV pueblo or another school with pilot   programming you can ignore this column.                                                                                            |   |   |   |   |   |   |   |   |   |
 
+### How to hide student records
+
+Students may leave your ELT program, school or simply stop attending ELT. If you have recorded time with these students it is best to keep them on your rosters and 
+simply hide them using the "Active" column on the "Time Entry Roster" page of your ELT workbook. See the video below for the details.
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/8b28c75d-c64f-44b2-ad8d-df540fd0b47e?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
+
+
 ### ELT Steps in Summary
 
 The steps outlined above break down into the following short set of actions. Team leaders will regularly collect and digitize ELT applications in the provided ELT workbooks ensuring all information in orange is complete and accurate. Team leaders will then update the "Student Records" page with new unique students from the ELT applications page or from the schools student enrollment database from Analytics. Then Team Leaders will build out the ACM and student pairings on the Print and Time Entry Rosters and keep track of ELT attendance time on a regular basis. This ELT data will feed into the ELT Dashboards which will help PMs and TLs regularly review their ELT data for program improvements and quality assurance.
