@@ -2,9 +2,9 @@
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">FY22 Links</h3></body>
 
-[FY22 ProServe Wednesday Schedule](https://cityyear.sharepoint.com/:x:/r/teams/lax/LaxPrivate/LAProServe/_layouts/15/Doc.aspx?sourcedoc=%7BADF5F011-C626-41DE-AB1A-22A9E1B5E818%7D&file=FY22%20ProServe%20Agenda%20Scope%20and%20Sequence.xlsx&action=default&mobileredirect=true) (FY22 ProServe Wednesday Schedule)
+[FY22 ProServe Wednesday Schedule](https://cityyear.sharepoint.com/:x:/t/lax/LaxPrivate/LAProServe/ERHw9a0mxt5BqxoiqeG16BgBGCHsFoWtquMKc2GpcdxmZg?e=u8yAiw) (FY22 ProServe Wednesday Schedule)
 
-[FY22 Omnibus](https://cityyear.sharepoint.com/:x:/r/teams/lax/LaxPrivate/LAProServe/_layouts/15/Doc.aspx?sourcedoc=%7BA09693C6-3591-47BE-AC9B-1204E97C7C4E%7D&file=CYLA%20OMNIBUS%20FY22.xlsx&action=default&mobileredirect=true) (FY22 Omnibus)
+[FY22 Omnibus](https://cityyear.sharepoint.com/:x:/t/lax/LaxPrivate/LAProServe/EcaTlqCRNb5HrJsSBOl8fE4BxMZ3wNIOTFlo-CKZkhufYw?e=dRFPW5) (FY22 Omnibus)
 
 [FY22 Learning Scope and Sequence](https://cityyear-my.sharepoint.com/:w:/g/personal/ewhitman_cityyear_org/ET6mueRiNcRHu-VhVDETYgcBO7oSoNq4gFx3mFLQxxlgAw?e=xYzu6k) (FY22 Learning Scope and Sequence)
 
