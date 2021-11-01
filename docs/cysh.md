@@ -1,6 +1,6 @@
 # Managing Cyschoolhouse (CYSH)
 
-The Impact Analytics will take care of the initial set-up for CYSH for each school. This includes **creating ELA, Math, and SEL sections for each ACM for every school and the initial enrollment of final focus list students in November**. After this initial enrollment process, Program Managers are expected to manage their ACM's sections thereafter. 
+The Impact Analytics will take care of the initial set-up for CYSH for each school. This includes **creating ELA, Math, and SEL sections for each ACM for every school and the initial enrollment of final focus list students in November**. After this initial enrollment process, Program Managers are expected to manage their ACM's sections thereafter. [Test](test.md)
 
 
 Program managers will be expected to validate, mange any changes needed in the future, and add indicator areas for all final focus list students. PMs may create their own process for identifying, validating, and managing changes or may use their focus list workbooks, as shown below. The process for managing focus list changes is up to PM's discretion, but we do ask that sections be updated frequently.(At least 1x a week or as soon as changes occur.)
