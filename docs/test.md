@@ -83,15 +83,15 @@ Indicator areas are an imporant part of gathering our student data. The Indicato
 
 # Naviagting Cyschoolhouse (CYSH) Enterprise Edition
 
-Hello Team Leaders! For context, you all have access to the enterprise edition of cyschoolhouse which will look different to your ACM's interaction with CYSH. Use this page to learn how to navigate CYSH for yourself and jump over the the next tab to help support your ACMs as they navigate the corps edition. Use the hyperlinks below to navigate to the topic you wish to learn more about.
+Hello Team Leaders! For context, you all have access to the enterprise edition of cyschoolhouse which will look different from your ACM's interaction with CYSH. Use this page to learn how to navigate CYSH for yourself and jump over the the next tab to help support your ACMs as they navigate the corps edition. Use the hyperlinks below to navigate to the topic you wish to learn more about.
 
-> - [Create a new view on CYSH section page](#tls-accessing-cysh-and-creating-new-views)
+> - [Access & Create a new view on CYSH's Section's page](#tls-accessing-cysh-and-creating-new-views)
 > - [Add time to your sections](#tls-adding-time-in-cysh)
 > - [Edit session details to submitted entries](#tls-editing-sessions-in-cysh) 
 
 ## *TLs Accessing CYSH and Creating New Views*
 
-Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
+Finding and managing your sections can be made easier by customizing your view to only view your (ELA/Math)sections. The document below will walk you through creating your own custom view.
 
 ```pdf
    files/CYSH_Access_Custom_View.pdf
@@ -99,7 +99,7 @@ Managing your ACM's CYSH sections can be made easier by customizing your view of
 
 ## *TLs Adding Time in CYSH*
 
-Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
+When you are ready to backlog your time from your papertrackers to CYSH, use the document below to see how to enter that time into your sections.
 
 ```pdf
    files/CYSH_TL_Enter Time.pdf
@@ -107,7 +107,7 @@ Managing your ACM's CYSH sections can be made easier by customizing your view of
 
 ## *TLs Editing Sessions in CYSH*
 
-Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
+Follow the steps below to edit any previously submitted sections.
 
 ```pdf
    files/CYSH_TL_Editing Time .pdf
@@ -115,7 +115,8 @@ Managing your ACM's CYSH sections can be made easier by customizing your view of
 
 #### **AmeriCorps Members**
 
-# Navigating Cyshoolhouse (CYSH)
+# Navigating Cyshoolhouse (CYSH) Corps Edition
+
 Hello ACMs! If you are here, it means you have recieved the time tracking training and the backlogging training from your PM. You are now ready to enter time from your paper trackers onto the CYSH platform. Use the hyperlinks below to go to the section you would like to learn more about:
 
 > - [Accessing and adding time in CYSH](#adding-time-in-cysh)
@@ -124,7 +125,7 @@ Hello ACMs! If you are here, it means you have recieved the time tracking traini
 
 ## *Adding Time in CYSH*
 
-Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
+When you are ready to start backlogging time from your papertrackers into CYSH, follow the steps below to learn how to enter the time into the platform.
 
 ```pdf
    files/CYSH_ACM_Enter Time.pdf
@@ -132,13 +133,15 @@ Managing your ACM's CYSH sections can be made easier by customizing your view of
 
 ## *Using Mobile Version of CYSH*
 
+Learn how to enter T2ST time using your smart phone.
+
 ```pdf
    files/AddingSessionTime_MobileCE.pdf.pdf
 ```
 
 ## *Editing Sessions in CYSH*
 
-Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
+Follow the steps below to learn how to edit previously submitted sessions as needed.
 
 ```pdf
    files/CYSH_ACM_Editing Time.pdf
