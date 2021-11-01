@@ -12,9 +12,7 @@ The first quarter of the year starts in July before the corps has arrived for BT
 
 #### **Program**
 
- - [ ] one
- - [ ] two
- - [ ] three
+paragraph
 
 
 #### **ACM**
