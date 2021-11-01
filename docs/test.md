@@ -27,7 +27,7 @@ Managing your ACM's CYSH sections can be made easier by customizing your view of
    files/CYSH_Access_Custom_View.pdf
 ```
 
-## *Editing Sessions on CYSH*
+## Editing Sessions on CYSH
 
 Managing your ACM's CYSH sections can be made easier by customizing your view of their sections. The document below will walk you thourgh creating your own custom view.
 
