@@ -136,7 +136,7 @@ When you are ready to start backlogging time from your papertrackers into CYSH, 
 Learn how to enter T2ST time using your smart phone.
 
 ```pdf
-   files/AddingSessionTime_MobileCE.pdf.pdf
+   files/AddingSessionTime_MobileCE.pdf
 ```
 
 ## *Editing Sessions in CYSH*
