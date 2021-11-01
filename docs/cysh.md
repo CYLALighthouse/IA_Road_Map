@@ -1,3 +1,12 @@
+
+# Navigating CYSH
+
+Use the tabs below to find Cyschoolhouse content and resrouces relevant to your role.
+
+<!-- tabs:start -->
+
+#### **Program Managers**
+
 # Managing Cyschoolhouse (CYSH)
 
 The Impact Analytics will take care of the initial set-up for CYSH for each school. This includes **creating ELA, Math, and SEL sections for each ACM for every school and the initial enrollment of final focus list students in November**. After this initial enrollment process, Program Managers are expected to manage their ACM's sections thereafter. [Test](test.md)
@@ -69,3 +78,73 @@ Indicator areas are an imporant part of gathering our student data. The Indicato
 ```pdf
    files/CYSH_Adding_Indicator_Area.pdf
 ```
+
+#### **Team Leaders**
+
+# Naviagting Cyschoolhouse (CYSH) Enterprise Edition
+
+Hello Team Leaders! For context, you all have access to the enterprise edition of cyschoolhouse which will look different from your ACM's interaction with CYSH. Use this page to learn how to navigate CYSH for yourself and jump over the the next tab to help support your ACMs as they navigate the corps edition. Use the hyperlinks below to navigate to the topic you wish to learn more about.
+
+> - [Access & Create a new view on CYSH's Section's page](#tls-accessing-cysh-and-creating-new-views)
+> - [Add time to your sections](#tls-adding-time-in-cysh)
+> - [Edit session details to submitted entries](#tls-editing-sessions-in-cysh) 
+
+## *TLs Accessing CYSH and Creating New Views*
+
+Finding and managing your sections can be made easier by customizing your view to only view your (ELA/Math)sections. The document below will walk you through creating your own custom view.
+
+```pdf
+   files/CYSH_Access_Custom_View.pdf
+```
+
+## *TLs Adding Time in CYSH*
+
+When you are ready to backlog your time from your papertrackers to CYSH, use the document below to see how to enter that time into your sections.
+
+```pdf
+   files/CYSH_TL_Enter Time.pdf
+```
+
+## *TLs Editing Sessions in CYSH*
+
+Follow the steps below to edit any previously submitted sections.
+
+```pdf
+   files/CYSH_TL_Editing Time .pdf
+```
+
+#### **AmeriCorps Members**
+
+# Navigating Cyshoolhouse (CYSH) Corps Edition
+
+Hello ACMs! If you are here, it means you have recieved the time tracking training and the backlogging training from your PM. You are now ready to enter time from your paper trackers onto the CYSH platform. Use the hyperlinks below to go to the section you would like to learn more about:
+
+> - [Accessing and adding time in CYSH](#adding-time-in-cysh)
+> - [Using the mobile version to enter time to CYSH](#using-mobile-version-of-cysh)
+> - [Editing sessions in CYSH](#editing-sessions-in-cysh) 
+
+## *Adding Time in CYSH*
+
+When you are ready to start backlogging time from your papertrackers into CYSH, follow the steps below to learn how to enter the time into the platform.
+
+```pdf
+   files/CYSH_ACM_Enter Time.pdf
+```
+
+## *Using Mobile Version of CYSH*
+
+Learn how to enter T2ST time using your smart phone.
+
+```pdf
+   files/AddingSessionTime_MobileCE.pdf
+```
+
+## *Editing Sessions in CYSH*
+
+Follow the steps below to learn how to edit previously submitted sessions as needed.
+
+```pdf
+   files/CYSH_ACM_Editing Time.pdf
+```
+
+<!-- tabs:end -->

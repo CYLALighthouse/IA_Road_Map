@@ -19,7 +19,7 @@
     - [PowerApps](powerapps.md)
     - [DESSA](DESSA.md)
     - [Schoolzilla](Schoolzilla.md)
-    - [Training](test.md)
+    - [Training](trainingcontent.md)
 
 - Supplemental Materials
     - [Links to Bookmark](bookmarks.md)
