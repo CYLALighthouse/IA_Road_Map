@@ -29,7 +29,7 @@
 
 **PMs:** [Service Model Document](https://bit.ly/3bH9trl)
 
-[Template of Paper T2ST Tracker](https://bit.ly/3mFLgYF)
+[Template of Paper T2ST Tracker](https://bit.ly/3mFLgYF) (download & print)
 
 [Time Tracking Academic Coaching Roll Out](https://bit.ly/3q91jQW)
 
