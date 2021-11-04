@@ -2,9 +2,9 @@
 
 <body><h3 style="background-color:darkslateblue;"><c style=color:white;">FY22 Links</h3></body>
 
-[FY22 ProServe Wednesday Schedule](https://cityyear.sharepoint.com/:x:/t/lax/LaxPrivate/LAProServe/ERHw9a0mxt5BqxoiqeG16BgBGCHsFoWtquMKc2GpcdxmZg?e=u8yAiw) (FY22 ProServe Wednesday Schedule)
+[FY22 ProServe Wednesday Schedule](https://bit.ly/3wiFEHe) (FY22 ProServe Wednesday Schedule)
 
-[FY22 Omnibus](https://cityyear.sharepoint.com/:x:/t/lax/LaxPrivate/LAProServe/EcaTlqCRNb5HrJsSBOl8fE4BxMZ3wNIOTFlo-CKZkhufYw?e=dRFPW5) (FY22 Omnibus)
+[FY22 Omnibus](https://bit.ly/3nRUUH4) (FY22 Omnibus)
 
 [FY22 Learning Scope and Sequence](https://cityyear-my.sharepoint.com/:w:/g/personal/ewhitman_cityyear_org/ET6mueRiNcRHu-VhVDETYgcBO7oSoNq4gFx3mFLQxxlgAw?e=xYzu6k) (FY22 Learning Scope and Sequence)
 
