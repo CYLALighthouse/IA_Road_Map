@@ -41,7 +41,7 @@
 
 **PMs:** [FY22 Early FL Process Guide](https://bit.ly/2ZTcfHQ)
 
-[FY22 FL Selection Process Part 1+2](https://bit.ly/3k5KYsC)
+[FY22 FL Selection Process Part 1+2 Roll Out](https://bit.ly/3k5KYsC)
 
 [FY22 Focus List Workbook Roll-Out](https://bit.ly/3EIOe4J)
 
@@ -52,8 +52,8 @@
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">CYSH Training Bundle</h3></body>
 
-**PMs:** [Cyschoolhouse System Setup](https://bit.ly/3q7leQ4)
+**PMs:** [Cyschoolhouse System Setup](https://bit.ly/3q7leQ4) (walks through how to access sections and manage students in sections)
 
-**PMs:** [ACM Backloggin on CYSH](https://bit.ly/3BF1428)
+**ACMs:** [ACM Backlogging on CYSH](https://bit.ly/3BF1428) (walks through entering and editing time on CYSH)
 
 **ACMs:** [Adding Session Time on Corp Edition One-Pager](https://bit.ly/2ZRn7pG)
