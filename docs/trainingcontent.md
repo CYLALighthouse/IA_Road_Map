@@ -1,9 +1,9 @@
-# Training Content
+# Impact Analytics Training Content
 
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">ACM Class Deployment Bundle</h3></body>
 
-Over the summer, as PMs begin conversations with partner and learn their partner teachers as well as ACMs they should begin to assign ACMs to class lines using the deployment workbook.
+*Over the summer, as PMs begin conversations with partner and learn their partner teachers as well as ACMs they should begin to assign ACMs to class lines using the deployment workbook.*
 
 **PMs:** [Deployment Workbook Roll-Out](https://bit.ly/3qlLhU7)
 
@@ -17,7 +17,7 @@ Over the summer, as PMs begin conversations with partner and learn their partner
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">LAUSD OneAccess SSO</h3></body>
 
-This training content is for LAUSD PMs and are meant to help PMs understand how to get their ACMs access to an LAUSD single sign on account that is used to get approved for a daily pass app needed to enter school campuses.
+*This training content is for LAUSD PMs and are meant to help PMs understand how to get their ACMs access to an LAUSD single sign on account that is used to get approved for a daily pass app needed to enter school campuses.*
 
 [OneAccess SSO Orientation](https://bit.ly/2ZNLh3Q)
 
@@ -29,7 +29,7 @@ This training content is for LAUSD PMs and are meant to help PMs understand how 
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">IUSD Schoolzilla Mosaic</h3></body>
 
-This training content is for IUSD PMs only and are meant to help PMs undestand how to get their ACMs access to Schoolzilla Mosaic accounts, a platform used to view and interact with student demographics and performance data.
+*This training content is for IUSD PMs only and are meant to help PMs undestand how to get their ACMs access to Schoolzilla Mosaic accounts, a platform used to view and interact with student demographics and performance data.*
 
 [Schoolzilla Mosaic Accounts Setup for IUSD](https://bit.ly/3GNuQFE)
 
@@ -39,7 +39,7 @@ This training content is for IUSD PMs only and are meant to help PMs undestand h
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">Time Tracking Bundle</h3></body>
 
-This content provides PMs with an understanding of the CYLA service model and how the site tracks ACMs work with students.
+*This content provides PMs with an understanding of the CYLA service model and how the site tracks ACMs work with students.*
 
 **PMs:** [Service Model Document](https://bit.ly/3bPwyba)
 
@@ -55,7 +55,7 @@ This content provides PMs with an understanding of the CYLA service model and ho
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">Focus List Training Bundle</h3></body>
 
-This content provides PMs and ACMs an understanding of the focus list process: why we have focus list caseloads, how to select caseloads, what data to use to inform the selection process, how to use IA tools to identify final focus list students.
+*This content provides PMs and ACMs an understanding of the focus list process: why we have focus list caseloads, how to select caseloads, what data to use to inform the selection process, how to use IA tools to identify final focus list students.*
 
 **PMs:** [FY22 FL Selection ProServe Roll Out](https://bit.ly/3o0rYg4)
 
