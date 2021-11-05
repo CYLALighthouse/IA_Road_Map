@@ -43,7 +43,7 @@
 
 **PMs:** [Service Model Document](https://bit.ly/3bPwyba)
 
-[Template of Paper T2ST Tracker](https://bit.ly/3bLLWFC) (download & print for ACM use)
+[Template of Paper T2ST Tracker](https://bit.ly/3bLLWFC) (*download & print for ACM use*)
 
 [Time Tracking Academic Coaching Roll Out](https://bit.ly/3BQ2Z46)
 
@@ -76,8 +76,8 @@
 
 This training content is useful after final focus list selections have been made and focus list students have been enrolled into our time tracking platform. Use this content to get familiarized with the Cyschoolhouse (CYSH) platform and learn about your role in section management from January to May.
 
-**PMs:** [Cyschoolhouse System Setup](https://bit.ly/3q7leQ4) (walks through how to access sections and manage students in sections)
+**PMs:** [Cyschoolhouse System Setup](https://bit.ly/3q7leQ4) (*how to access sections and manage students in sections*)
 
-**ACMs:** [ACM Backlogging on CYSH](https://bit.ly/3BF1428) (walks through entering and editing time on CYSH)
+**ACMs:** [ACM Backlogging on CYSH](https://bit.ly/3BF1428) (*entering and editing time on CYSH*)
 
 **ACMs:** [Adding Session Time on Corp Edition One-Pager](https://bit.ly/2ZRn7pG)
