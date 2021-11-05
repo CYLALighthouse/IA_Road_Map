@@ -74,7 +74,7 @@
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">CYSH Training Bundle</h3></body>
 
-This training content is useful after final focus list selections have been made and focus list students have been enrolled into our time tracking platform. Use this content to get familiarized with the Cyschoolhouse (CYSH) platform and learn about your role in section management from January to May.
+*This training content is useful after final focus list selections have been made and focus list students have been enrolled into our time tracking platform. Use this content to get familiarized with the Cyschoolhouse (CYSH) platform and learn about your role in section management from January to May.*
 
 **PMs:** [Cyschoolhouse System Setup](https://bit.ly/3q7leQ4) (*how to access sections and manage students in sections*)
 
