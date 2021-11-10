@@ -63,5 +63,6 @@ Stay Tuned for more information about how to use DESSA results at Mid Year summi
 
 Stay Tuned for more information about how to use DESSA results at Mid Year summit in January.
 
-<object data="/files/DESSA_40_Printable.pdf" type='application/pdf' width="100%">
-</object>
+>- [SEL Evo Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
+>- [SEL Evo Login Link](https://sel.datalinkevo.com/#/login)
+>- [DESSA Website Orientation Guide](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Orientation to SEL Evo.pdf>)
