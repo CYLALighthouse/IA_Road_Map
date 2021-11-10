@@ -27,14 +27,14 @@
    ```
    In FY22 Cit Year will be administering 3 DESSA ratings within the windows listed below. Schools have some flexiblity with these windows but should consult with their PD and Impact Analytics.
 
-|                 Item                	|    Start   	|     End    	|
-|:-----------------------------------:	|:----------:	|:----------:	|
-|   DESSA Observation Round 1 Window  	| 10/18/2021 	| 11/26/2021 	|
-| DESSA Administration Round 1 Window 	| 11/29/2021 	| 12/17/2021 	|
-|   DESSA Observation Round 2 Window  	| 1/17/2022  	| 2/18/2022  	|
-| DESSA Administration Round 2 Window 	| 2/21/2022  	| 4/8/2022   	|
-|   DESSA Observation Round 3 Window  	| 4/11/2022  	| 5/13/2022  	|
-| DESSA Administration Round 3 Window 	| 5/16/2022  	| 6/4/2021   	|
+   |                 Item                	|    Start   	|     End    	|
+   |:-----------------------------------:	|:----------:	|:----------:	|
+   |   DESSA Observation Round 1 Window  	| 10/18/2021 	| 11/26/2021 	|
+   | DESSA Administration Round 1 Window 	| 11/29/2021 	| 12/17/2021 	|
+   |   DESSA Observation Round 2 Window  	| 1/17/2022  	| 2/18/2022  	|
+   | DESSA Administration Round 2 Window 	| 2/21/2022  	| 4/8/2022   	|
+   |   DESSA Observation Round 3 Window  	| 4/11/2022  	| 5/13/2022  	|
+   | DESSA Administration Round 3 Window 	| 5/16/2022  	| 6/4/2021   	|
 
 ## DESSA Ratings
 
