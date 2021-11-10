@@ -1,6 +1,6 @@
 # Devereux Student Strengths Assessment
 
-Last Update: 11/10/2021 @ 2:50pm
+Last Update: 11/10/2021 @ 3:13pm
 
 ## What is DESSA?
 
@@ -62,3 +62,6 @@ Stay Tuned for more information about how to use DESSA results at Mid Year summi
 ## DESSA Resources
 
 Stay Tuned for more information about how to use DESSA results at Mid Year summit in January.
+
+<object data="/files/DESSA_40_Printable.pdf" type='application/pdf' width="100%">
+</object>
