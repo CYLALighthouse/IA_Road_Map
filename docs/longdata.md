@@ -10,9 +10,9 @@ This Power BI report contains City Year's data year over year. You will find the
 
 ## Accessing the Longitudinal Data Power BI Report
 
-1. Go to [app.powerbi.com/home](app.powerbi.com/home)
+1. Go to [app.powerbi.com/home](https://app.powerbi.com/home)
 2. Click on the Apps icon on the left-hand navigation
-3. Find and click on the *CYLA Longitudinal Data App*
+3. Find and click on the *CYLA Longitudinal Data* App
 
 <p align="center">
 <img src="_images/cyla-longdata-icon.PNG" alt="longitudinal-data-icon" style="width:40%;"/>
@@ -32,33 +32,78 @@ This Power BI report contains City Year's data year over year. You will find the
 
 ## How to Navigate the Report
 
-- **City Year 7 Year Promise:** # of years students have been on a focus list
-- **Student Demographics:** ethnicity, gender, and student's ELL Levels by filter list
-- **Focus List Students:** breakdown of focus list numbers by course performance and SED lists
+The homepage has links to different pages and each page houses specific data. To switch between data groups, go back to the homepage by clicking on the *Back to Homepage* button located at the bottom of the filter selections. Each page will have filters on the left-hand side of the page as well as on the pop-up filter menu on the right-hand side. The data groups available are shown below:
+
+- **City Year 7 Year Promise:** # of years students have been on a focus list (consistency of service)
+- **Student Demographics:** ethnicity, gender, and student's ELL Levels
+- **Focus List Students:** breakdown of focus list numbers by course performance and SED indicators
 - **City Year Classes:** # of students in CY classes and # of teachers served
-- **Student Grades (ELA & Math):** # and % of students that fall into improved, maintained, declined, or prevention category
-- **Dosage Metrics:** tier 2 support time hours by filter list
-- **Student Attendance:** improved attendance #'s and % by filter list
-- **Behavior Assessments:** improved DESSA score #'s and % by filter list
-- **HMH Assessments:** HMH improved and growth numbers and % by filter list
+- **Student Grades (ELA & Math):** # and % of students that fall into improved, maintained, declined, or prevention categories for students we have prior year and current year grades data for
+- **Dosage Metrics:** tier 2 support time hours in total or by ELA, Math, Planned Intervention, and Academic Coaching
+- **Student Attendance:** improved attendance from the prior year #s and %s
+- **Behavior Assessments:** improved DESSA score from beginning  of year to end of year #s and %s
+- **HMH Assessments:** HMH improved and growth #s and %s
 
 ## Using Filter List Options
-Due to changes by in City Year's data agreement with LAUSD, the IA team has started using an aggregation method to display longitudinal data. This means that each filter is an aggregation filter. Below you will find a list of the aggreggation levels that are availabe.
+Due to changes by in City Year's data agreement with LAUSD, the IA team has started using an aggregation method to display longitudinal data. This means that each filter corresponds to an aggregation level. To get accurate metrics, you should filter the data to one specific aggregation level. In addition, each aggregation level has sublevels to be able to filter by specific categories. Below you will find a list of the aggregation levels and their corresponding sublevels.
 
->- ELL Levels
->- ELL Levels_CP FL
->- ELT Status
->- Ethnicity
->- Ethnicity_CP FL
->- Focus List_CP FL
->- Focus List_SED
->- Gender
->- Gender_CP FL
->- Grade
->- Grad Level
->- Grade Level_CP FL
->- Grade_CP_FL
->- School Level
->- School Level_CP FL
->- School Level_Ethnicity
->- Site
+>- **ELL Levels:** language calssification and English Language Learner Level if applicable
+>     - EL 
+>     - EO (English Only)
+>     - IFEP (Initial Fluent English Proficient)
+>     - LEP (Limited English Proficient - fall into 1 of 5 levels)
+>     - RFEP (Reclassified Fluent English Proficient)
+>- **ELL Levels_CP FL:** language calssification and English Language Learner Level if applicable with course performance focus list label
+>     - the same sublevels as ELL Levels with the additional nuance of whether the student was an ELA or Math FL
+>     - Ex. IFEP: ELA | IFEP: Math | LEP: ELA | LEP: Math
+>- **ELT Status:** inidicates whether student was an active participant in their school's ELT program
+>     - 0 (not an active ELT participant)
+>     - 1 (yes, an active ELT participant) 
+>- **Ethnicity:** students' race or ethnicity category provided to school administration
+>     - (Unknown/blank) was not provided to school admin or we did not have access to this data
+>     - American Indian or Alaskan Native
+>     - Asian
+>     - Black/African American
+>     - Filipino
+>     - Hawaiian
+>     - Hispanic/Latino
+>     - Pacific Islander
+>     - White
+>- **Ethnicity_CP FL:** the same sublevels as Ethnicity Levels with the additional nuance of whether the student was an ELA or Math FL
+>     - Ex. Asian: ELA | Asian: Math | Asian: Non-FL
+>- **Focus List_CP FL:** course performance labels
+>     - ELA
+>     - Math
+>     - Non-FL
+>- **Focus List_SED:** socioemotional development student labels
+>     - Attendance 
+>     - Behavior
+>     - SED (*captures both Attendance and Behavior students as of FY21)
+>     - Non-SED
+>     - Non-FL
+>- **Gender:** gender identity provided to school administration, usually only includes 2 options
+>     - Female
+>     - Male
+>     - None/(Blank): not provided to school adminstration or not in our available data
+>- **Gender_CP FL:** same as gender level with the additional nuance of wether the student was an ELA or Math FL
+>     - Ex. Female: ELA | Female: Math | Female: Non-FL
+>- **Grade:** the grade of the student indicated by a number
+>     - 1-12 
+>- **Grade_CP_FL:** same as grade level with additional nuance if students were ELA or Math FLs
+>     - Ex. 8: ELA | 8: Math | 8: Non-FL
+>- **Grade Level:** the grade of the student indicated by a category
+>     - Elementary
+>     - Middle
+>     - High
+>     - Span (schools with fluid grades like k-8th grade)
+>- **Grade Level_CP FL:** same as grade level with additional nuance if students were ELA or Math FLs
+>     - Ex. Middle: ELA | Middle: Math | Middle: Non-FL
+>- **School Level:** breakdown by school name
+>     - Ex. Ascot Avenue Elementary | Carver MS | Roosevelt HS 
+>- **School Level_CP FL:** breakdown by school and course performance indicators
+>     - Includes a seperate school filter list and course performance filter list
+>     - Ex. Carver MS: ELA | Carver MS: Math | Carver MS: Non-FL
+>- **School Level_Ethnicity:** breakdown by school and ethnicity categories
+>     - Includes a seperate school filter list and ethnicity filter list
+>     - Ex. Carver MS: Filipino | Carver MS: Hispanic/Latino | Carver MS: Black/African American
+>- **Site:** breakdown by whole site (Los Angeles)
