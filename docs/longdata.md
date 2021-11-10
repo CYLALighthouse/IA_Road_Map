@@ -15,13 +15,13 @@ This Power BI report contains City Year's data year over year. You will find the
 3. Find and click on the *CYLA Longitudinal Data* App
 
 <p align="center">
-<img src="_images/cyla-longdata-icon.PNG" alt="longitudinal-data-icon" style="width:40%;"/>
+<img src="_images/cyla-longdata-icon.PNG" alt="longitudinal-data-icon" style="width:25%;"/>
 </p>
 
 4. Use the blue navigation menu to find and click on *CYLA Longitudinal Report*
 
 <p align="center">
-<img src="_images/cyla-longdata-menu.PNG" alt="longitudinal-menu" style="width:40%;"/>
+<img src="_images/cyla-longdata-menu.PNG" alt="longitudinal-menu" style="width:25%;"/>
 </p>
 
 5. Welcome to the Home page!
