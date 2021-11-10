@@ -100,10 +100,12 @@ Due to changes by in City Year's data agreement with LAUSD, the IA team has star
 >     - Ex. Middle: ELA | Middle: Math | Middle: Non-FL
 >- **School Level:** breakdown by school name
 >     - Ex. Ascot Avenue Elementary | Carver MS | Roosevelt HS 
->- **School Level_CP FL:** breakdown by school and course performance indicators
+>- **School Level_CP FL:** breakdown by school and course performance indicators and 15 hour goal 
 >     - Includes a seperate school filter list and course performance filter list
->     - Ex. Carver MS: ELA | Carver MS: Math | Carver MS: Non-FL
+>     - Ex. Carver MS: ELA Met 15 Hours | Carver MS: ELA No Dosage or Less than 15 Hrs| Carver MS: Math Met 15 Hours
 >- **School Level_Ethnicity:** breakdown by school and ethnicity categories
 >     - Includes a seperate school filter list and ethnicity filter list
 >     - Ex. Carver MS: Filipino | Carver MS: Hispanic/Latino | Carver MS: Black/African American
 >- **Site:** breakdown by whole site (Los Angeles)
+
+You should select an aggregation filter to view the data by for best use and use the subfilters to get more specific data.
