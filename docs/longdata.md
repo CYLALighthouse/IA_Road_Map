@@ -112,7 +112,7 @@ You should select an aggregation filter to view the data by for best use and use
 
 <body><h3 style="background-color:darkorange;"><c style=color:white;">Example Use Cases</h3></body>
 
-- I want to know how many focus list students CYLA served in FY19 for a specific school, where can I find this?
+1. I want to know how many focus list students CYLA served in FY19 for a specific school, where can I find this?
 
      - Visit the *Focus List Students* page by clicking on the button from the home page. 
      - Use the **Fiscal Year Filter** to select **FY19** and the **Aggregation Level Filter** to select **School Level** and *expand* the school level filter to select a specific school you are looking for.
@@ -126,14 +126,11 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/fl-table-example.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
-1. **What is the ethnic breakdown of focus list students CYLA served?**
+2. **What is the ethnic breakdown of focus list students CYLA served?**
 
      - Visit the *Student Demographics* page by clicking on the button from the home page.
-
      - Click on the *Ethnicity* bookmark and select the *School Level* option 
-
      - Use the **Fiscal Year Filter** to select a fiscal year and the **School** from the school filter.
-
      - The table will have the number and percentage breakdown by ethnicity categories for focus list students
 
 <p align="center">
@@ -144,14 +141,11 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/demo-page.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
-2. **How many students were in the classes CYLA served in FY20? For a Specific school? (We only have this data for FY21+)**
+3. **How many students were in the classes CYLA served in FY20? For a Specific school? (We only have this data for FY21+)**
 
      - Visit the *City Year Classes* page by clicking on the button from the home page.
-
      - Click on the *Ethnicity* bookmark and select the *School Level* option 
-
      - Use the **School Level** option from the aggregation filter.
-
      - The table will tell you:
           - the # of students in CY classes (FL + Non-FL students)
           - the # of teachers that had at least one ACM in one class
@@ -166,7 +160,7 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/cityyearclassestable.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
-3. **What are some of the best City Year metrics for previous years?**
+4. **What are some of the best City Year metrics for previous years?**
 
 Visit the [*CYLA Longitudinal Impact Data*](https://bit.ly/3cnsbVr) excel workbook. Go the Best of CY or FYXX Highlights tab to find the data. 
 
