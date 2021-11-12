@@ -121,11 +121,11 @@ You should select an aggregation filter to view the data by for best use and use
      - The number under the **Cycled and Active CP_FL** column is the total number of focus list stuent served throughout FY19.
 
 <p align="center">
-<img src="_images/fl_students.PNG" alt="longitudinal-homepage" style="width:25%;"/>
+<img src="_images/fl-students.PNG" alt="longitudinal-homepage" style="width:25%;"/>
 </p>
 
 <p align="center">
-<img src="_images/fl-table-example.PNG" alt="longitudinal-homepage" style="width:75%;"/>
+<img src="_images/fl-table-example.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
 1. **What is the ethnic breakdown of focus list students CYLA served?**
@@ -143,7 +143,7 @@ You should select an aggregation filter to view the data by for best use and use
 </p>
 
 <p align="center">
-<img src="_images/demo-page.PNG" alt="longitudinal-homepage" style="width:75%;"/>
+<img src="_images/demo-page.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
 2. **How many students were in the classes CYLA served in FY20? For a Specific school? (We only have this data for FY21+)**
@@ -165,7 +165,7 @@ You should select an aggregation filter to view the data by for best use and use
 
 
 <p align="center">
-<img src="_images/cityyearclasses.PNG" alt="longitudinal-homepage" style="width:60%;"/>
+<img src="_images/cityyearclassestable.PNG" alt="longitudinal-homepage" style="width:80%;"/>
 </p>
 
 3. **What are some of the best City Year metrics for previous years?**
@@ -173,7 +173,7 @@ You should select an aggregation filter to view the data by for best use and use
 Visit the [*CYLA Longitudinal Impact Data*](https://bit.ly/3cnsbVr) excel workbook. Go the Best of CY or FYXX Highlights tab to find the data. 
 
 <p align="center">
-<img src="_images/best-of-cy-example.PNG" alt="longitudinal-homepage" style="width:75%;"/>
+<img src="_images/best-of-cy-example.PNG" alt="longitudinal-homepage" style="width:100%;"/>
 </p>
 
 Last Update: 11/12/2021 @ 3:25pm
