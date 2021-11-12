@@ -115,9 +115,7 @@ You should select an aggregation filter to view the data by for best use and use
 - I want to know how many focus list students CYLA served in FY19 for a specific school, where can I find this?
 
      - Visit the *Focus List Students* page by clicking on the button from the home page. 
-
      - Use the **Fiscal Year Filter** to select **FY19** and the **Aggregation Level Filter** to select **School Level** and *expand* the school level filter to select a specific school you are looking for.
-
      - The number under the **Cycled and Active CP_FL** column is the total number of focus list stuent served throughout FY19.
 
 <p align="center">
