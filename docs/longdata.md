@@ -128,7 +128,7 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/fl-table-example.PNG" alt="longitudinal-homepage" style="width:75%;"/>
 </p>
 
-- What is the ethnic breakdown of focus list students CYLA served?
+1. **What is the ethnic breakdown of focus list students CYLA served?**
 
      - Visit the *Student Demographics* page by clicking on the button from the home page.
 
@@ -146,7 +146,7 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/demo-page.PNG" alt="longitudinal-homepage" style="width:75%;"/>
 </p>
 
-- How many students were in the classes CYLA served in FY20? For a Specific school? (We only have this data for FY21+)
+2. **How many students were in the classes CYLA served in FY20? For a Specific school? (We only have this data for FY21+)**
 
      - Visit the *City Year Classes* page by clicking on the button from the home page.
 
@@ -168,7 +168,7 @@ You should select an aggregation filter to view the data by for best use and use
 <img src="_images/cityyearclasses.PNG" alt="longitudinal-homepage" style="width:60%;"/>
 </p>
 
-- What are some of the best City Year metrics for previous years?
+3. **What are some of the best City Year metrics for previous years?**
 
 Visit the [*CYLA Longitudinal Impact Data*](https://bit.ly/3cnsbVr) excel workbook. Go the Best of CY or FYXX Highlights tab to find the data. 
 
