@@ -1,26 +1,26 @@
 # Devereux Student Strengths Assessment
 
-Last Update: 1/14/2021 @ 12:10pm
+Last Update: 1/14/2021 @ 12:20pm
 
 ## What is DESSA?
 
 The [DESSA](https://apertureed.com/research/about-the-dessa/) is a Socio-Emotional Learning assessment that allows educators to measure and take action on student social and emotional learning. The DESSA is based on [resiliance Theory](https://link.springer.com/chapter/10.1007/978-1-4614-3661-4_14) and uses the [CASEL Framework](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/) as the basis for the eight competencies observed under the assessment.
 
-As noted by Aperture Education (the organization that administers the DESSA)
+As noted by Aperture Education:
 
 > "The DESSA is commonly used to inform the delivery of SEL at Tier 1 or Tier 2 as well as measuring the results of that delivery. The DESSA suite includes assessments and screeners that adapt to K-8 and 9-12 settings."
 
 DESSA observations can be completed by an array of school based staff and is based on student strengths aka positive behaviors. Raters are asked to submit responses based on a five point scale on how often students engage in a specific behavior over the last four weeks.
 
-[What is the DESSA?](https://selcompass.zendesk.com/hc/en-us/articles/360040521712-What-is-the-DESSA-and-what-does-it-measure-)
+>- [What is the DESSA?](https://selcompass.zendesk.com/hc/en-us/articles/360040521712-What-is-the-DESSA-and-what-does-it-measure-)
 
-[What is a T-Score?](https://selcompass.zendesk.com/hc/en-us/articles/360041397051-What-are-the-three-score-ranges-and-how-do-I-interpret-scores-)
+>- [What is a T-Score?](https://selcompass.zendesk.com/hc/en-us/articles/360041397051-What-are-the-three-score-ranges-and-how-do-I-interpret-scores-)
 
 ## City Year and DESSA
 
-City Year uses the DESSA as both an observational note catcher and a resource for materials that help us support students in any and all of the eight related SEL competencies rated on the DESSA.
+City Year uses the DESSA as both an observational note catcher and a resource for materials that help us differentiate student supports in specific competencies. DESSA helps us identify areas for studnet growth and provides us with some templates, resources and ideas to get started in working with students.
 
-To see a list of items on the DESSA reference the document below.
+To see a list of questions on the DESSA see the document below.
 
 ```pdf
    files/Items_on_DESSA_40.pdf
@@ -41,6 +41,12 @@ In FY22 Cit Year will be administering 3 DESSA ratings within the windows listed
 | DESSA Administration Round 2 Window 	| 3/28/2022  	| 4/8/2022   	|
 |   DESSA Observation Round 3 Window  	| 4/11/2022  	| 5/13/2022  	|
 | DESSA Administration Round 3 Window 	| 5/16/2022  	| 6/4/2021   	|
+
+The first rating is a baseline for all focus list students for first and second year ACMs. Team Leaders without SED students do not have to submit DESSA ratings.
+
+The second rating would be only for SED students meaning 5/11 students for first and second years and no students for Team Leaders.
+
+The third rating would again be for all students for first and second years. Team Leaders would not submit DESSA ratings for their students.
 
 ## DESSA Ratings
 
