@@ -1,6 +1,6 @@
 # Devereux Student Strengths Assessment
 
-Last Update: 1/14/2021 @ 12:20pm
+Last Update: 1/14/2021 @ 12:50pm
 
 ## What is DESSA?
 
@@ -12,9 +12,9 @@ As noted by Aperture Education:
 
 DESSA observations can be completed by an array of school based staff and is based on student strengths aka positive behaviors. Raters are asked to submit responses based on a five point scale on how often students engage in a specific behavior over the last four weeks.
 
->- [What is the DESSA?](https://selcompass.zendesk.com/hc/en-us/articles/360040521712-What-is-the-DESSA-and-what-does-it-measure-)
+[What is the DESSA?](https://selcompass.zendesk.com/hc/en-us/articles/360040521712-What-is-the-DESSA-and-what-does-it-measure-)
 
->- [What is a T-Score?](https://selcompass.zendesk.com/hc/en-us/articles/360041397051-What-are-the-three-score-ranges-and-how-do-I-interpret-scores-)
+[What is a T-Score?](https://selcompass.zendesk.com/hc/en-us/articles/360041397051-What-are-the-three-score-ranges-and-how-do-I-interpret-scores-)
 
 ## City Year and DESSA
 
@@ -90,3 +90,22 @@ Some helpful how to guides, information and external links can be found below. I
 >- [SEL Evo Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
 >- [SEL Evo Login Link](https://sel.datalinkevo.com/#/login)
 >- [DESSA Website Orientation Guide](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Orientation to SEL Evo.pdf>)
+
+## DESSA FAQ
+
+Q: How many DESSA ratings are we submitting in FY22?
+> A: Each ACM (excluding TLs) should submit 3 ratings per focus list student over the course of the year.
+
+Q: Do team leaders submit DESSA ratings?
+> A: No team leaders do not submit DESSA ratings for their students. They can opt in to rating students but they are not required.
+
+Q: What do I do if I need to delete a rating?
+> A: Sometimes you may incorrectly submit a rating for the wrong student or submit a duplicate rating. If you need to remove a DESSA rating please contact the Impact Analytics team via email to request a record be removed. (Karen Mayorga and Zack Latade)
+
+Q: Where is my student? I dont see my student in the SELEvo site?
+> A: Students will only appear in the SELEvo site for rating if they were first enrolled in ACM sections on CYSchoolhouse. After enrollment in CYSchoolhouse it will take one buisness day for the student records to show up in in the DESSA system. Talk to your PM about student enrollment if they are missing. If you continue to have problems finding a student contact the Impact Analytics team (Karen Mayorga kmayorga-pasillas@cityyear.org; Zack Latade Zlatade@cityyear.org)
+
+Q: Why must I submit a rating for each question? What if I didnt see the given behavior to submit a response?
+> A: At this time there is no opt out option on the DESSA and City Year is unable to change the questions and rating scales. The best solution to this challenge is to observe your students for a month prior to rating so that you can give a response to each question/competency when the time comes.
+
+For any other questions, feedback and conserns please reach out to Crystal Ramirez and the Impact Analytics team (Karen Mayorga kmayorga-pasillas@cityyear.org; Zack Latade Zlatade@cityyear.org).
