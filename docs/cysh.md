@@ -101,7 +101,7 @@ Finding and managing your sections can be made easier by customizing your view t
 
 ## *TLs Adding Time in CYSH*
 
-When you are ready to backlog your time from your papertrackers to CYSH, use the document below to see how to enter that time into your sections.
+When you are ready to backlog your time from your papertrackers to CYSH, use the document below to see how to enter that time into your sections. View HQ Resource [here.](https://bit.ly/3uvAdWe)
 
 ```pdf
    files/CYSH_TL_Enter Time.pdf
@@ -127,7 +127,7 @@ Hello ACMs! If you are here, it means you have recieved the time tracking traini
 
 ## *Adding Time in CYSH*
 
-When you are ready to start backlogging time from your papertrackers into CYSH, follow the steps below to learn how to enter the time into the platform.
+When you are ready to start backlogging time from your papertrackers into CYSH, follow the steps below to learn how to enter the time into the platform. View HQ resrouces [here.](https://bit.ly/3sn70ub)
 
 ```pdf
    files/CYSH_ACM_Enter Time.pdf
