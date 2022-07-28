@@ -131,7 +131,7 @@ Once a given day has been **fully backlogged** you can hide the columns from tha
 Once you enter data into the “Time Entry Roster” you can go to the ELT data page and load in cleaned data that will give you useful information about your ELT program. Analytics should refresh this page once a day but if you need to update it sooner you can do so by opening the ELT workbooks in a desktop version of Excel and clicking on the refresh all button. 
 
 <p align="center">
-<img src="_images/ELT_Refresh.PNG" alt="ELT_Refresh" style="width:70%;"/>
+<img src="_images/ELT_Refresh.png" alt="ELT_Refresh" style="width:70%;"/>
 </p>
 
 For a full video walkthrough of the ELT data page see the video below.
