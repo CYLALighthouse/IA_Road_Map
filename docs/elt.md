@@ -22,27 +22,27 @@ Extended Learning Time is no small portion of the corps member experience! While
 The Items below are tasks that team leaders should regularly complete to ensure ELT data is properly managed.
 
 >- [ ] Team Leaders collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
->   	- All fields in orange must be present before a student can attend ELT.
->   	- Incomplete ELT applications should be sent back home with students.
+>   - All fields in orange must be present before a student can attend ELT.
+>   - Incomplete ELT applications should be sent back home with students.
 >- [ ] Team Leaders build out a list of students who are attending your ELT program on the “Print Roster” and "Time Entry Roster" pages of your ELT workbooks.
->   	- Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
+>   - Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
 >- [ ] Team Leaders record all student time in and time out is recorded in the “Time Entry Roster” page of the ELT workbook.
->   	- This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
+>   - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
 >- [ ] Team Leaders work with PMs to periodically review ELT Dashboards to make improvements to programming.
->   	- Reviewing "Dashboard" page, submitted ELT applications, Focus Lists in ELT and other key metrics.
+>   - Reviewing "Dashboard" page, submitted ELT applications, Focus Lists in ELT and other key metrics.
 >- [ ] Talk to the Impact Analytics questions when you have:
->   	- Questions about ELT data tasks
->   	- Issues with workbooks
->   	- Feedback for tool improvement
->   	- Data isn’t refreshing properly
->   	- (zlatade@cityyear.org)
+>   - Questions about ELT data tasks
+>   - Issues with workbooks
+>   - Feedback for tool improvement
+>   - Data isn’t refreshing properly
+>   - (zlatade@cityyear.org)
 
 
 <p align="center">
 <img src="_images/elt-wbksteps.PNG" alt="CYSH_Select All_Students" style="width:100%;"/>
 </p>
 
-<body><h3 style="background-color:orange;"><c style=color:white;">ELT Data Management </h3></body>
+<body><h3 style="background-color:orange;"><c style="color:white;"> ELT Data Management </h3></body>
 
 ### What are we doing again with ELT Workbooks?
 
@@ -158,7 +158,8 @@ See the table below for a description of each of the metrics on the ELT workbook
 |            Avg. Time Per Student           | The   total number of hours in ELT will be divided by the total number of students   to give an average amount of ELT hours per student. This gives a general   sense of how much cumulative time a student has spent in your ELT program.   The more consistently a student attends ELT the higher the average will be.                                                              |   |   |   |   |   |   |   |   |   |
 |                   ELT ADA                  | This   metric takes the total days that your ELT program has recorded time with   students and divides it by the total sessions that students have recorded in   your ELT program. EG 240 sessions divided by the possible sessions that could   have been earned (20 students attending 20 possible days of ELT = 400   possible sessions. (Actual sessions/possible sessions = ADA) |   |   |   |   |   |   |   |   |   |
 |               ELT ADA for FL               | This   metric takes the same logic as above but is filtered to only focus list   students for the given corps member. This metric will give you an average   daily attendance rate for an active focus list for that given ACM.                                                                                                                                                       |   |   |   |   |   |   |   |   |   |
-| *Total Hours In Optional Pilot Programming | *This   is only for schools who are running pilot programs like STEM to the Future or   other curriculums that must be tracked separately than normal ELT attendance   time. Unless you are part of the ITAV pueblo or another school with pilot   programming you can ignore this column.                                                                                            |   |   |   |   |   |   |   |   |   |
+| *Total Hours In Optional Pilot Programming* | This   is only for schools who are running pilot programs like STEM to the Future or   other curriculums that must be tracked separately than normal ELT attendance   time. Unless you are part of the ITAV pueblo or another school with pilot   programming you can ignore this column.                                                                                            |   |   |   |   |   |   |   |   |   |
+
 
 ### How to hide student records
 
