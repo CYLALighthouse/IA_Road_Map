@@ -87,8 +87,8 @@ As a corps member or program manager you may want to run multiple ratings for a 
 
 Some helpful how to guides, information and external links can be found below. If you ahve other questions about DESSA please contact Crystal Ramirez or Karen Mayorga.
 
->- [SEL Evo Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
->- [SEL Evo Login Link](https://sel.datalinkevo.com/#/login)
+>- [Aperture Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
+>- [Aperture Login Link](https://sel.datalinkevo.com/#/login)
 >- [DESSA Website Orientation Guide](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Orientation to SEL Evo.pdf>)
 
 ## DESSA FAQ
