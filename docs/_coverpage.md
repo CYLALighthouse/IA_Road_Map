@@ -6,8 +6,8 @@
 
 > Welcome to the Impact Analytics Road Map! You can think of this as a How to Guide and checklist for all service model things that involve or relate to data. Follow the table of contents links below for more details on topics organized chronologically over the year.
 
-- Roadmap version #1.9
-- Date Updated: 7/27/2022 @ 2:00 pm
+- Roadmap version #2.0
+- Date Updated: 10/19/2023 @10:10 am
 
 [Get Started](README.md)
   
