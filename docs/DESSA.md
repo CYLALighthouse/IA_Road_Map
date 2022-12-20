@@ -31,26 +31,26 @@ For a full list of questions you will be asked when submitting a rating see the 
 ```pdf
    files/DESSA_40_Printable.pdf
 ```
-In FY22 Cit Year will be administering 3 DESSA ratings within the windows listed below. Schools have some flexiblity with these windows but should consult with their PD and Impact Analytics.
+In FY23 Cit Year will be administering 3 DESSA ratings within the windows listed below. Schools have some flexiblity with these windows but should consult with their PD and Impact Analytics.
 
-|                 Item                	|    Start   	|     End    	|
-|:-----------------------------------:	|:----------:	|:----------:	|
-|   DESSA Observation Round 1 Window  	| 10/18/2021 	| 12/3/2021 	|
-| DESSA Administration Round 1 Window 	| 11/29/2021 	| 1/14/2021 	|
-|   DESSA Observation Round 2 Window  	| 2/28/2022  	| 4/1/2022  	|
-| DESSA Administration Round 2 Window 	| 4/4/2022  	| 4/8/2022   	|
-|   DESSA Observation Round 3 Window  	| 4/11/2022  	| 5/13/2022  	|
-| DESSA Administration Round 3 Window 	| 5/16/2022  	| 6/4/2021   	|
+|                 Item                	|    Start   	|     End    	|       Who?     |
+|:-----------------------------------:	|:----------:	|:----------:	|:--------------:|
+|   DESSA Observation Round 1 Window  	| 10/03/2022 	| 11/04/2022 	| All Focus List |
+| DESSA Administration Round 1 Window 	| 10/31/2022 	| 11/04/2022 	| All Focus List |
+|   DESSA Observation Round 2 Window  	| 2/06/2023  	| 3/03/2023  	| SED Only       |
+| DESSA Administration Round 2 Window 	| 3/06/2023  	| 3/17/2023   	| SED Only       |
+|   DESSA Observation Round 3 Window  	| 4/24/2023  	| 5/19/2023  	| All Focus List |
+| DESSA Administration Round 3 Window 	| 5/22/2023  	| 6/02/2023   	| All Focus List |
 
-The first rating is a baseline for all focus list students for first and second year ACMs. Team Leaders without SED students do not have to submit DESSA ratings.
+The first rating is a baseline for all focus list students (11 students) for all ACMs.
 
-The second rating would be only for SED students meaning 5/11 students for first and second years and no students for Team Leaders.
+The second rating would be only for SED students meaning 5 out of 11 students for first and second years and no students for Team Leaders.
 
-The third rating would again be for all students for first and second years. Team Leaders would not submit DESSA ratings for their students.
+The third rating would again be for all students (11 students) for all ACMs.
 
 ## DESSA Ratings
 
-See below for a quick walkthrough of how to submit a DESSA 40 rating. Note that before you can submit a rating you must have focus list students enrolled in CYSchoolhouse and those students must be assigned an indicator area. Confirm with your PM if these tasks have been completed prior to submitting a rating.
+See below for a quick walkthrough of how to submit a DESSA 40 rating. Note that before you can submit a rating you must have focus list students enrolled in CYSchoolhouse. Confirm with your PM if these tasks have been completed prior to submitting a rating.
 
 ```pdf
    files/Completing_a_DESSA_40_Rating.pdf
@@ -61,7 +61,7 @@ For visual learners see the Stream video below for how to complete a DESSA ratin
 
 ## DESSA Reports
 
-The SELEvo site has come along way recently in improving the in house reporting capabilities of DESSA ratings. For a quick overview of the basics see the video below.
+The Aperture site has come along way recently in improving the in house reporting capabilities of DESSA ratings. For a quick overview of the basics see the video below.
 
    <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/e9add909-348a-40d8-a50a-b9549b28327d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
@@ -79,7 +79,7 @@ If you are a corps member and you just want to see a single rating for a single 
  
 ### Multi-Rating or Multi-Student Reports
 
-As a corps member or program manager you may want to run multiple ratings for a single student or run a single rating for multiple students. This report is great for spotting trends and growth over time. Note that this report will only function once two ratings are in SELEvo.
+As a corps member or program manager you may want to run multiple ratings for a single student or run a single rating for multiple students. This report is great for spotting trends and growth over time. Note that this report will only function once two ratings are in Aperture.
 
    <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/3da2dd4f-231e-4f65-91b1-fa6cd3a0df4f?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
@@ -87,13 +87,13 @@ As a corps member or program manager you may want to run multiple ratings for a 
 
 Some helpful how to guides, information and external links can be found below. If you ahve other questions about DESSA please contact Crystal Ramirez or Karen Mayorga.
 
->- [SEL Evo Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
->- [SEL Evo Login Link](https://sel.datalinkevo.com/#/login)
+>- [Aperture Account Setup](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Setting Up SEL Evo Password and Okta Single Sign-On.pdf>)
+>- [Aperture Login Link](https://sel.datalinkevo.com/#/login)
 >- [DESSA Website Orientation Guide](<https://cityyear.sharepoint.com/teams/programs/wswc/sed/SE Resource Library/Orientation to SEL Evo.pdf>)
 
 ## DESSA FAQ
 
-Q: How many DESSA ratings are we submitting in FY22?
+Q: How many DESSA ratings are we submitting in FY23?
 > A: Each ACM (excluding TLs) should submit 3 ratings per focus list student over the course of the year.
 
 Q: Do team leaders submit DESSA ratings?
@@ -102,8 +102,8 @@ Q: Do team leaders submit DESSA ratings?
 Q: What do I do if I need to delete a rating?
 > A: Sometimes you may incorrectly submit a rating for the wrong student or submit a duplicate rating. If you need to remove a DESSA rating please contact the Impact Analytics team via email to request a record be removed. (Karen Mayorga and Zack Latade)
 
-Q: Where is my student? I dont see my student in the SELEvo site?
-> A: Students will only appear in the SELEvo site for rating if they were first enrolled in ACM sections on CYSchoolhouse. After enrollment in CYSchoolhouse it will take one buisness day for the student records to show up in in the DESSA system. Talk to your PM about student enrollment if they are missing. If you continue to have problems finding a student contact the Impact Analytics team (Karen Mayorga kmayorga-pasillas@cityyear.org; Zack Latade Zlatade@cityyear.org)
+Q: Where is my student? I dont see my student in the Aperture site?
+> A: Students will only appear in the Aperture site for rating if they were first enrolled in ACM sections on CYSchoolhouse. After enrollment in CYSchoolhouse it will take one buisness day for the student records to show up in in the DESSA system. Talk to your PM about student enrollment if they are missing. If you continue to have problems finding a student contact the Impact Analytics team (Karen Mayorga kmayorga-pasillas@cityyear.org; Zack Latade Zlatade@cityyear.org)
 
 Q: Why must I submit a rating for each question? What if I didnt see the given behavior to submit a response?
 > A: At this time there is no opt out option on the DESSA and City Year is unable to change the questions and rating scales. The best solution to this challenge is to observe your students for a month prior to rating so that you can give a response to each question/competency when the time comes.
