@@ -4,18 +4,16 @@
 <img src="_images/ELT.png" alt="ELT" style="width:30%;"/>
 </p>
 
-Extended Learning Time is no small portion of the corps member experience! While we dont want to add extra unessisary work on top of an already long day there are some key things that need to be done and tracked in ELT to keep your students safe and ensure that all of our partners and governmental obligations are being met. To that end we are making some changes to ELT processes in FY22 in the hopes to reduce the workload of managing ELT. See the basic checklist below for a review of the needed actions for ELT data management. 
+Extended Learning Time is no small portion of the corps member experience! While we dont want to add extra unessisary work on top of an already long day there are some key things that need to be done and tracked in ELT to keep your students safe and ensure that all of our partners and governmental obligations are being met. Below you will find the ELT processes for FY25 in the hopes to reduce the workload of managing ELT. See the basic checklist below for a review of the needed actions for ELT data management. 
 
 
 
 ## Key Links for ELT
 
->- [ELT Workbooks on CYconnect](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/Pages/My-Progress-Monitoring.aspx)
 >- [Ongoing ELT FAQ](https://cityyear.sharepoint.com/:w:/r/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY23/FY23%20ELT/FY23%20ELT%20Data%20Management%20FAQ.docx?d=w93c25554d06d459686c7be27712fe290&csf=1&web=1&e=iKFtXf)
->- [Senior Corps ELT Library on CYconnect](https://cityyear.sharepoint.com/:f:/r/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY23/FY23%20ELT?csf=1&web=1&e=ElQnT3)
->- [Template ELT Applictions in English and Spanish](https://cityyear.sharepoint.com/:w:/r/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY23/FY23%20ELT/FY23_After%20School%20Participation%20Form_English_Spanish%20Final.docx?d=w0b3d818d99814085848ae63c0bc10e57&csf=1&web=1&e=YAUBER)
->- [ELT Data Management Session Recording](https://web.microsoftstream.com/video/5362e60f-c338-488f-aaa2-098aeab6ac7b)
->- [ELT Data Management Session PPT](https://cityyear.sharepoint.com/:p:/r/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY23/FY23%20ELT/ELT%20Data%20Management/FY23%20ELT%20Data%20Management%20Overview.pptx?d=we81f212cdf9949e5a4d74e837b3d729f&csf=1&web=1&e=2wrOlm)
+>- [Template ELT Applictions in English and Spanish](https://cityyear.sharepoint.com/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY25/Extended%20Learning%20Time/ELT%20Attendance%20Sessions%20and%20Resources/FY25_After%20School%20Participation%20Form_English_Spanish%20Final.docx?d=w69491e7e4aaf4b4782ed026be73fa56a&csf=1&web=1&e=I8IxIP)
+>- [ELT Data Management Session Recording](https://cityyear.sharepoint.com/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY25/Extended%20Learning%20Time/ELT%20Attendance%20Sessions%20and%20Resources/video1971494710.mp4?csf=1&web=1&e=r4xOwh)
+>- [ELT Data Management Session PPT](https://cityyear.sharepoint.com/sites/LAC-ACM-SeniorCorps/Shared%20Documents/Senior%20Corps/FY25/Extended%20Learning%20Time/ELT%20Attendance%20Sessions%20and%20Resources/FY25%20ELT%20Data%20Management%20Overview.pptx?d=w3471f8705d9a4b4da295859de2913da8&csf=1&web=1&e=hbnPkq)
 
 ## Checklist for ELT Workbook Tasks
 
@@ -24,9 +22,11 @@ The Items below are tasks that team leaders should regularly complete to ensure 
 >- [ ] Team Leaders collect all ELT applications and digitize their records in the “ELT Applications” page of the ELT Roster.
 >   - All fields in orange must be present before a student can attend ELT.
 >   - Incomplete ELT applications should be sent back home with students.
+>	- Highlight the pieces that are missing and make sure ACM Name is at the top of the Application.
 >- [ ] Team Leaders build out a list of students who are attending your ELT program on the “Print Roster” and "Time Entry Roster" pages of your ELT workbooks.
 >   - Don’t forget to match student names up between the name coming from the “Student Records” page and the “Paper Applications” page. This helps you ensure all students in your program have a completed application!
 >- [ ] Team Leaders record all student time in and time out is recorded in the “Time Entry Roster” page of the ELT workbook.
+>	- Though the responsibility falls on the Team Leader please know that you can request support form your team and they can help you with backlogging or logging time.
 >   - This helps us communicate to partners how many students are in our after school program and answer questions about student attendance, arrival and departure.
 >- [ ] Team Leaders work with PMs to periodically review ELT Dashboards to make improvements to programming.
 >   - Reviewing "Dashboard" page, submitted ELT applications, Focus Lists in ELT and other key metrics.
@@ -46,14 +46,14 @@ The Items below are tasks that team leaders should regularly complete to ensure 
 
 ### What are we doing again with ELT Workbooks?
 
-City Year needs to make sure that we get guardian consent for any student participating in after school. City Year also needs to ensure that when students come to our program that we are keeping track of the **total time** they spend in our program so that we can report to guardians, school partners and external partners the scope of our program overall and individual student participation. In prior years we would do this by using CYSchoolhouse to track total time in ELT but student records might have been missing and the extra steps in using CYSchoolhouse complicated the work. In FY23 we are trying to reduce the workload of ELT data processes and comply with new expectations from our districts to track ELT time only in Excel. Each team should be given at least one Desktop computer that will allow you to use your ELT workbooks in Excel but if you have tech challenges please let the Analytics team know.
+City Year needs to make sure that we get guardian consent for any student participating in after school. City Year also needs to ensure that when students come to our program that we are keeping track of the **total time** they spend in our program so that we can report to guardians, school partners and external partners the scope of our program overall and individual student participation. In prior years we would do this by using CYSchoolhouse to track total time in ELT but student records might have been missing and the extra steps in using CYSchoolhouse complicated the work. Back in FY23, we were trying to reduce the workload of ELT data processes and comply with new expectations from our districts to track ELT time only in Excel. Each team should be given at least one Desktop computer that will allow you to use your ELT workbooks in Excel but if you have tech challenges please let the Analytics team know.
 
 **Team leaders** are responsible for making sure data processes happen for their school as outlined in the five items below:
 
 1.	Printing and distributing ELT applications to students in English and Spanish.
 2.	Digitizing returned ELT applications and ensuring all key application fields are properly filled out
 3.	Building out ELT print rosters and/or keeping ELT time tracking up to date weekly in Excel
-4. Ensuring time entry happens accurately for all students in Excel in a timely manner.
+4. Ensuring time entry happens accurately for all students in Excel in a timely manner. No more then 2 weeks of backlogging.
 5. Reviewing ELT data for your school and seeking to improve your program.
 
 The ELT workbooks will help you complete these tasks and hopefully with a combination of resources, videos and regular office hours with Analytics we can get a regular cadence going to make this work easy.
