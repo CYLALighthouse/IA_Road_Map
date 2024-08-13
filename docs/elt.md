@@ -79,7 +79,7 @@ See below for a walkthrough of each part of the ELT data management process.
 
 ### ELT Applications (Every Student Needs One)
 
-As part of our data agreement with LAUSD all students will need to have an ELT application on file **BEFORE** attending after school programming in FY23. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). Additionally if there is a medical emergency with a student we need to know who to contact or if they have medical insurance.
+As part of our data agreement with LAUSD all students will need to have an ELT application on file **BEFORE** attending after school programming in FY25. If a student attends ELT without an application City Year runs the risk of being sued if anything happens to the child while they are in the care of City Year (This has happened in the past). Additionally if there is a medical emergency with a student we need to know who to contact or if they have medical insurance.
 
 To ensure that we are protecting ourselves legally AND that we are keeping students safe by having emergency contact information on hand for our students we will need all students to have an ELT application and to have that application digitized into the ELT workbooks on Cyconnect. The Students App status should be listed as "Complete" before they are allowed to attend the program.
 
@@ -102,7 +102,7 @@ When you enter a students ELT application you want to see if the parent/guardian
 
 If you are unable to find the students ID you can “make up” an ID for the student until such a time that you can find the students real ID and update it on the ELT application.
 
-You will want to periodically check and update student IDs to prevent creating duplicate student records. Note that student records can come from two places: Either the ELT applications you are typing into the workbook or the five column roster enrollment reports from the schools. It is possible student records can be duplicated from both applications and the student enrollment which would cause duplicates. Team leaders should look for duplicate records and update them to use the "Five Column Rosters" student name and ID if it is available.
+You will want to periodically check and update student IDs to prevent creating duplicate student records. Note that student records can come from two places: Either the ELT applications you are typing into the workbook or the five column roster enrollment reports from the schools. It is possible student records can be duplicated from both applications and the student enrollment which would cause duplicates. Team leaders should look for duplicate records and update them to use the "LAUSD Data" student name and ID if it is available.
 
 See below for a full video on the Student Records page.
 
@@ -112,13 +112,13 @@ See below for a full video on the Student Records page.
 
 The ELT print roster is designed to be a template to print pre-populated attendance trackers for ELT. We recommend you use paper trackers to physically track time with students but if you prefer to enter ELT time directly into the “Time Entry Roster” page you can opt out of printing rosters weekly.
 
-Note that to use the Print Roster you will need to select ACMs and Students from the dropdowns on the roster and update the dropdown for the given week to keep the dates matching for the given week. For a full overview video on the Print Roster page see below:
+Note that to use the Print Roster you can select ACMs and Students from the dropdowns on the roster and update the dropdown for the given week to keep the dates matching for the given week. For a full overview video on the Print Roster page see below:
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/cf216575-20d0-40a2-b624-e2e285e7b54a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></div></div>
 
 ### ELT Entry Roster
 
-If you have done the previous steps of entering student ELT applications, updating the “student records” page, filled out the optional print roster and begun your ELT program you are ready to start tracking ELT attendance time with students. Like the print roster page you will need to fill out the students who will be attending ELT, as well as do some name matching between the student records and ELT applications page to ensure no duplicate students. Once your student info has been put in Columns B:D then you are all set to record time in an time out with students.
+If you have done the previous steps of entering student ELT applications, updating the “student records” page, filled out the optional print roster and begun your ELT program you are ready to start tracking ELT attendance time with students. Like the print roster page you will need to fill out the students who will be attending ELT, as well as do some name matching between the student records and ELT applications page to ensure no duplicate students. Once your student info has been put in Student Name (from Records) and Student Name (from Application) then you are all set to record time in an time out with students.
 
 Note that there is a field for each day titled "Pilot Min." which is for schools conducting pilot programming like STEM to the future. If your school is not running a pilot program you can always leave this field blank.
 
@@ -128,7 +128,7 @@ Once a given day has been **fully backlogged** you can hide the columns from tha
 
 ### ELT Data
 
-Once you enter data into the “Time Entry Roster” you can go to the ELT data page and load in cleaned data that will give you useful information about your ELT program. Analytics should refresh this page once a day but if you need to update it sooner you can do so by opening the ELT workbooks in a desktop version of Excel and clicking on the refresh all button. 
+Once you enter data into the “Time Entry Roster” you can go to the ELT data page and load in cleaned data that will give you useful information about your ELT program. Analytics should refresh this page 2-3 times a week but if you need to update it sooner you can do so by opening the ELT workbooks in a desktop version of Excel and clicking on the refresh all button. Or by simply messaging Zack Latade on teams or email. 
 
 <p align="center">
 <img src="_images/ELT_Refresh.png" alt="ELT_Refresh" style="width:70%;"/>
